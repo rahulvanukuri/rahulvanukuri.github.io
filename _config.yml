@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Shahedur Rahman"
-  avatar           : "Zahid.jpg"
+  avatar           : "My Picture.JPG.jpg"
   bio              : "Ph.D. Student in Department of Computer Science at The University of Texas at Arlington"
   location         : "Arlington, Texas"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=j4grcooAAAAJ&hl=en"
+  googlescholar    : ""
   email            : "mxr7980@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zahidur-rahim-talukder-784b89218"
+  linkedin         : "https://www.linkedin.com/in/m-shahed/"
   orcid            : 
   pinterest        :
   soundcloud       :
