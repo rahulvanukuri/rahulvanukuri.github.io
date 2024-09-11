@@ -16,8 +16,12 @@ I am deeply passionate about the applications of machine learning and algorithms
 
 ## News
 **August 2023:** Started my PhD Journey at the Rigourious Design Lab (RiDL) at the University of Texas at Arlington . 
+
 **January 2020:** Awarded a gold medal from the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree . 
+
 **October 2010:** Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA) . 
+
 **March 2007:** Awarded a gold medal by the Governor of the Central Bank (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade) . 
+
 
 Feel free to reach out if you have any questions or would like to collaborate on research projects!
