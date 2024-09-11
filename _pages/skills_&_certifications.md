@@ -17,7 +17,7 @@ author_profile: true
             text-align: center;
         }
         h1 {
-            font-size: 28px;
+            font-size: 32px;
             margin-bottom: 20px;
             color: #333;
         }
@@ -34,12 +34,17 @@ author_profile: true
             align-items: center;
         }
         .skill img {
-            width: 50px; /* Adjust icon size */
+            width: 60px; /* Icon size */
             margin-bottom: 10px;
         }
         p {
             text-align: center;
             margin: 0;
+            font-size: 16px;
+        }
+        .subtext {
+            font-size: 14px;
+            color: #777;
         }
     </style>
 </head>
@@ -49,51 +54,51 @@ author_profile: true
 
 <div class="skills-section">
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Programming Icon">
-        <p>Python, C++, Java, SQL, Bash</p>
-        <p>Programming Languages</p>
+        <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
+        <p>Python, C, SQL, Bash</p>
+        <p class="subtext">Programming Languages</p>
     </div>
     
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Kubernetes & Docker Icon">
+        <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker Icon">
         <p>Kubernetes, Docker</p>
-        <p>Container Orchestration</p>
+        <p class="subtext">Container Orchestration</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Icon">
+        <img src="https://img.wazobia.tech/https://sytbuildr.s3.eu-west-2.amazonaws.com/0406191c-f351-4a58-b164-b9521b3d78c5/pPiPr6x4Puc7Z0WSt7Ly5zuzEnmh6WK0pszC2X3K.png?tr=w-1500" alt="Cloud Icon">
         <p>AWS, GCP</p>
-        <p>Cloud Computing</p>
+        <p class="subtext">Cloud Computing</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform Icon">
+        <img src="https://img.icons8.com/color/96/000000/terraform.png" alt="Terraform Icon">
         <p>Terraform, AWS CDK</p>
-        <p>Infrastructure-as-Code</p>
+        <p class="subtext">Infrastructure-as-Code</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana Icon">
+        <img src="https://img.icons8.com/color/96/000000/grafana.png" alt="Grafana Icon">
         <p>Prometheus, Grafana, Jaeger</p>
-        <p>Monitoring and Metrics</p>
+        <p class="subtext">Monitoring and Metrics</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database Icon">
+        <img src="https://img.icons8.com/color/96/000000/database.png" alt="Database Icon">
         <p>MySQL, MongoDB</p>
-        <p>Databases</p>
+        <p class="subtext">Databases</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/server.png" alt="Server Icon">
+        <img src="https://img.icons8.com/color/96/000000/server.png" alt="Server Icon">
         <p>Flux, Slurm</p>
-        <p>High Performance Computing Frameworks</p>
+        <p class="subtext">High Performance Computing Frameworks</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux Icon">
+        <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
         <p>Linux</p>
-        <p>Operating System</p>
+        <p class="subtext">Operating System</p>
     </div>
 </div>
 
