@@ -1,13 +1,3 @@
----
-permalink: /
-title: "Biography"
-excerpt: "Biography"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,12 +5,18 @@ redirect_from:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biography</title>
     <style>
+        body {
+            font-family: Arial, sans-serif; /* Optional: Set a default font */
+        }
         a {
-            text-decoration: none !important; /* Forces the removal of underlines */
-            color: #1a0dab; /* Optional: customize link color */
+            text-decoration: none !important; /* Ensures no underlines */
+            color: #1a0dab; /* Customize the color for links */
         }
         a:hover {
             text-decoration: underline; /* Optional: underline on hover */
+        }
+        p {
+            text-align: justify; /* Justify paragraph text */
         }
     </style>
 </head>
@@ -30,7 +26,7 @@ redirect_from:
 
 <p>I am a Ph.D. student in the Computer Science department at the University of Texas at Arlington, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
-<p>Before starting my Ph.D., I accumulated over 12 years of professional experience in roles such as Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
+<p>Before starting my Ph.D., I accumulated over 12 years of professional experience in Bangladesh in roles such as Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
 
 <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security from <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https:/www.du.ac.bd/">University of Dhaka (DU)</a>. I began my Ph.D. journey in the Fall of 2023.</p>
 
@@ -52,4 +48,3 @@ redirect_from:
 
 </body>
 </html>
-
