@@ -62,9 +62,9 @@ author_profile: true
     <div class="skill">
         <span>
         <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker Icon">
-        <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Kubernetes Icon">        
+        <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png="Kubernetes Icon">        
         </span>
-        <p>Kubernetes, Docker</p>
+        <p>Docker, Kubernetes</p>
         <p class="subtext">Container Orchestration</p>
     </div>
 
