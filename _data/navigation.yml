@@ -1,14 +1,26 @@
 # main links links
 main:
-  - title: "Resume"
-    url: https://zahidurtalukder.github.io/files/Zahid_resume_2023.pdf
+  - title: "Experiences"
+    url: https://mdshahedrahman.github.io/blob/master/_pages/Experience.md
     
+  - title: "Projects"
+    url: /publications/
+
+  - title: "Professional Affiliations"
+    url: /publications/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Teaching Assistantship"
     url: /teaching/
-    
+
+  - title: "Awards"
+    url: 
+
+  - title: "Resume"
+    url: https://zahidurtalukder.github.io/files/Zahid_resume_2023.pdf
+  
   - title: "CV"
     url: https://zahidurtalukder.github.io/files/Zahidur_CV_2023.pdf
     
