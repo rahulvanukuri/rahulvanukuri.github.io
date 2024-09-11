@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Skills & Certifications"
-permalink: /Skills & Certifications/
+permalink: /skills-certifications/
 author_profile: true
 ---
 
@@ -28,8 +28,7 @@ author_profile: true
 </head>
 <body>
 
-
-<h2>Skills</h2>
+<h1>Skills</h1>
 <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
 <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
@@ -38,7 +37,7 @@ author_profile: true
 
 ---
 
-<h2>Certifications</h2>
+<h1>Certifications</h1>
 
 <p><strong>August 2023:</strong> Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
 
