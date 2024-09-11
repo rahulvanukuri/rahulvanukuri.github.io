@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Biography"
+excerpt: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Mohammad Shahedur Rahman, a Ph.D. student in the Department of Computer Science and Engineering at The University of Texas at Arlington, under the supervision of <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a>. I earned my B.Sc. in Computer Science and Engineering (CSE) from Bangladesh University of Engineering and Technology (BUET) in 2011, followed by a Masters in Information Systems Security from Bangladesh University of Professionals (BUP) with a perfect CGPA and Presidential gold medal in 2018, also obtain an Masters in Business Administration (MBA) from the University of Dhaka. I commenced my Ph.D. journey in the Fall of 2023.
+I am a Ph.D. student in the Computer Science department at the University of Texas at Arlington, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam serves as my doctoral advisor. My research centers around high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices. 
 
-My research is centered on the theoretical, empirical, and security aspects of algorithms and machine learning. Specifically, I focus on federated learning, where I have been working on efficient data and client handling. My contributions include developing self-regulating clients that can manage data-level errors and innovating new aggregation techniques for servers in federated learning environments.
+Before enrolling in the Ph.D. program, I had over 12 years of professional experience, holding critical positions like Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC and IT auditor and IT security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT) funded by the <a href="https://crystal.uta.edu/~mislam/">World Bank. I also bring extensive cybersecurity, risk management, and IT auditing expertise from my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh, one of the Big Four accounting firms. 
 
-I am deeply passionate about the applications of machine learning and algorithms, striving to create secure and efficient solutions. My work aims to address significant challenges in data privacy, AI sustainability, and fairness in heterogeneous federated learning systems. As a recognized Machine Learning and Systems Rising Star of 2024, I am dedicated to advancing the field and making impactful contributions.
+In 2011, I earned a B.Sc. in Computer Science and Engineering (CSE) from Bangladesh University of Engineering and Technology (<a href="https://www.buet.ac.bd/web/#/">BUET). Later, I pursued a Master’s in Information Systems Security from Bangladesh University of Professionals (<a href="https://bup.edu.bd/">BUP) in 2018, where I graduated with a perfect CGPA and was awarded the Presidential gold medal. Additionally, I completed a Master’s in Business Administration (MBA) from the University of Dhaka (<a href="https:/www.du.ac.bd/">DU) . I commenced my Ph.D. journey in the Fall of 2023.
 
 ## News
 **August 2023:** Started my PhD Journey at the Rigourious Design Lab (RiDL) at the University of Texas at Arlington . 
