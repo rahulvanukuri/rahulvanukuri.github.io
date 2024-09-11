@@ -13,7 +13,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    
     <style>
         body {
             font-family: Arial, sans-serif; /* Optional: Set a default font */
