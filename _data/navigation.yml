@@ -4,7 +4,7 @@ main:
     url: https://mdshahedrahman.github.io/blob/master/_pages/Experience.md
 
   - title: "Skills & Certifications"
-    url: https://mdshahedrahman.github.io/blob/master/_pages/Skills.md
+    url: /skills_&_certifications/
 
   - title: "Awards & Affiliations"
     url: https://mdshahedrahman.github.io/blob/master/_pages/Awards.md
