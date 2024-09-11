@@ -60,8 +60,10 @@ author_profile: true
     </div>
     
     <div class="skill">
+        <span>
         <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker Icon">
         <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Kubernetes Icon">        
+        </span>
         <p>Kubernetes, Docker</p>
         <p class="subtext">Container Orchestration</p>
     </div>
