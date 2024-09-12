@@ -115,8 +115,8 @@ redirect_from:
             font-size: 22px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-top: 20px;
-            margin-bottom: 20px;
+            margin-top: 0px;
+            margin-bottom: 0px;
             position: relative;
         }
 
