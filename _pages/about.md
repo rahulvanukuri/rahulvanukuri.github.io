@@ -18,37 +18,36 @@ redirect_from:
             font-family: 'Lato', Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f7f6;
+            background-color: #f2f5f8; /* Softer background for comfort */
             color: #333;
-            line-height: 1.7;
+            line-height: 1.8;
         }
         .container {
             max-width: 1000px;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 15px; /* More rounded corners */
+            margin: 60px auto;
+            padding: 40px;
+            background-color: #fff; /* Clean white background */
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
+            border-radius: 20px; /* Rounded corners for modern look */
+            border: 1px solid #e0e0e0;
         }
-        h1, h2 {
+        h1 {
             color: #222;
             text-align: center;
             font-weight: 700;
-            font-size: 36px;
-            margin-bottom: 20px;
-        }
-        h2 {
-            margin-top: 40px;
+            font-size: 38px;
+            margin-bottom: 40px;
+            letter-spacing: 1px;
         }
         p {
             text-align: justify;
-            margin-bottom: 20px;
             font-size: 18px;
             color: #555;
+            margin-bottom: 25px;
         }
         a {
             text-decoration: none;
-            color: #007BFF;
+            color: #007bff;
             font-weight: bold;
             transition: color 0.3s ease;
         }
@@ -56,57 +55,68 @@ redirect_from:
             color: #0056b3;
         }
 
-        /* News section styling */
+        /* Highlights section styling */
         .news-section {
-            margin-top: 50px;
+            margin-top: 60px;
             padding-top: 30px;
+        }
+
+        h2 {
+            color: #222;
+            text-align: center;
+            font-weight: 700;
+            font-size: 32px;
+            margin-bottom: 40px;
+            letter-spacing: 1px;
         }
 
         .news-item {
             display: flex;
-            align-items: center;
-            padding: 15px;
+            align-items: flex-start;
+            padding: 20px;
             margin-bottom: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            background-color: #f8f9fa;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* Light shadow for card effect */
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .news-item:hover {
             transform: translateY(-5px);
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Larger shadow on hover */
         }
         .news-item strong {
-            font-size: 18px;
+            font-size: 20px;
             color: #333;
-            flex: 0 0 150px;
-            text-align: left;
+            flex: 0 0 180px;
+            font-weight: 600;
+            margin-right: 20px;
         }
         .news-item p {
             margin: 0;
             font-size: 16px;
             color: #555;
-            text-align: left;
-            flex: 1;
         }
 
+        /* Call to action section */
         .cta {
             text-align: center;
-            margin-top: 40px;
+            margin-top: 50px;
+            padding: 30px 0;
+            background-color: #f1f4f6;
+            border-radius: 10px;
         }
         .cta p {
             font-size: 1.3em;
             color: #007BFF;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
         }
         .cta a {
-            font-size: 1.1em;
+            font-size: 1.2em;
             color: #fff;
             background-color: #007BFF;
-            padding: 12px 25px;
-            border-radius: 30px;
+            padding: 15px 30px;
+            border-radius: 50px;
             text-decoration: none;
-            display: inline-block;
             transition: background-color 0.3s ease, transform 0.2s;
         }
         .cta a:hover {
@@ -120,13 +130,10 @@ redirect_from:
         /* Responsive design adjustments */
         @media (max-width: 768px) {
             .container {
-                padding: 15px;
+                padding: 30px;
             }
             h1, h2 {
                 font-size: 28px;
-            }
-            .cta a {
-                padding: 10px 20px;
             }
             .news-item strong {
                 flex: 0 0 120px;
@@ -134,6 +141,10 @@ redirect_from:
             }
             .news-item p {
                 font-size: 14px;
+            }
+            .cta a {
+                padding: 10px 25px;
+                font-size: 1.1em;
             }
         }
     </style>
