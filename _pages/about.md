@@ -22,7 +22,7 @@ redirect_from:
 
         /* Main content container */
         .content {
-            max-width: 900px; /* Increased width for more space */
+            max-width: 900px;
             margin: 30px auto;
             background-color: #ffffff;
             border-radius: 10px;
@@ -66,72 +66,45 @@ redirect_from:
             color: #003399;
         }
 
-        /* Two-Column Layout for Education and Interests */
-        .two-columns {
+        /* Card-like Layout for Interests and Education */
+        .certification-layout {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .certification-card {
             display: flex;
-            justify-content: space-between;
-            margin-top: 40px;
-            gap: 40px; /* Added gap between columns */
+            align-items: center;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
-        /* Education Section */
-        .education-section h3 {
-            font-size: 24px;
-            color: #1e3d8f;
-            font-weight: bold;
-            margin-bottom: 20px;
+        .certification-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
-        .education-item {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 20px;
+        .certification-card img {
+            width: 40px;
+            height: 40px;
+            margin-right: 20px;
         }
 
-        .education-item img {
-            width: 24px;
-            height: 24px;
-            margin-right: 15px;
-        }
-
-        .education-item .details {
-            font-size: 18px;
-            color: #333;
-            text-align: justify;
-        }
-
-        .education-item .details small {
-            display: block;
-            color: #888;
-            font-size: 14px;
-        }
-
-        /* Interests Section */
-        .interests-section h3 {
-            font-size: 24px;
-            color: #1e3d8f;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-
-        .interests-section ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        .interests-section ul li {
-            font-size: 18px;
-            margin-bottom: 10px;
+        .certification-card h4 {
+            font-size: 20px;
+            margin: 0;
             color: #333;
         }
 
-        .interests-section ul li::before {
-            content: "•";
-            color: #1e3d8f;
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
+        .certification-card p {
+            margin: 5px 0 0;
+            font-size: 16px;
+            color: #666;
         }
 
         /* Footer */
@@ -159,14 +132,8 @@ redirect_from:
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .two-columns {
-                flex-direction: column;
-                gap: 20px; /* Adjust gap for mobile */
-            }
-
-            .column {
-                width: 100%;
-                margin-bottom: 20px;
+            .certification-layout {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -182,55 +149,50 @@ redirect_from:
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
-    <!-- Two-Column Layout for Interests and Education -->
-    <div class="two-columns">
-        <!-- Interests Section -->
-        <div class="column interests-section">
-            <h3>Interests</h3>
-            <ul>
-                <li>Cloud Computing</li>
-                <li>Information and Cyber Security</li>
-                <li>Microservices</li>
-                <li>High Performance Computing (HPC)</li>
-                <li>HPC in the Cloud (Converged Computing)</li>
-                <li>Machine Learning for Systems</li>
-                <li>Distributed Systems</li>
-            </ul>
+    <!-- Card Layout for Interests and Education -->
+    <div class="certification-layout">
+        <!-- Interests Card -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Interests Icon">
+            <div>
+                <h4>Interests</h4>
+                <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
+            </div>
         </div>
 
-        <!-- Education Section -->
-        <div class="column education-section">
-            <h3>Education</h3>
-            <div class="education-item">
-                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-                <div class="details">
-                    PhD in Computer Science and Engineering, August 2028 (Expected)
-                    <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
-                </div>
+        <!-- Education Card 1 -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>PhD in Computer Science and Engineering</h4>
+                <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
+        </div>
 
-            <div class="education-item">
-                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-                <div class="details">
-                    MSc in Information Systems Security (MISS), 2018
-                    <small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small>
-                </div>
+        <!-- Education Card 2 -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>MSc in Information Systems Security (MISS)</h4>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
+        </div>
 
-            <div class="education-item">
-                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-                <div class="details">
-                    MBA in Management Information Systems (MIS), 2016
-                    <small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small>
-                </div>
+        <!-- Education Card 3 -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>MBA in Management Information Systems (MIS)</h4>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
             </div>
+        </div>
 
-            <div class="education-item">
-                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-                <div class="details">
-                    BSc in Computer Science and Engineering, 2011
-                    <small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small>
-                </div>
+        <!-- Education Card 4 -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>BSc in Computer Science and Engineering</h4>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
             </div>
         </div>
     </div>
