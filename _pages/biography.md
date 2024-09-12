@@ -172,8 +172,13 @@ redirect_from:
         <div class="separator">Interests</div>
         <!-- Interests Card -->
         <div class="certification-card">
-            <h4>Interests</h4>
-            <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
+            <p><li>Cloud Computing</li>
+            <li>Information and Cyber Security</li>
+            <li>Microservices</li> 
+            <li>High Performance Computing (HPC)</li>
+            <li>HPC in the Cloud</li>
+            <li>Machine Learning for Systems</li>
+            <li>Distributed Systems</li></p>
         </div>
 
         <!-- Education Section Separator -->
