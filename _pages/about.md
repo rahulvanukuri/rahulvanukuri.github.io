@@ -15,72 +15,98 @@ redirect_from:
     
     <style>
         body {
-            font-family: 'Lato', Arial, sans-serif; /* Elegant font */
+            font-family: 'Lato', Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f7f6; /* Light background for visual comfort */
-            color: #333; /* Darker text for contrast */
-            line-height: 1.7; /* Enhance readability */
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.7;
         }
         .container {
-            max-width: 1000px; /* Set a max-width for better readability */
-            margin: 50px auto; /* Center content and add margin at the top */
+            max-width: 1000px;
+            margin: 50px auto;
             padding: 20px;
-            background-color: white; /* White background for content */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for visual depth */
-            border-radius: 10px; /* Rounded corners for modern look */
+            background-color: white;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 15px; /* More rounded corners */
         }
         h1, h2 {
-            color: #222; /* A bit darker color for headings */
-            text-align: center; /* Center align headings */
-            font-weight: 700; /* Make headings bold */
+            color: #222;
+            text-align: center;
+            font-weight: 700;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin-top: 40px;
         }
         p {
-            text-align: justify; /* Justified text for clean appearance */
-            margin-bottom: 20px; /* Space between paragraphs */
+            text-align: justify;
+            margin-bottom: 20px;
+            font-size: 18px;
+            color: #555;
         }
         a {
             text-decoration: none;
-            color: #007BFF; /* Blue color for links */
-            font-weight: bold; /* Make links bold */
+            color: #007BFF;
+            font-weight: bold;
+            transition: color 0.3s ease;
         }
         a:hover {
-            text-decoration: underline; /* Underline links on hover */
+            color: #0056b3;
         }
         .news-section {
-            margin-top: 50px; /* Create separation between sections */
+            margin-top: 50px;
             padding-top: 30px;
-            border-top: 2px solid #ddd; /* Add a subtle line between sections */
+            border-top: 2px solid #ddd;
         }
         .news p {
-            font-size: 1.1em; /* Make news section slightly larger */
+            font-size: 1.1em;
             margin: 15px 0;
-            color: #555; /* Softer color for news dates */
+            color: #555;
         }
         .news strong {
             font-size: 1.2em;
-            color: #333; /* Bold and darker color for news highlights */
+            color: #333;
         }
         .cta {
-            text-align: center; /* Center the Call to Action text */
-            margin-top: 30px; 
+            text-align: center;
+            margin-top: 40px;
         }
         .cta p {
-            font-size: 1.2em; /* Slightly larger text */
-            color: #007BFF; /* Call to action in blue */
+            font-size: 1.3em;
+            color: #007BFF;
+            margin-bottom: 20px;
         }
         .cta a {
             font-size: 1.1em;
             color: #fff;
-            background-color: #007BFF; /* Blue button */
-            padding: 10px 20px;
-            border-radius: 25px; /* Rounded button */
+            background-color: #007BFF;
+            padding: 12px 25px;
+            border-radius: 30px;
             text-decoration: none;
             display: inline-block;
-            transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+            transition: background-color 0.3s ease, transform 0.2s;
         }
         .cta a:hover {
-            background-color: #0056b3; /* Darker blue on hover */
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+        .cta a:active {
+            transform: translateY(0);
+        }
+
+        /* Making the layout responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            h1, h2 {
+                font-size: 28px;
+            }
+            .cta a {
+                padding: 10px 20px;
+            }
         }
     </style>
 </head>
@@ -93,7 +119,7 @@ redirect_from:
 
     <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
 
-    <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
+    <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
 
     <div class="news-section">
         <h2>News</h2>
