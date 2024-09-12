@@ -91,16 +91,16 @@ redirect_from:
 
         /* Applying the correct font size for education section */
         .certification-card h5 {
-            font-size: 22px; /* Font size for headings */
+            font-size: 18px; /* Font size for headings */
             font-weight: bold; /* Making the heading bold */
         }
 
         .certification-card p {
-            font-size: 18px; /* Font size for regular text */
+            font-size: 15px; /* Font size for regular text */
         }
 
         .certification-card small {
-            font-size: 16px; /* Font size for small text */
+            font-size: 15px; /* Font size for small text */
         }
 
         .certification-card:hover {
