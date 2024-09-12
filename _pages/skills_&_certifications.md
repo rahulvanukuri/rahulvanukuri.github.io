@@ -24,7 +24,7 @@ author_profile: true
         .skills-section {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
+            gap: 30px; /* Increased gap for better spacing */
             padding: 20px;
             justify-items: center;
         }
@@ -32,39 +32,31 @@ author_profile: true
             display: flex;
             flex-direction: column;
             align-items: center;
+            padding: 10px; /* Added padding to give more spacing around icons */
+            border-radius: 10px;
         }
         .skill img {
-            width: 60px; /* Default icon size */
+            width: 80px; /* Consistent icon size for balance */
             margin-bottom: 10px;
         }
-        /* Enlarge Docker and Kubernetes icon */
-        .skill img[alt="Docker Icon"] {
-            width: 100px; /* Increase size */
+        /* Specific icon sizes and spacing */
+        .skill img[alt="Docker Icon"],
+        .skill img[alt="Database Icon"],
+        .skill img[alt="SOAR"],
+        .skill img[alt="DLP"] {
+            width: 100px;
         }
-        /* Enlarge MySQL, MongoDB icon */
-        .skill img[alt="Database Icon"] {
-            width: 100px; /* Increase size */
-        }
-        /* Make SIEM, XDR, EDR icons the same size */
+        /* SIEM, XDR icon alignment */
         .skill img[alt="SIEM"],
-        .skill img[alt="XDR"],
-        .skill img[alt="EDR"] {
-            width: 80px; /* Consistent size */
+        .skill img[alt="XDR"] {
+            width: 80px;
+            height: 80px;
         }
-        /* Enlarge SOAR, Anomaly icons */
-        .skill img[alt="SOAR"] {
-            width: 100px; /* Increase size */
-        }
-        /* Enlarge DLP, MDM icons */
-        .skill img[alt="DLP"],
-        .skill img[alt="MDM"] {
-            width: 100px; /* Increase size */
-        }
-        /* Make NMAP, Nessus, Burpsuite icons smaller */
+        /* Smaller icons for NMAP, Nessus, Burpsuite */
         .skill img[alt="NMAP"],
         .skill img[alt="Nessus"],
         .skill img[alt="Burpsuite"] {
-            width: 50px; /* Decrease size */
+            width: 60px;
         }
         p {
             text-align: center;
@@ -90,7 +82,7 @@ author_profile: true
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
     </div>
-    
+
     <div class="skill">
         <img src="https://hoffstech.com/wp-content/uploads/2021/08/dockerkubernetes.jpg" alt="Docker Icon">
         <p>Docker, Kubernetes</p>
@@ -126,20 +118,19 @@ author_profile: true
 
     <div class="skill">
         <span style="display: flex; justify-content: center;">
-            <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM" style="width: 80px; height: 80px; margin-right: 10px;">
-            <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR" style="width: 80px; height: 80px;">
+            <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM" style="margin-right: 10px;">
+            <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR">
         </span>
         <p>SIEM, XDR, EDR</p>
         <p class="subtext">Threat Detection and Defense Tools</p>
     </div>
-
 
     <div class="skill">
         <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
         <p>SOAR, Anomaly</p>
         <p class="subtext">Threat Intelligence and Incident Response Platform</p>
     </div>
-    
+
     <div class="skill">
         <span>
         <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60757c372a2abacb1d83d9aa_what%20is%20dlp.jpeg" alt="DLP">
@@ -173,7 +164,7 @@ author_profile: true
         <p>ITIL</p>
         <p class="subtext">IT Incident Management</p>
     </div>
-    
+
 </div>
 
 </body>
