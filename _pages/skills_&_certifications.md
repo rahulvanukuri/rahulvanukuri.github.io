@@ -118,7 +118,10 @@ author_profile: true
     </div>
 
     <div class="item">
+        <span>
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
+        <img src=" https://e7.pngegg.com/pngimages/656/766/png-clipart-computer-terminal-computer-icons-bash-others-miscellaneous-angle.png" alt="Python Icon">
+        </span>       
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
     </div>
@@ -151,7 +154,10 @@ author_profile: true
     </div>
 
     <div class="item">
+        <span>
         <img src="https://cdn.prod.website-files.com/61e1d8dcf4a5e16aab73f6b4/6436e5b8414672f2c5e6bf96_HvXhzF0cx90RWU_ej6Gv9N_nyQLdp0y9rSWk0XX89_wpyY_AJttyzmc8x5Q5XPjq1bT4U87X-2pZWbVfD8JsybS-MFV2vV-xKTTWr1n-TuKCIoyaAnGU9jK3kzDsyvnBVEeWoWyRjSjRvuj-4gBCacY.png" alt="Grafana Icon">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiA0ETD6XFeMk7fSPnZOUvEqReLuWvy08Rw&s" alt="Grafana Icon">
+        </span>        
         <p>Prometheus, Grafana, Jaeger</p>
         <p class="subtext">Monitoring and Metrics</p>
     </div>
@@ -187,7 +193,10 @@ author_profile: true
     </div>
 
     <div class="item">
+        <span>
         <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="VAPT Tools">
+        <img src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon.png" alt="VAPT Tools">
+        </span>        
         <p>NMAP, Nessus, Burpsuite</p>
         <p class="subtext">VAPT Tools</p>
     </div>
@@ -199,8 +208,8 @@ author_profile: true
     </div>
 
     <div class="item">
-        <img src="https://www.advanceitsm.com/assets/images/courses/ITIL.svg" alt="ITIL">
-        <p>ITIL</p>
+        <img src="https://static.vecteezy.com/system/resources/previews/021/761/374/original/incident-management-icon-style-vector.jpg" alt="ITIL">
+        <p>ITIL, ISO</p>
         <p class="subtext">IT Incident Management</p>
     </div>
 </div>
