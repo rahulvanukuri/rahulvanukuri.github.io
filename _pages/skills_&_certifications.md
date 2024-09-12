@@ -164,7 +164,7 @@ author_profile: true
     <div class="skills-section">
     <div class="item">
         <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="Python Icon">
-        <p>ISO, GRC, COBIT, ITAF</p>
+        <p>ISO, ITAF</p>
         <p class="subtext">IT Audit</p>
     </div>
     <div class="item">
