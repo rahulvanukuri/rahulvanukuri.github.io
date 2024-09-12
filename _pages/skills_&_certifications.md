@@ -69,7 +69,7 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <img src="https://img.wazobia.tech/https://sytbuildr.s3.eu-west-2.amazonaws.com/0406191c-f351-4a58-b164-b9521b3d78c5/pPiPr6x4Puc7Z0WSt7Ly5zuzEnmh6WK0pszC2X3K.png?tr=w-1500" alt="Cloud Icon">
+        <img src="https://cdn-icons-png.flaticon.com/512/4319/4319147.png" alt="Cloud Icon">
         <p>AWS, GCP</p>
         <p class="subtext">Cloud Computing</p>
     </div>
