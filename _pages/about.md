@@ -67,11 +67,14 @@ redirect_from:
         }
 
         /* Card-like Layout for Interests and Education */
-        .certification-layout {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        .two-columns {
+            display: flex;
             gap: 20px;
             margin-top: 30px;
+        }
+
+        .column {
+            flex: 1;
         }
 
         .certification-card {
@@ -82,6 +85,7 @@ redirect_from:
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 20px;
         }
 
         .certification-card:hover {
@@ -132,8 +136,8 @@ redirect_from:
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .certification-layout {
-                grid-template-columns: 1fr;
+            .two-columns {
+                flex-direction: column;
             }
         }
     </style>
@@ -149,50 +153,51 @@ redirect_from:
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
-    <!-- Card Layout for Interests and Education -->
-    <div class="certification-layout">
-        <!-- Interests Card -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Interests Icon">
-            <div>
-                <h4>Interests</h4>
-                <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
+    <!-- Two Column Layout for Interests and Education -->
+    <div class="two-columns">
+        <!-- Interests Column -->
+        <div class="column">
+            <div class="certification-card">
+                <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Interests Icon">
+                <div>
+                    <h4>Interests</h4>
+                    <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
+                </div>
             </div>
         </div>
 
-        <!-- Education Card 1 -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>PhD in Computer Science and Engineering</h4>
-                <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+        <!-- Education Column -->
+        <div class="column">
+            <div class="certification-card">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div>
+                    <h4>PhD in Computer Science and Engineering</h4>
+                    <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                </div>
             </div>
-        </div>
 
-        <!-- Education Card 2 -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>MSc in Information Systems Security (MISS)</h4>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            <div class="certification-card">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div>
+                    <h4>MSc in Information Systems Security (MISS)</h4>
+                    <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                </div>
             </div>
-        </div>
 
-        <!-- Education Card 3 -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>MBA in Management Information Systems</h4>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+            <div class="certification-card">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div>
+                    <h4>MBA in Management Information Systems (MIS)</h4>
+                    <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+                </div>
             </div>
-        </div>
 
-        <!-- Education Card 4 -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>BSc in Computer Science and Engineering</h4>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+            <div class="certification-card">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div>
+                    <h4>BSc in Computer Science and Engineering</h4>
+                    <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+                </div>
             </div>
         </div>
     </div>
