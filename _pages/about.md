@@ -9,209 +9,211 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Biography</title>
+    <title>Mohammad Shahedur Rahman</title>
     <style>
-        /* General Style */
+        /* General Body Style */
         body {
             font-family: 'Roboto', Arial, sans-serif;
-            background: linear-gradient(135deg, #e9f8ff, #f7f7f7);
-            color: #333;
+            background-color: #f0f7fa;
             margin: 0;
             padding: 0;
+        }
+
+        /* Main layout container */
+        .main-container {
             display: flex;
-            align-items: center;
-            justify-content: center;
             min-height: 100vh;
+            width: 100%;
         }
 
-        .container {
-            max-width: 1000px;
-            margin: 30px;
-            padding: 40px;
-            background: #ffffff;
-            border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-            animation: fadeIn 1s ease-in-out;
+        /* Sidebar Styles */
+        .sidebar {
+            width: 300px;
+            background-color: #ffffff;
+            padding: 30px 20px;
+            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
-        /* Fade In Animation */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
+        .sidebar img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin-bottom: 20px;
         }
 
-        /* Headings */
-        h2 {
-            text-align: center;
-            font-family: 'Poppins', sans-serif;
-            font-size: 38px;
+        .sidebar h1 {
+            font-size: 24px;
             color: #333;
-            font-weight: 800;
-            letter-spacing: 1px;
-            margin-bottom: 30px;
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        .sidebar p {
+            font-size: 16px;
+            text-align: center;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        .sidebar ul li {
+            margin-bottom: 10px;
+        }
+
+        .sidebar ul li a {
+            color: #007acc;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+        /* Main content area */
+        .content {
+            flex-grow: 1;
+            padding: 50px;
+            background-color: #f7f9fc;
+        }
+
+        .content h2 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 36px;
+            color: #333;
+            font-weight: 700;
+            margin-bottom: 40px;
             position: relative;
         }
 
-        h2::after {
+        .content h2::after {
             content: '';
             display: block;
-            width: 80px;
-            height: 3px;
-            background: #00aaff;
-            margin: 10px auto;
+            width: 60px;
+            height: 4px;
+            background-color: #007acc;
+            margin-top: 10px;
         }
 
-        p {
-            text-align: justify;
+        .content p {
             font-size: 18px;
             line-height: 1.8;
             color: #555;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
 
-        a {
-            color: #00aaff;
+        .content a {
+            color: #007acc;
             text-decoration: none;
             font-weight: bold;
-            transition: color 0.3s ease, border-bottom 0.3s ease;
-            border-bottom: 2px solid transparent;
+            transition: color 0.3s ease;
         }
 
-        a:hover {
-            color: #007acc;
-            border-bottom: 2px solid #007acc;
+        .content a:hover {
+            color: #0056b3;
         }
 
-        /* Career Highlights Section */
+        /* Career Highlights section */
         .highlight-list {
-            list-style-type: none;
+            list-style: none;
             padding: 0;
         }
 
         .highlight-item {
-            display: flex;
-            align-items: flex-start;
-            padding: 15px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 20px;
             margin-bottom: 20px;
-            border-radius: 10px;
-            background-color: #f9f9f9;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-            transition: box-shadow 0.3s ease, transform 0.3s ease;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
 
         .highlight-item:hover {
             transform: translateY(-5px);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
         }
 
         .highlight-item strong {
             font-size: 18px;
-            color: #333;
-            min-width: 160px;
-            margin-right: 15px;
+            color: #007acc;
         }
 
-        .highlight-item p {
-            font-size: 16px;
-            color: #666;
-            margin: 0;
-        }
-
-        /* Call to Action Button */
-        .cta {
-            text-align: center;
-            margin-top: 50px;
-        }
-
-        .cta a {
-            display: inline-block;
-            padding: 15px 35px;
-            background-color: #00aaff;
-            color: white;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: 50px;
-            text-decoration: none;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            box-shadow: 0 6px 20px rgba(0, 170, 255, 0.2);
-        }
-
-        .cta a:hover {
-            background-color: #007acc;
-            transform: translateY(-3px);
-        }
-
+        /* Footer */
         footer {
             text-align: center;
-            margin-top: 50px;
             font-size: 14px;
             color: #aaa;
+            margin-top: 50px;
         }
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            h2 {
-                font-size: 30px;
+            .main-container {
+                flex-direction: column;
             }
 
-            p {
-                font-size: 16px;
+            .sidebar {
+                width: 100%;
+                box-shadow: none;
             }
 
-            .highlight-item strong {
-                font-size: 16px;
-                min-width: 120px;
-            }
-
-            .cta a {
-                font-size: 16px;
-                padding: 12px 28px;
+            .content {
+                padding: 30px;
             }
         }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <!-- Biography Section -->
-    <h2>Biography</h2>
-    <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
+<div class="main-container">
+    <!-- Sidebar with image and contact details -->
+    <div class="sidebar">
+        <img src="https://via.placeholder.com/120" alt="Your Profile Picture">
+        <h1>Mohammad Shahedur Rahman</h1>
+        <p>Ph.D. Student in Computer Science<br>at University of Texas at Arlington</p>
+        <ul>
+            <li><a href="#">Arlington, Texas</a></li>
+            <li><a href="mailto:email@example.com">Email</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">Google Scholar</a></li>
+        </ul>
+    </div>
 
-    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
+    <!-- Main content area for biography and career highlights -->
+    <div class="content">
+        <h2>Biography</h2>
+        <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
-    <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security (MISS) from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
+        <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
 
-    <!-- Career Highlights Section -->
-    <h2>Career Highlights</h2>
-    <ul class="highlight-list">
-        <li class="highlight-item">
-            <strong>August 2023:</strong>
-            <p>Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
-        </li>
-        <li class="highlight-item">
-            <strong>January 2020:</strong>
-            <p>Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
-        </li>
-        <li class="highlight-item">
-            <strong>October 2010:</strong>
-            <p>Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
-        </li>
-        <li class="highlight-item">
-            <strong>March 2007:</strong>
-            <p>Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
-        </li>
-    </ul>
+        <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security (MISS) from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
 
-    <!-- Call to Action Section -->
-    <div class="cta">
-        <p>Feel free to reach out if you have any questions or would like to collaborate on research projects!</p>
-        <a href="mailto:email@example.com">Contact Me</a>
+        <h2>Career Highlights</h2>
+        <ul class="highlight-list">
+            <li class="highlight-item">
+                <strong>August 2023:</strong> Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.
+            </li>
+            <li class="highlight-item">
+                <strong>January 2020:</strong> Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.
+            </li>
+            <li class="highlight-item">
+                <strong>October 2010:</strong> Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).
+            </li>
+            <li class="highlight-item">
+                <strong>March 2007:</strong> Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).
+            </li>
+        </ul>
+
+        <footer>
+            © 2024 by Mohammad Shahedur Rahman. All rights reserved.
+        </footer>
     </div>
 </div>
-
-<footer>
-    © 2024 by [Your Name]. All rights reserved.
-</footer>
 
 </body>
 </html>
