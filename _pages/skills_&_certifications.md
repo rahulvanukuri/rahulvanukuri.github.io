@@ -171,20 +171,21 @@ author_profile: true
 
 </div>
 
-</body>
-
 <h1>Certifications</h1>
-<body>
-Project Management Professionals (PMP) 
-Certified in Risk and Information Systems Control (CRISC) 
-Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification 
-PCI DSS V3.2.1 Implementer (BSI) 
-Certified Information Systems Auditor (CISA) 
-Certified Lean Six Sigma Black Belt 
-ISO 27001 Lead Auditor, Lead Implementer 
-ISO 27032 Lead Cybersecurity Manager 
-Privacy Information Management and GDPR 
-ITIL Foundation
+<div>
+    <ul>
+        <li>Project Management Professional (PMP)</li>
+        <li>Certified in Risk and Information Systems Control (CRISC)</li>
+        <li>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</li>
+        <li>PCI DSS V3.2.1 Implementer (BSI)</li>
+        <li>Certified Information Systems Auditor (CISA)</li>
+        <li>Certified Lean Six Sigma Black Belt</li>
+        <li>ISO 27001 Lead Auditor, Lead Implementer</li>
+        <li>ISO 27032 Lead Cybersecurity Manager</li>
+        <li>Privacy Information Management and GDPR</li>
+        <li>ITIL Foundation</li>
+    </ul>
+</div>
 
 </body>
 </html>
