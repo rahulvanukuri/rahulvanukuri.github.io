@@ -34,8 +34,20 @@ author_profile: true
             align-items: center;
         }
         .skill img {
-            width: 60px; /* Icon size */
+            width: 60px; /* Default icon size */
             margin-bottom: 10px;
+        }
+        /* Enlarge Docker and Kubernetes icon */
+        .skill img[alt="Docker Icon"] {
+            width: 80px; /* Increase size to 80px */
+        }
+        /* Enlarge Prometheus, Grafana, Jaeger icon */
+        .skill img[alt="Grafana Icon"] {
+            width: 80px; /* Increase size to 80px */
+        }
+        /* Enlarge MySQL, MongoDB icon */
+        .skill img[alt="Database Icon"] {
+            width: 80px; /* Increase size to 80px */
         }
         p {
             text-align: center;
@@ -56,7 +68,7 @@ author_profile: true
     <div class="skill">
         <span>
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
-        <img src="https://e7.pngegg.com/pngimages/93/966/png-clipart-shell-script-command-line-interface-unix-shell-bash-shell-commandline-interface-bird-thumbnail.png" alt="Python Icon">
+        <img src="https://e7.pngegg.com/pngimages/93/966/png-clipart-shell-script-command-line-interface-unix-shell-bash-shell-commandline-interface-bird-thumbnail.png" alt="Bash Icon">
         </span>
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
