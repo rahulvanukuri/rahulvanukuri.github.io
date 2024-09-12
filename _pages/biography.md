@@ -79,29 +79,30 @@ redirect_from:
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .certification-card h5,
+        .certification-card p,
+        .certification-card small {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Setting the font size */
+            color: #333;
+        }
+
+        .certification-card h5 {
+            font-size: 20px; /* Set the font size for headings */
+        }
+
+        .certification-card p {
+            font-size: 18px; /* Set the font size for regular text */
+        }
+
+        .certification-card small {
+            font-size: 16px; /* Set the font size for small text */
         }
 
         .certification-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-        }
-
-        .certification-card h5 {
-            font-size: 20px;
-            margin: 0;
-            color: #333;
-        }
-
-        .certification-card p {
-            margin: 5px 0 0;
-            font-size: 18px;
-            color: #666;
-        }
-
-        .certification-card small {
-            font-size: 16px;
         }
 
         /* Separator for Sections */
