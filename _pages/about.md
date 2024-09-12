@@ -65,40 +65,37 @@ redirect_from:
             color: #0056b3;
         }
 
-        /* Interests and Education Section */
-        .two-columns {
-            display: flex;
-            justify-content: space-between;
+        /* Education Section */
+        .education-section {
             margin-top: 40px;
         }
 
-        .column {
-            width: 48%;
-        }
-
-        .column h3 {
+        .education-section h3 {
             font-size: 24px;
             margin-bottom: 20px;
         }
 
-        .column ul {
-            list-style: none;
-            padding: 0;
+        .education-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
         }
 
-        .column ul li {
-            margin-bottom: 10px;
+        .education-item img {
+            width: 24px;
+            height: 24px;
+            margin-right: 15px;
+        }
+
+        .education-item .details {
             font-size: 18px;
             color: #333;
         }
 
-        .column ul li::before {
-            content: "•";
-            color: #007acc;
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
+        .education-item .details small {
+            display: block;
+            color: #888;
+            font-size: 14px;
         }
 
         /* Footer */
@@ -148,26 +145,31 @@ redirect_from:
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
-    <!-- Interests and Education Section -->
-    <div class="two-columns">
-        <div class="column">
-            <h3>Interests</h3>
-            <ul>
-                <li>Cloud Computing</li>
-                <li>Microservices</li>
-                <li>High Performance Computing (HPC)</li>
-                <li>Machine Learning for Systems</li>
-                <li>Distributed Systems</li>
-            </ul>
+    <!-- Education Section -->
+    <div class="education-section">
+        <h3>Education</h3>
+        <div class="education-item">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div class="details">
+                PhD in Computer Science and Engineering, August 2024 (Expected)
+                <small>The University of Texas at Arlington</small>
+            </div>
         </div>
 
-        <div class="column">
-            <h3>Education</h3>
-            <ul>
-                <li>PhD in Computer Science, 2024 (Expected)<br>The University of Texas at Arlington</li>
-                <li>MSc in Information Systems Security, 2018<br>Bangladesh University of Professionals (BUP)</li>
-                <li>BSc in Computer Science, 2011<br>Bangladesh University of Engineering & Technology (BUET)</li>
-            </ul>
+        <div class="education-item">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div class="details">
+                MSc in Information Systems Security, 2018
+                <small>Bangladesh University of Professionals (BUP)</small>
+            </div>
+        </div>
+
+        <div class="education-item">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div class="details">
+                BSc in Computer Science and Engineering, 2011
+                <small>Bangladesh University of Engineering & Technology (BUET)</small>
+            </div>
         </div>
     </div>
 </div>
