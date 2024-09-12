@@ -12,7 +12,7 @@ redirect_from:
     <style>
         /* General Style */
         body {
-            font-family: 'Lato', Arial, sans-serif;
+            font-family: 'Lato', Tahoma, sans-serif;
             background-color: #f7f7f7;
             color: #333;
             margin: 0;
