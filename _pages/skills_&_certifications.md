@@ -181,7 +181,7 @@ author_profile: true
     </div>
 
     <div class="item">
-        <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
+        <img src="https://cdn.prod.website-files.com/606d79a3190d3a764c032a2c/6462496836e0a5e0bafd9d04_Frame%201817%20(1).png" alt="SOAR">
         <p>SOAR, Threat Intel</p>
         <p class="subtext">Threat Intelligence and Incident Response Platform</p>
     </div>
