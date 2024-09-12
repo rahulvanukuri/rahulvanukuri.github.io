@@ -65,7 +65,7 @@ redirect_from:
             color: #003399;
         }
 
-        /* Card-like Layout for Interests and Education */
+        /* Card-like Layout for Biography, Interests, and Education */
         .certification-layout {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -106,7 +106,7 @@ redirect_from:
             color: #666;
         }
 
-        /* Separator for Education Section */
+        /* Separator for Sections */
         .separator {
             grid-column: 1 / -1;
             text-align: center;
@@ -161,17 +161,24 @@ redirect_from:
 <body>
 
 <div class="content">
-    <!-- Biography Section -->
-    <h2>Biography</h2>
-    <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
-    
-    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
-    
-    <a href="#" class="cv-link">Download my resumé / CV</a>
+    <!-- Card Layout for Biography -->
+    <div class="certification-layout">
+        <div class="separator">Biography</div>
+        <!-- Biography Card -->
+        <div class="certification-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/user.png" alt="Biography Icon">
+            <div>
+                <h4>Biography</h4>
+                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
+                <a href="#" class="cv-link">Download my resumé / CV</a>
+            </div>
+        </div>
+    </div>
 
     <!-- Card Layout for Interests and Education -->
     <div class="certification-layout">
-    <!-- Education Section Separator -->
+        <!-- Interests Section Separator -->
         <div class="separator">Interests</div>
         <!-- Interests Card -->
         <div class="certification-card">
