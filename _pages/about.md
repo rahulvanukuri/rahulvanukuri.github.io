@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <style>
+        /* General body and container styling */
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Lato', sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f4f7f6;
@@ -25,117 +27,124 @@ redirect_from:
         .container {
             max-width: 1200px;
             margin: 50px auto;
-            padding: 40px;
+            padding: 20px;
             background-color: white;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
 
-        .biography-section h1 {
-            font-size: 32px;
-            margin-bottom: 20px;
-            color: #222;
+        h1, h2 {
             text-align: center;
-        }
-
-        .biography-section p {
-            text-align: justify;
-            margin-bottom: 20px;
-            font-size: 16px;
-            line-height: 1.6;
-            color: #555;
-        }
-
-        /* Career Highlights section */
-        .highlights-section {
-            margin-top: 40px;
-        }
-
-        .highlights-section h2 {
-            font-size: 28px;
+            font-weight: 700;
             color: #222;
-            margin-bottom: 20px;
         }
 
-        .highlight {
-            display: flex;
-            margin-bottom: 20px;
-            padding: 15px;
+        h1 {
+            font-size: 36px;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            text-align: justify;
+            font-size: 18px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 25px;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+
+        /* Responsive grid design for Career Highlights */
+        .highlights-section {
+            margin-top: 50px;
+        }
+
+        .highlight-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .highlight-card {
+            padding: 20px;
             background-color: #f9f9f9;
             border-radius: 10px;
+            transition: transform 0.3s, box-shadow 0.3s;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
-        .highlight:hover {
+        .highlight-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
         }
 
-        .highlight strong {
-            flex: 0 0 150px;
+        .highlight-card strong {
+            display: block;
+            font-size: 18px;
+            margin-bottom: 10px;
             color: #333;
-            font-size: 16px;
         }
 
-        .highlight p {
-            margin: 0;
-            color: #555;
-            font-size: 16px;
-            flex: 1;
-        }
-
-        /* Call to Action Section */
+        /* Call to Action Button */
         .cta {
             text-align: center;
-            margin-top: 40px;
-        }
-
-        .cta p {
-            font-size: 1.3em;
-            color: #007BFF;
-            margin-bottom: 20px;
+            margin-top: 50px;
         }
 
         .cta a {
-            font-size: 1.1em;
-            color: #fff;
-            background-color: #007BFF;
-            padding: 12px 25px;
-            border-radius: 30px;
-            text-decoration: none;
             display: inline-block;
-            transition: background-color 0.3s ease, transform 0.2s;
+            padding: 15px 30px;
+            background-color: #007BFF;
+            color: white;
+            font-size: 18px;
+            border-radius: 50px;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
         }
 
         .cta a:hover {
             background-color: #0056b3;
-            transform: translateY(-2px);
+            transform: translateY(-3px);
         }
 
-        .cta a:active {
-            transform: translateY(0);
-        }
-
-        /* Responsive design adjustments */
+        /* Make it responsive */
         @media (max-width: 768px) {
-            .biography-section h1, .highlights-section h2 {
-                font-size: 28px;
+            h1 {
+                font-size: 30px;
+            }
+
+            h2 {
+                font-size: 24px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+
+            .highlight-card {
+                padding: 15px;
             }
 
             .cta a {
+                font-size: 16px;
                 padding: 10px 20px;
             }
-
-            .highlight strong {
-                flex: 0 0 120px;
-                font-size: 14px;
-            }
-
-            .highlight p {
-                font-size: 14px;
-            }
         }
+
     </style>
 </head>
 <body>
@@ -153,25 +162,26 @@ redirect_from:
         <!-- Career Highlights Section -->
         <div class="highlights-section">
             <h2>Career Highlights</h2>
+            <div class="highlight-grid">
+                <div class="highlight-card">
+                    <strong>August 2023:</strong>
+                    <p>Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
+                </div>
 
-            <div class="highlight">
-                <strong>August 2023:</strong>
-                <p>Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
-            </div>
+                <div class="highlight-card">
+                    <strong>January 2020:</strong>
+                    <p>Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
+                </div>
 
-            <div class="highlight">
-                <strong>January 2020:</strong>
-                <p>Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
-            </div>
+                <div class="highlight-card">
+                    <strong>October 2010:</strong>
+                    <p>Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
+                </div>
 
-            <div class="highlight">
-                <strong>October 2010:</strong>
-                <p>Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
-            </div>
-
-            <div class="highlight">
-                <strong>March 2007:</strong>
-                <p>Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
+                <div class="highlight-card">
+                    <strong>March 2007:</strong>
+                    <p>Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
+                </div>
             </div>
         </div>
 
