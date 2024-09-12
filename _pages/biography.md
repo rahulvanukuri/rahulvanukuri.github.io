@@ -74,7 +74,7 @@ redirect_from:
         }
 
         .certification-card {
-            padding: 20px;
+            padding: 10px;
             background-color: #f9f9f9;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
@@ -96,11 +96,11 @@ redirect_from:
         }
 
         .certification-card p {
-            font-size: 18px; /* Font size for regular text */
+            font-size: 17px; /* Font size for regular text */
         }
 
         .certification-card small {
-            font-size: 14px; /* Font size for small text */
+            font-size: 15px; /* Font size for small text */
         }
 
         .certification-card:hover {
