@@ -182,7 +182,7 @@ redirect_from:
         <div class="certification-card">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
-                <h4>MBA in Management Information Systems (MIS)</h4>
+                <h4>MBA in Management Information Systems</h4>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
             </div>
         </div>
