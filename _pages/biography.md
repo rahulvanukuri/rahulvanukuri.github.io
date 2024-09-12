@@ -21,7 +21,7 @@ redirect_from:
 
         /* Main content container */
         .content {
-            width: 100%;
+            width: 128%;
             margin: 0;
             padding: 40px;
             background-color: #ffffff;
