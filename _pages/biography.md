@@ -182,8 +182,12 @@ redirect_from:
         </div>
 
         <!-- Education Section Separator -->
+        <div class="separator">
+        <span>
         <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-        <div class="separator">Education</div>
+        Education
+        </span>
+        </div>
 
         <!-- Education Card 1 -->
         <div class="certification-card">
