@@ -63,7 +63,7 @@ author_profile: true
     </div>
     
     <div class="skill">
-        <img src="https://www.opsmx.com/blog/wp-content/uploads/2017/06/docker-k8s-2.jpg" alt="Docker Icon">
+        <img src="https://hoffstech.com/wp-content/uploads/2021/08/dockerkubernetes.jpg" alt="Docker Icon">
         <p>Docker, Kubernetes</p>
         <p class="subtext">Container Orchestration</p>
     </div>
@@ -81,13 +81,13 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/96/000000/grafana.png" alt="Grafana Icon">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*J-5DmVTppqBWPzAXzBlfdA.png" alt="Grafana Icon">
         <p>Prometheus, Grafana, Jaeger</p>
         <p class="subtext">Monitoring and Metrics</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/96/000000/database.png" alt="Database Icon">
+        <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/204141243/original/d11ae65c36ac8119f6969a414afd1462ff16713d/a-database-design-and-integration-using-the-mysql-and-mongodb-database.png" alt="Database Icon">
         <p>MySQL, MongoDB</p>
         <p class="subtext">Databases</p>
     </div>
