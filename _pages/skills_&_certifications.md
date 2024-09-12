@@ -24,7 +24,7 @@ author_profile: true
             color: #222;
         }
         .section-title {
-            margin: 50px 0 30px;
+            margin: 20px 0 30px; /* Reduced the top margin to bring the section closer to the top panel */
             font-size: 28px;
             color: #444;
             text-transform: uppercase;
