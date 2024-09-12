@@ -45,9 +45,25 @@ author_profile: true
         .skill img[alt="Database Icon"] {
             width: 100px; /* Increase size */
         }
-        /* Make Prometheus, Grafana, Jaeger icons smaller */
-        .skill img[alt="Grafana Icon"],
-        .skill img[alt="Jaeger Icon"] {
+        /* Make SIEM, XDR, EDR icons the same size */
+        .skill img[alt="SIEM"],
+        .skill img[alt="XDR"],
+        .skill img[alt="EDR"] {
+            width: 80px; /* Consistent size */
+        }
+        /* Enlarge SOAR, Anomaly icons */
+        .skill img[alt="SOAR"] {
+            width: 100px; /* Increase size */
+        }
+        /* Enlarge DLP, MDM icons */
+        .skill img[alt="DLP"],
+        .skill img[alt="MDM"] {
+            width: 100px; /* Increase size */
+        }
+        /* Make NMAP, Nessus, Burpsuite icons smaller */
+        .skill img[alt="NMAP"],
+        .skill img[alt="Nessus"],
+        .skill img[alt="Burpsuite"] {
             width: 50px; /* Decrease size */
         }
         p {
@@ -63,7 +79,7 @@ author_profile: true
 </head>
 <body>
 
-<h1>Skills</h1>
+<h1>Skills & Certifications</h1>
 
 <div class="skills-section">
     <div class="skill">
@@ -118,17 +134,17 @@ author_profile: true
     </div>
 
     <div class="skill">
+        <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
+        <p>SOAR, Anomaly</p>
+        <p class="subtext">Threat Intelligence and Incident Response Platform</p>
+    </div>
+    
+    <div class="skill">
         <span>
         <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60757c372a2abacb1d83d9aa_what%20is%20dlp.jpeg" alt="DLP">
         </span>
         <p>DLP, MDM</p>
         <p class="subtext">Data Privacy Tools</p>
-    </div>
-    
-    <div class="skill">
-        <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
-        <p>SOAR, Anomaly</p>
-        <p class="subtext">Threat Intelligence and Incident Response Platform</p>
     </div>
 
     <div class="skill">
