@@ -23,23 +23,23 @@ author_profile: true
         }
         .skills-section {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 30px; /* Increased gap for better spacing */
-            padding: 20px;
+            grid-template-columns: repeat(4, 1fr); /* Adjusted to 4 columns */
+            gap: 40px; /* Increased gap to prevent congestion */
+            padding: 30px; /* More padding to ensure a clean look */
             justify-items: center;
         }
         .skill {
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding: 10px; /* Added padding to give more spacing around icons */
+            padding: 10px;
             border-radius: 10px;
         }
         .skill img {
-            width: 80px; /* Consistent icon size for balance */
+            width: 80px; /* Consistent icon size */
             margin-bottom: 10px;
         }
-        /* Specific icon sizes and spacing */
+        /* Larger specific icons */
         .skill img[alt="Docker Icon"],
         .skill img[alt="Database Icon"],
         .skill img[alt="SOAR"],
