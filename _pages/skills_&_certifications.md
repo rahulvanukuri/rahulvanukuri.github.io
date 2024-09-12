@@ -176,12 +176,12 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2
 
     <div class="item">
         <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
-        <p>SOAR, Anomaly</p>
+        <p>SOAR, Threat Intel</p>
         <p class="subtext">Threat Intelligence and Incident Response Platform</p>
     </div>
 
     <div class="item">
-        <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60757c372a2abacb1d83d9aa_what%20is%20dlp.jpeg" alt="DLP">
+        <img src="https://www.shutterstock.com/image-vector/dlp-data-loss-prevention-acronym-260nw-2401819555.jpg" alt="DLP">
         <p>DLP, MDM</p>
         <p class="subtext">Data Privacy Tools</p>
     </div>
