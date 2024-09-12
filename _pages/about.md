@@ -77,54 +77,39 @@ redirect_from:
             margin-top: 50px;
         }
 
-        .highlight-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
+        .highlight-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
         }
 
-        .highlight-card {
-            background: #ffffff;
-            border-radius: 12px;
-            padding: 20px;
+        .highlight-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            background-color: #ffffff;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
         }
 
-        .highlight-card::before {
-            content: '';
-            position: absolute;
-            width: 200%;
-            height: 100%;
-            background: rgba(0, 123, 255, 0.05);
-            top: -100%;
-            left: -50%;
-            transform: rotate(45deg);
-            transition: all 0.5s ease;
-        }
-
-        .highlight-card:hover::before {
-            top: 0;
-        }
-
-        .highlight-card:hover {
+        .highlight-item:hover {
             transform: translateY(-5px);
             box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
         }
 
-        .highlight-card strong {
-            display: block;
-            font-size: 20px;
-            margin-bottom: 15px;
+        .highlight-item strong {
+            font-size: 18px;
             color: #333;
+            margin-right: 15px;
+            min-width: 150px;
         }
 
-        .highlight-card p {
+        .highlight-item p {
             margin: 0;
             font-size: 16px;
-            color: #666;
+            color: #555;
         }
 
         /* Call to Action Button */
@@ -161,8 +146,13 @@ redirect_from:
                 font-size: 16px;
             }
 
-            .highlight-card {
-                padding: 15px;
+            .highlight-item {
+                padding: 10px;
+            }
+
+            .highlight-item strong {
+                min-width: 100px;
+                font-size: 16px;
             }
 
             .cta a {
@@ -187,27 +177,27 @@ redirect_from:
         <!-- Career Highlights Section -->
         <h2>Career Highlights</h2>
         <div class="highlights-section">
-            <div class="highlight-grid">
-                <div class="highlight-card">
+            <ul class="highlight-list">
+                <li class="highlight-item">
                     <strong>August 2023:</strong>
                     <p>Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
-                </div>
+                </li>
 
-                <div class="highlight-card">
+                <li class="highlight-item">
                     <strong>January 2020:</strong>
                     <p>Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
-                </div>
+                </li>
 
-                <div class="highlight-card">
+                <li class="highlight-item">
                     <strong>October 2010:</strong>
                     <p>Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
-                </div>
+                </li>
 
-                <div class="highlight-card">
+                <li class="highlight-item">
                     <strong>March 2007:</strong>
                     <p>Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
-                </div>
-            </div>
+                </li>
+            </ul>
         </div>
 
         <!-- Call to Action Section -->
