@@ -79,6 +79,8 @@ redirect_from:
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            font-family: 'Georgia', serif;
+            font-size: 18px; /* Setting the font size */
         }
 
         .certification-card:hover {
@@ -86,7 +88,7 @@ redirect_from:
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
-        .certification-card h4 {
+        .certification-card h5 {
             font-size: 20px;
             margin: 0;
             color: #333;
@@ -94,8 +96,12 @@ redirect_from:
 
         .certification-card p {
             margin: 5px 0 0;
-            font-size: 16px;
+            font-size: 18px;
             color: #666;
+        }
+
+        .certification-card small {
+            font-size: 16px;
         }
 
         /* Separator for Sections */
@@ -183,9 +189,7 @@ redirect_from:
 
         <!-- Education Section Separator -->
         <div class="separator">
-        <span>
-        Education
-        </span>
+        <span>Education</span>
         </div>
 
         <!-- Education Card 1 -->
@@ -221,3 +225,10 @@ redirect_from:
         </div>
     </div>
 </div>
+
+<footer>
+    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
+</footer>
+
+</body>
+</html>
