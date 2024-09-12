@@ -176,8 +176,7 @@ redirect_from:
     <div class="certification-layout">
         <!-- Interests Section Separator -->
         <div class="separator">Interests</div>
-        <!-- Interests Card -->
-      <!-- Interests Card 1 -->
+        <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
             <li>Cloud Computing</li>
@@ -187,16 +186,14 @@ redirect_from:
             </div>
         </div>
 
-        <!-- Interests Card 1 -->
+        <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-            <li>High Performance Computing (HPC)</li>
             <li>HPC in the Cloud</li>
             <li>Machine Learning for Systems</li>
             <li>Distributed Systems</li>
             </div>
         </div>
-        
 
         <!-- Education Section Separator -->
         <div class="separator">
