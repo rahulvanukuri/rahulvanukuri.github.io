@@ -141,7 +141,7 @@ redirect_from:
     <h2>Biography</h2>
     <p>I’m a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/">The University of Texas at Arlington</a>, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
     
-    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in cybersecurity, including serving as the Chief Information Security Officer (CISO) at BRAC Bank PLC, where I managed several large-scale projects. I hold a Master’s degree in Information Systems Security and an MBA from the University of Dhaka.</p>
+    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
@@ -151,24 +151,31 @@ redirect_from:
         <div class="education-item">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div class="details">
-                PhD in Computer Science and Engineering, August 2024 (Expected)
-                <small>The University of Texas at Arlington</small>
+                PhD in Computer Science and Engineering, August 2028 (Expected)
+                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
             </div>
         </div>
 
         <div class="education-item">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div class="details">
-                MSc in Information Systems Security, 2018
-                <small>Bangladesh University of Professionals (BUP)</small>
+                MSc in Information Systems Security (MISS), 2018
+                <small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small>
             </div>
         </div>
+
+        <div class="education-item">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div class="details">
+                MBA in Management Information Systems (MIS), 2016
+                <small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small>
+          </div>
 
         <div class="education-item">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div class="details">
                 BSc in Computer Science and Engineering, 2011
-                <small>Bangladesh University of Engineering & Technology (BUET)</small>
+                <small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small>
             </div>
         </div>
     </div>
