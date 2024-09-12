@@ -26,7 +26,7 @@ redirect_from:
             max-width: 100%; /* Make the biography section wider */
             margin: 50px auto;
             padding: 30px;
-            background-color: #eeeeee;
+            background-color: #f0f0f0;
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
