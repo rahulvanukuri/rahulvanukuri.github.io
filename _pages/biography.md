@@ -65,7 +65,7 @@ redirect_from:
             color: #003399;
         }
 
-        /* Card-like Layout for Biography, Interests, and Education */
+        /* Style for Biography and Interests (Unchanged) */
         .certification-layout {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -89,7 +89,6 @@ redirect_from:
             color: #333;
         }
 
-        /* Applying the correct font size for education section */
         .certification-card h5 {
             font-size: 18px; /* Font size for headings */
             font-weight: bold; /* Making the heading bold */
@@ -108,7 +107,6 @@ redirect_from:
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
-        /* Separator for Sections */
         .separator {
             grid-column: 1 / -1;
             text-align: center;
@@ -127,6 +125,52 @@ redirect_from:
             height: 1px;
             background-color: #cccccc;
             margin: 10px auto;
+        }
+
+        /* New Style for Education Section (as per your uploaded image) */
+        .education-layout {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+
+        .education-card {
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            align-items: center;
+        }
+
+        .education-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .education-card h5 {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin: 0;
+        }
+
+        .education-card small {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .education-card img {
+            width: 40px;
+            height: 40px;
+            margin-right: 20px;
+        }
+
+        .education-card p {
+            font-size: 16px;
+            color: #333;
+            margin: 0;
         }
 
         /* Footer */
@@ -176,36 +220,40 @@ redirect_from:
         </div>
     </div>
 
-    <!-- Card Layout for Interests and Education -->
+    <!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
         <div class="separator">Interests</div>
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-            <li>Cloud Computing</li>
-            <li>Information and Cyber Security</li>
-            <li>Microservices</li> 
-            <li>High Performance Computing (HPC)</li>
+                <li>Cloud Computing</li>
+                <li>Information and Cyber Security</li>
+                <li>Microservices</li> 
+                <li>High Performance Computing (HPC)</li>
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-            <li>HPC in the Cloud</li>
-            <li>Machine Learning for Systems</li>
-            <li>Distributed Systems</li>
+                <li>HPC in the Cloud</li>
+                <li>Machine Learning for Systems</li>
+                <li>Distributed Systems</li>
             </div>
         </div>
+    </div>
 
+    <!-- New Style for Education Section -->
+    <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
-        <span>Education</span>
+            <span>Education</span>
         </div>
 
         <!-- Education Card 1 -->
-        <div class="certification-card">
+        <div class="education-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering</h5>
                 <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
@@ -213,7 +261,8 @@ redirect_from:
         </div>
 
         <!-- Education Card 2 -->
-        <div class="certification-card">
+        <div class="education-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Information Systems Security (MISS)</h5>
                 <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
@@ -221,7 +270,8 @@ redirect_from:
         </div>
 
         <!-- Education Card 3 -->
-        <div class="certification-card">
+        <div class="education-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
@@ -229,7 +279,8 @@ redirect_from:
         </div>
 
         <!-- Education Card 4 -->
-        <div class="certification-card">
+        <div class="education-card">
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
                 <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
