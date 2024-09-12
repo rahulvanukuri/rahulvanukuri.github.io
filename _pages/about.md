@@ -23,9 +23,9 @@ redirect_from:
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 95%; /* Make the biography section wider */
             margin: 50px auto;
-            padding: 20px;
+            padding: 30px;
             background-color: white;
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -40,7 +40,7 @@ redirect_from:
         }
 
         p {
-            text-align: justify;
+            text-align: left; /* Use left alignment for readability */
             font-size: 18px;
             line-height: 1.7;
             color: #555;
