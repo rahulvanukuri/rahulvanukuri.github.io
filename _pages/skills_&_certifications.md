@@ -46,7 +46,7 @@ author_profile: true
 <div>
     <ul class="certifications-list">
         <li>
-            <img src="[path-to-pmp-icon.png](https://media.licdn.com/dms/image/C5112AQFXK5uLki6GnQ/article-cover_image-shrink_600_2000/0/1581970111182?e=2147483647&v=beta&t=ljFNjGxBgIS7wOtJd38ndihlX_EitNDpPbcIxRD_7Xg)" alt="PMP Icon"> 
+            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon"> 
             Project Management Professional (PMP)
         </li>
         <li>
@@ -69,20 +69,24 @@ author_profile: true
             <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
             Certified Lean Six Sigma Black Belt
         </li>
-        <li>
-            <img src="path-to-iso27001-icon.png" alt="ISO 27001 Icon">
-            ISO 27001 Lead Auditor, Lead Implementer
+         <li>
+            <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO 27001 Icon">
+            ISO 27001 Lead Implementer
         </li>
         <li>
-            <img src="path-to-iso27032-icon.png" alt="ISO 27032 Icon">
+            <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
+            ISO 27001 Lead Auditor
+        </li>
+        <li>
+            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="ISO 27032 Icon">
             ISO 27032 Lead Cybersecurity Manager
         </li>
         <li>
-            <img src="path-to-gdpr-icon.png" alt="GDPR Icon">
+            <img src="https://static.wingify.com/gcp/uploads/sites/3/2021/09/ISOIEC-27701.png" alt="GDPR Icon">
             Privacy Information Management and GDPR
         </li>
         <li>
-            <img src="path-to-itil-icon.png" alt="ITIL Icon">
+            <img src="https://cdn.pressport.com/files/view?c=5052&f=35099&width=660" alt="ITIL Icon">
             ITIL Foundation
         </li>
     </ul>
