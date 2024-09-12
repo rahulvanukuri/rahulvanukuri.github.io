@@ -55,20 +55,41 @@ redirect_from:
         a:hover {
             color: #0056b3;
         }
+
+        /* News section styling */
         .news-section {
             margin-top: 50px;
             padding-top: 30px;
-            border-top: 2px solid #ddd;
         }
-        .news p {
-            font-size: 1.1em;
-            margin: 15px 0;
-            color: #555;
+
+        .news-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin-bottom: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        .news strong {
-            font-size: 1.2em;
+        .news-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+        }
+        .news-item strong {
+            font-size: 18px;
             color: #333;
+            flex: 0 0 150px;
+            text-align: left;
         }
+        .news-item p {
+            margin: 0;
+            font-size: 16px;
+            color: #555;
+            text-align: left;
+            flex: 1;
+        }
+
         .cta {
             text-align: center;
             margin-top: 40px;
@@ -96,7 +117,7 @@ redirect_from:
             transform: translateY(0);
         }
 
-        /* Making the layout responsive */
+        /* Responsive design adjustments */
         @media (max-width: 768px) {
             .container {
                 padding: 15px;
@@ -106,6 +127,13 @@ redirect_from:
             }
             .cta a {
                 padding: 10px 20px;
+            }
+            .news-item strong {
+                flex: 0 0 120px;
+                font-size: 16px;
+            }
+            .news-item p {
+                font-size: 14px;
             }
         }
     </style>
@@ -124,13 +152,25 @@ redirect_from:
     <div class="news-section">
         <h2>News</h2>
         <div class="news">
-            <p><strong>August 2023:</strong> Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
+            <div class="news-item">
+                <strong>August 2023:</strong>
+                <p>Began my Ph.D. journey at the Rigorous Design Lab (RiDL) at the University of Texas at Arlington.</p>
+            </div>
 
-            <p><strong>January 2020:</strong> Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
+            <div class="news-item">
+                <strong>January 2020:</strong>
+                <p>Awarded a gold medal by the University Chancellor (President of the People's Republic of Bangladesh) for achieving a perfect CGPA of 4.0 in my master's degree.</p>
+            </div>
 
-            <p><strong>October 2010:</strong> Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
+            <div class="news-item">
+                <strong>October 2010:</strong>
+                <p>Earned the Information Technology Engineers Examination for Digital Bangladesh Certificate, conducted by the Japan International Cooperation Agency (JICA).</p>
+            </div>
 
-            <p><strong>March 2007:</strong> Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
+            <div class="news-item">
+                <strong>March 2007:</strong>
+                <p>Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).</p>
+            </div>
         </div>
     </div>
 
