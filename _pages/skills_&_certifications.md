@@ -80,10 +80,8 @@ author_profile: true
 </head>
 <body>
 
-<h1>Skills & Certifications</h1>
-
 <!-- Skills Section -->
-<h2 class="section-title">Skills</h2>
+<h1 class="section-title">Skills</h1>
 <div class="section">
     <div class="item">
         <span>
@@ -181,12 +179,16 @@ author_profile: true
 </div>
 
 <!-- Certifications Section -->
-<h2 class="section-title">Certifications</h2>
+<h1 class="section-title">Certifications</h1>
 <div>
     <ul class="certifications-list">
         <li>
             <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon"> 
             <p>Project Management Professional (PMP)</p>
+        </li>
+        <li>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+            <p>Certified Information Systems Auditor (CISA)</p>
         </li>
         <li>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
@@ -199,10 +201,6 @@ author_profile: true
         <li>
             <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
             <p>PCI DSS V3.2.1 Implementer (BSI)</p>
-        </li>
-        <li>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-            <p>Certified Information Systems Auditor (CISA)</p>
         </li>
         <li>
             <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
