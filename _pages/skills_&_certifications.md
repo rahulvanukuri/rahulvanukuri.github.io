@@ -88,9 +88,9 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/96/000000/terraform.png" alt="Terraform Icon">
-        <p>Terraform, AWS CDK</p>
-        <p class="subtext">Infrastructure-as-Code</p>
+        <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
+        <p>Linux</p>
+        <p class="subtext">Operating System</p>
     </div>
 
     <div class="skill">
@@ -109,16 +109,38 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/96/000000/server.png" alt="Server Icon">
-        <p>Flux, Slurm</p>
-        <p class="subtext">High Performance Computing Frameworks</p>
+        <span>
+        <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM">
+        <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR">
+        </span>
+        <p>SIEM, XDR, EDR</p>
+        <p class="subtext">Threat Detection and Defense Tools</p>
     </div>
 
     <div class="skill">
-        <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
-        <p>Linux</p>
-        <p class="subtext">Operating System</p>
+        <span>
+        <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60757c372a2abacb1d83d9aa_what%20is%20dlp.jpeg" alt="DLP">
+        </span>
+        <p>DLP, MDM</p>
+        <p class="subtext">Data Privacy Tools</p>
     </div>
+    
+    <div class="skill">
+        <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
+        <p>SOAR, Anomaly</p>
+        <p class="subtext">Threat Intelligence and Incident Response Platform</p>
+    </div>
+
+    <div class="skill">
+        <span>
+        <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="NMAP">
+        <img src="https://storage.googleapis.com/datanyze-data//technologies/d5e69acc67124328c6b8bc330bdecb46e83b9641.png" alt="Nessus">
+        <img src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon-thumbnail.png" alt="Burpsuite">
+        </span>
+        <p>NMAP, Nessus, Burpsuite</p>
+        <p class="subtext">VAPT Tools</p>
+    </div>
+    
 </div>
 
 </body>
