@@ -9,6 +9,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Biography</title>
     <style>
         /* General Style */
         body {
@@ -17,17 +18,17 @@ redirect_from:
             color: #333;
             margin: 0;
             padding: 0;
-            min-height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
+            min-height: 100vh;
         }
 
         .container {
             max-width: 1000px;
-            margin: 30px auto;
+            margin: 30px;
             padding: 40px;
-            background: #fff;
+            background: #ffffff;
             border-radius: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
             animation: fadeIn 1s ease-in-out;
