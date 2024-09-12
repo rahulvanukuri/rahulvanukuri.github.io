@@ -186,33 +186,38 @@ redirect_from:
 
         <!-- Education Card 1 -->
         <div class="certification-card">
-            <h4>PhD in Computer Science and Engineering</h4>
-            <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h5>PhD in Computer Science and Engineering</h5>
+                <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            </div>
         </div>
 
         <!-- Education Card 2 -->
         <div class="certification-card">
-            <h4>MSc in Information Systems Security (MISS)</h4>
-            <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>MSc in Information Systems Security (MISS)</h4>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            </div>
         </div>
 
         <!-- Education Card 3 -->
         <div class="certification-card">
-            <h4>MBA in Management Information Systems</h4>
-            <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>MBA in Management Information Systems</h4>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+            </div>
         </div>
 
         <!-- Education Card 4 -->
         <div class="certification-card">
-            <h4>BSc in Computer Science and Engineering</h4>
-            <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <div>
+                <h4>BSc in Computer Science and Engineering</h4>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+            </div>
         </div>
     </div>
 </div>
-
-<footer>
-    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
-</footer>
-
-</body>
-</html>
