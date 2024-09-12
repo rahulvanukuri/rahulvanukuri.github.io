@@ -16,50 +16,35 @@ author_profile: true
             margin: 0 15px;
             text-align: center;
         }
-        /* Only one heading visible */
         h1 {
             font-size: 32px;
             margin-bottom: 20px;
             color: #333;
         }
-        .skills-section {
+        .section-title {
+            margin-top: 50px;
+            font-size: 28px;
+            color: #444;
+        }
+        .section {
             display: grid;
-            grid-template-columns: repeat(4, 1fr); /* Adjusted to 4 columns */
-            gap: 40px; /* Increased gap to prevent congestion */
-            padding: 30px; /* More padding to ensure a clean look */
+            grid-template-columns: repeat(4, 1fr); 
+            gap: 40px;
+            padding: 30px; 
             justify-items: center;
         }
-        .skill {
+        .item {
             display: flex;
             flex-direction: column;
             align-items: center;
             padding: 10px;
             border-radius: 10px;
         }
-        .skill img {
-            width: 60px; /* Smaller icon size for balance */
+        .item img {
+            width: 60px;
             margin-bottom: 10px;
         }
-        /* Larger specific icons */
-        .skill img[alt="Docker Icon"],
-        .skill img[alt="Database Icon"],
-        .skill img[alt="SOAR"],
-        .skill img[alt="DLP"] {
-            width: 80px;
-        }
-        /* SIEM, XDR icon alignment */
-        .skill img[alt="SIEM"],
-        .skill img[alt="XDR"] {
-            width: 60px;
-            height: 60px;
-        }
-        /* Smaller icons for NMAP, Nessus, Burpsuite */
-        .skill img[alt="NMAP"],
-        .skill img[alt="Nessus"],
-        .skill img[alt="Burpsuite"] {
-            width: 50px;
-        }
-        p {
+        .item p {
             text-align: center;
             margin: 0;
             font-size: 16px;
@@ -68,14 +53,39 @@ author_profile: true
             font-size: 14px;
             color: #777;
         }
+        ul.certifications-list {
+            list-style-type: none; 
+            padding: 0;
+            margin: 0 auto;
+            max-width: 800px;
+        }
+        ul.certifications-list li {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        ul.certifications-list li img {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+        }
+        ul.certifications-list li p {
+            margin: 0;
+            font-size: 16px;
+            color: #333;
+        }
     </style>
 </head>
 <body>
 
-<h1>Skills</h1>
+<h1>Skills & Certifications</h1>
 
-<div class="skills-section">
-    <div class="skill">
+<!-- Skills Section -->
+<h2 class="section-title">Skills</h2>
+<div class="section">
+    <div class="item">
         <span>
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
         <img src="https://e7.pngegg.com/pngimages/93/966/png-clipart-shell-script-command-line-interface-unix-shell-bash-shell-commandline-interface-bird-thumbnail.png" alt="Bash Icon">
@@ -84,19 +94,19 @@ author_profile: true
         <p class="subtext">Programming Languages</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <img src="https://hoffstech.com/wp-content/uploads/2021/08/dockerkubernetes.jpg" alt="Docker Icon">
         <p>Docker, Kubernetes</p>
         <p class="subtext">Container Orchestration</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <img src="https://cdn-icons-png.flaticon.com/512/4319/4319147.png" alt="Cloud Icon">
         <p>AWS, GCP</p>
         <p class="subtext">Cloud Computing</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali Linux">
@@ -105,7 +115,7 @@ author_profile: true
         <p class="subtext">Operating Systems</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://cdn.prod.website-files.com/61e1d8dcf4a5e16aab73f6b4/6436e5b8414672f2c5e6bf96_HvXhzF0cx90RWU_ej6Gv9N_nyQLdp0y9rSWk0XX89_wpyY_AJttyzmc8x5Q5XPjq1bT4U87X-2pZWbVfD8JsybS-MFV2vV-xKTTWr1n-TuKCIoyaAnGU9jK3kzDsyvnBVEeWoWyRjSjRvuj-4gBCacY.png" alt="Grafana Icon">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWtiB3_BrC4i5u7moVyhQQMlycSo8b7j4fg&s" alt="Jaeger Icon">
@@ -114,13 +124,13 @@ author_profile: true
         <p class="subtext">Monitoring and Metrics</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/204141243/original/d11ae65c36ac8119f6969a414afd1462ff16713d/a-database-design-and-integration-using-the-mysql-and-mongodb-database.png" alt="Database Icon">
         <p>MySQL, MongoDB</p>
         <p class="subtext">Databases</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span style="display: flex; justify-content: center;">
             <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM" style="margin-right: 10px;">
             <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR">
@@ -129,13 +139,13 @@ author_profile: true
         <p class="subtext">Threat Detection and Defense Tools</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
         <p>SOAR, Anomaly</p>
         <p class="subtext">Threat Intelligence and Incident Response Platform</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60757c372a2abacb1d83d9aa_what%20is%20dlp.jpeg" alt="DLP">
         </span>
@@ -143,7 +153,7 @@ author_profile: true
         <p class="subtext">Data Privacy Tools</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="NMAP">
         <img src="https://storage.googleapis.com/datanyze-data//technologies/d5e69acc67124328c6b8bc330bdecb46e83b9641.png" alt="Nessus">
@@ -153,7 +163,7 @@ author_profile: true
         <p class="subtext">VAPT Tools</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://www.ideagen.com/media/11748/grc-circle.png" alt="GRC">
         </span>
@@ -161,62 +171,62 @@ author_profile: true
         <p class="subtext">GRC</p>
     </div>
 
-    <div class="skill">
+    <div class="item">
         <span>
         <img src="https://www.advanceitsm.com/assets/images/courses/ITIL.svg" alt="ITIL">
         </span>
         <p>ITIL</p>
         <p class="subtext">IT Incident Management</p>
     </div>
-
 </div>
 
-<h1>Certifications</h1>
+<!-- Certifications Section -->
+<h2 class="section-title">Certifications</h2>
 <div>
     <ul class="certifications-list">
         <li>
             <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon"> 
-            Project Management Professional (PMP)
+            <p>Project Management Professional (PMP)</p>
         </li>
         <li>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
-            Certified in Risk and Information Systems Control (CRISC)
+            <p>Certified in Risk and Information Systems Control (CRISC)</p>
         </li>
         <li>
             <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
-            Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification
+            <p>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</p>
         </li>
         <li>
             <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
-            PCI DSS V3.2.1 Implementer (BSI)
+            <p>PCI DSS V3.2.1 Implementer (BSI)</p>
         </li>
         <li>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-            Certified Information Systems Auditor (CISA)
+            <p>Certified Information Systems Auditor (CISA)</p>
         </li>
         <li>
             <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
-            Certified Lean Six Sigma Black Belt
+            <p>Certified Lean Six Sigma Black Belt</p>
         </li>
-         <li>
+        <li>
             <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO 27001 Icon">
-            ISO 27001 Lead Implementer
+            <p>ISO 27001 Lead Implementer</p>
         </li>
         <li>
             <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
-            ISO 27001 Lead Auditor
+            <p>ISO 27001 Lead Auditor</p>
         </li>
         <li>
             <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="ISO 27032 Icon">
-            ISO 27032 Lead Cybersecurity Manager
+            <p>ISO 27032 Lead Cybersecurity Manager</p>
         </li>
         <li>
             <img src="https://static.wingify.com/gcp/uploads/sites/3/2021/09/ISOIEC-27701.png" alt="GDPR Icon">
-            Privacy Information Management and GDPR
+            <p>Privacy Information Management and GDPR</p>
         </li>
         <li>
             <img src="https://cdn.pressport.com/files/view?c=5052&f=35099&width=660" alt="ITIL Icon">
-            ITIL Foundation
+            <p>ITIL Foundation</p>
         </li>
     </ul>
 </div>
