@@ -169,7 +169,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2
     </div>
 
     <div class="item">
-        <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM">
+        <img src="https://cdn-icons-png.flaticon.com/512/5671/5671489.png" alt="SIEM">
         <p>SIEM, XDR, EDR</p>
         <p class="subtext">Threat Detection and Defense Tools</p>
     </div>
