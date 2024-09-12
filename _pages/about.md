@@ -17,13 +17,19 @@ redirect_from:
             background-color: #f0f7fa;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
         }
 
         /* Main layout container */
         .main-container {
             display: flex;
-            min-height: 100vh;
+            flex-direction: row;
+            max-width: 1200px;
             width: 100%;
+            margin-top: 30px;
         }
 
         /* Sidebar Styles */
@@ -32,27 +38,30 @@ redirect_from:
             background-color: #ffffff;
             padding: 30px 20px;
             box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            border-radius: 10px;
+            margin-right: 20px;
+            flex-shrink: 0;
         }
 
         .sidebar img {
-            width: 120px;
-            height: 120px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
             margin-bottom: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .sidebar h1 {
-            font-size: 24px;
+            font-size: 22px;
             color: #333;
             text-align: center;
             margin: 10px 0;
         }
 
         .sidebar p {
-            font-size: 16px;
+            font-size: 15px;
             text-align: center;
             color: #555;
             margin-bottom: 20px;
@@ -65,7 +74,7 @@ redirect_from:
         }
 
         .sidebar ul li {
-            margin-bottom: 10px;
+            margin-bottom: 15px;
         }
 
         .sidebar ul li a {
@@ -74,11 +83,17 @@ redirect_from:
             font-size: 16px;
         }
 
+        .sidebar ul li a:hover {
+            color: #0056b3;
+        }
+
         /* Main content area */
         .content {
             flex-grow: 1;
-            padding: 50px;
-            background-color: #f7f9fc;
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
         }
 
         .content h2 {
@@ -124,7 +139,7 @@ redirect_from:
         }
 
         .highlight-item {
-            background-color: #ffffff;
+            background-color: #f9f9f9;
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
@@ -142,27 +157,22 @@ redirect_from:
             color: #007acc;
         }
 
-        /* Footer */
-        footer {
-            text-align: center;
-            font-size: 14px;
-            color: #aaa;
-            margin-top: 50px;
-        }
-
         /* Responsive Design */
         @media (max-width: 768px) {
             .main-container {
                 flex-direction: column;
+                align-items: center;
             }
 
             .sidebar {
                 width: 100%;
+                margin-bottom: 20px;
                 box-shadow: none;
+                padding: 20px;
             }
 
             .content {
-                padding: 30px;
+                padding: 20px;
             }
         }
     </style>
@@ -172,9 +182,9 @@ redirect_from:
 <div class="main-container">
     <!-- Sidebar with image and contact details -->
     <div class="sidebar">
-        <img src="https://via.placeholder.com/120" alt="Your Profile Picture">
+        <img src="https://via.placeholder.com/150" alt="Your Profile Picture">
         <h1>Mohammad Shahedur Rahman</h1>
-        <p>Ph.D. Student in Computer Science<br>at University of Texas at Arlington</p>
+        <p>Ph.D. Student in Computer Science<br>at The University of Texas at Arlington</p>
         <ul>
             <li><a href="#">Arlington, Texas</a></li>
             <li><a href="mailto:email@example.com">Email</a></li>
@@ -208,10 +218,6 @@ redirect_from:
                 <strong>March 2007:</strong> Awarded a gold medal from the Governor of the Central Bank of Bangladesh (Bangladesh Bank) for outstanding performance in the Higher Secondary Certificate Exam (12th Grade).
             </li>
         </ul>
-
-        <footer>
-            © 2024 by Mohammad Shahedur Rahman. All rights reserved.
-        </footer>
     </div>
 </div>
 
