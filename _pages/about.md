@@ -13,35 +13,49 @@ redirect_from:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+        /* General Style */
         body {
             font-family: 'Lato', Arial, sans-serif;
-            background-color: #f7f7f7; /* Light background */
+            background-color: #f7f7f7;
             color: #333;
             margin: 0;
             padding: 0;
         }
 
         .container {
-            max-width: 1200px; /* Ensure page width matches Skills & Certifications page */
+            max-width: 1200px; /* Biography Section Width */
             margin: 50px auto;
             padding: 30px;
-            background-color: #ffffff; /* White background for content area */
+            background: linear-gradient(135deg, #f0f0f0 30%, #ffffff 100%);
             border-radius: 15px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
+        /* Headings */
         h2 {
             text-align: center;
-            font-size: 32px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 36px;
             color: #222;
             font-weight: 700;
+            letter-spacing: 1.2px;
             margin-bottom: 40px;
+            position: relative;
+        }
+
+        h2::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 3px;
+            background: #007BFF;
+            margin: 10px auto;
         }
 
         p {
             text-align: justify;
             font-size: 18px;
-            line-height: 1.7;
+            line-height: 1.8;
             color: #555;
             margin-bottom: 25px;
         }
@@ -50,6 +64,7 @@ redirect_from:
             color: #007BFF;
             text-decoration: none;
             font-weight: bold;
+            transition: color 0.3s ease;
         }
 
         a:hover {
@@ -57,35 +72,59 @@ redirect_from:
             text-decoration: underline;
         }
 
-        /* Career Highlights section */
+        /* Career Highlights Section */
         .highlights-section {
             margin-top: 50px;
         }
 
         .highlight-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 20px;
         }
 
         .highlight-card {
+            background: #ffffff;
+            border-radius: 12px;
             padding: 20px;
-            background-color: #f9f9f9;
-            border-radius: 10px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .highlight-card::before {
+            content: '';
+            position: absolute;
+            width: 200%;
+            height: 100%;
+            background: rgba(0, 123, 255, 0.05);
+            top: -100%;
+            left: -50%;
+            transform: rotate(45deg);
+            transition: all 0.5s ease;
+        }
+
+        .highlight-card:hover::before {
+            top: 0;
         }
 
         .highlight-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
         }
 
         .highlight-card strong {
             display: block;
-            font-size: 18px;
-            margin-bottom: 10px;
+            font-size: 20px;
+            margin-bottom: 15px;
             color: #333;
+        }
+
+        .highlight-card p {
+            margin: 0;
+            font-size: 16px;
+            color: #666;
         }
 
         /* Call to Action Button */
@@ -100,9 +139,11 @@ redirect_from:
             background-color: #007BFF;
             color: white;
             font-size: 18px;
+            font-weight: bold;
             border-radius: 50px;
             text-decoration: none;
             transition: background-color 0.3s ease, transform 0.2s ease;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
 
         .cta a:hover {
@@ -113,7 +154,7 @@ redirect_from:
         /* Responsive Design */
         @media (max-width: 768px) {
             h2 {
-                font-size: 24px;
+                font-size: 28px;
             }
 
             p {
@@ -136,7 +177,6 @@ redirect_from:
 <div class="container">
     <!-- Biography Section -->
     <div class="biography-section">
-        <h2>Biography</h2>
         <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
         <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
