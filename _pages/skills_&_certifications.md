@@ -93,7 +93,10 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*J-5DmVTppqBWPzAXzBlfdA.png" alt="Grafana Icon">
+        <span>
+        <img src="https://cdn.prod.website-files.com/61e1d8dcf4a5e16aab73f6b4/6436e5b8414672f2c5e6bf96_HvXhzF0cx90RWU_ej6Gv9N_nyQLdp0y9rSWk0XX89_wpyY_AJttyzmc8x5Q5XPjq1bT4U87X-2pZWbVfD8JsybS-MFV2vV-xKTTWr1n-TuKCIoyaAnGU9jK3kzDsyvnBVEeWoWyRjSjRvuj-4gBCacY.png" alt="Grafana Icon">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWtiB3_BrC4i5u7moVyhQQMlycSo8b7j4fg&s" alt="Grafana Icon">
+        </span>
         <p>Prometheus, Grafana, Jaeger</p>
         <p class="subtext">Monitoring and Metrics</p>
     </div>
