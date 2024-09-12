@@ -97,9 +97,12 @@ author_profile: true
     </div>
 
     <div class="skill">
+        </span>
         <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
-        <p>Linux</p>
-        <p class="subtext">Operating System</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali Linux">
+        </span>
+        <p>Linux, Kali Linux</p>
+        <p class="subtext">Operating Systems</p>
     </div>
 
     <div class="skill">
