@@ -25,7 +25,7 @@ redirect_from:
 
         /* Main layout container */
         .main-container {
-            max-width: 1000px;
+            max-width: 800px;
             width: 100%;
             margin-top: 30px;
             padding: 40px;
