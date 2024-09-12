@@ -12,11 +12,13 @@ redirect_from:
     <style>
         /* General Style */
         body {
-            font-family: 'Lato', Tahoma, sans-serif;
+            font-family: 'Lato', Arial, sans-serif;
             background-color: #f7f7f7;
             color: #333;
             margin: 0;
             padding: 0;
+            min-height: 100vh; /* Ensures the page takes up full viewport height */
+            position: relative; /* Enables child elements like footer and button to position themselves relative to the body */
         }
 
         .container {
@@ -113,6 +115,7 @@ redirect_from:
         .cta {
             text-align: center;
             margin-top: 50px;
+            margin-bottom: 50px; /* Ensure margin at the bottom so it's not cut off */
         }
 
         .cta a {
@@ -131,6 +134,14 @@ redirect_from:
         .cta a:hover {
             background-color: #0056b3;
             transform: translateY(-3px);
+        }
+
+        /* Make sure footer appears after everything else */
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 60px; /* Footer height */
         }
 
         /* Responsive Design */
@@ -164,12 +175,12 @@ redirect_from:
 <div class="container">
     <!-- Biography Section -->
     <div class="biography-section">
-        <h2>Biography</h2> <!-- Keep only this heading for "Biography" -->
+        <h2>Biography</h2>
         <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
         <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
 
-        <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security (MISS) from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
+        <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
 
         <!-- Career Highlights Section -->
         <h2>Career Highlights</h2>
@@ -204,6 +215,10 @@ redirect_from:
         </div>
     </div>
 </div>
+
+<footer>
+    <!-- You can customize the footer content here if necessary -->
+</footer>
 
 </body>
 </html>
