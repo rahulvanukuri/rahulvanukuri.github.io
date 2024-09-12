@@ -54,15 +54,16 @@ author_profile: true
 
 <div class="skills-section">
     <div class="skill">
+        <span>
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
+        <img src="https://e7.pngegg.com/pngimages/93/966/png-clipart-shell-script-command-line-interface-unix-shell-bash-shell-commandline-interface-bird-thumbnail.png" alt="Python Icon">
+        </span>
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
     </div>
     
     <div class="skill">
-        <span>
-        <img src="https://www.opsmx.com/blog/wp-content/uploads/2017/06/docker-k8s-2.jpg" alt="Docker Icon">       
-        </span>
+        <img src="https://www.opsmx.com/blog/wp-content/uploads/2017/06/docker-k8s-2.jpg" alt="Docker Icon">
         <p>Docker, Kubernetes</p>
         <p class="subtext">Container Orchestration</p>
     </div>
