@@ -24,7 +24,7 @@ author_profile: true
             color: #222;
         }
         .section-title {
-            margin: 50px 0 30px;
+            margin: 30px 0 20px; /* Reduced margin to move section upwards */
             font-size: 28px;
             color: #444;
             text-transform: uppercase;
@@ -33,9 +33,9 @@ author_profile: true
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 20px;
-            padding: 30px 20px;
+            padding: 20px; /* Reduced padding to fit more content vertically */
             max-width: 1200px;
-            margin: auto;
+            margin: 0 auto; /* Ensures section is aligned at the top */
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -70,13 +70,13 @@ author_profile: true
         .certifications-list {
             list-style-type: none;
             padding: 0;
-            margin: 40px auto;
+            margin: 20px auto; /* Reduced margin to bring certifications section up */
             max-width: 800px;
         }
         .certifications-list li {
             display: flex;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             padding: 10px;
             border-radius: 10px;
             background-color: #f9f9f9;
