@@ -18,17 +18,17 @@ redirect_from:
             font-family: 'Lato', Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f2f5f8; /* Softer background for comfort */
+            background-color: #f2f5f8;
             color: #333;
             line-height: 1.8;
         }
         .container {
             max-width: 1000px;
-            margin: 60px auto;
+            margin: 20px auto; /* Reduced margin for less gap at the top */
             padding: 40px;
-            background-color: #fff; /* Clean white background */
+            background-color: #fff;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
-            border-radius: 20px; /* Rounded corners for modern look */
+            border-radius: 20px;
             border: 1px solid #e0e0e0;
         }
         h1 {
@@ -57,8 +57,8 @@ redirect_from:
 
         /* Highlights section styling */
         .news-section {
-            margin-top: 60px;
-            padding-top: 30px;
+            margin-top: 40px; /* Reduced top margin for the news section */
+            padding-top: 20px;
         }
 
         h2 {
@@ -66,7 +66,7 @@ redirect_from:
             text-align: center;
             font-weight: 700;
             font-size: 32px;
-            margin-bottom: 40px;
+            margin-bottom: 30px; /* Reduced bottom margin */
             letter-spacing: 1px;
         }
 
@@ -77,12 +77,12 @@ redirect_from:
             margin-bottom: 20px;
             background-color: #f8f9fa;
             border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* Light shadow for card effect */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .news-item:hover {
             transform: translateY(-5px);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Larger shadow on hover */
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
         }
         .news-item strong {
             font-size: 20px;
