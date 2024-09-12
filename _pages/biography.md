@@ -79,6 +79,7 @@ redirect_from:
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            font-family: 'Georgia', serif;
         }
 
         .certification-card h5,
@@ -88,16 +89,18 @@ redirect_from:
             color: #333;
         }
 
+        /* Applying the correct font size for education section */
         .certification-card h5 {
-            font-size: 20px; /* Set the font size for headings */
+            font-size: 22px; /* Font size for headings */
+            font-weight: bold; /* Making the heading bold */
         }
 
         .certification-card p {
-            font-size: 18px; /* Set the font size for regular text */
+            font-size: 18px; /* Font size for regular text */
         }
 
         .certification-card small {
-            font-size: 16px; /* Set the font size for small text */
+            font-size: 16px; /* Font size for small text */
         }
 
         .certification-card:hover {
