@@ -31,7 +31,8 @@ author_profile: true
         }
         .skills-section, .certifications-section {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(4, 1fr); /* 4 columns */
+            grid-template-rows: repeat(4, auto); /* 4 rows */
             gap: 20px;
             padding: 30px 20px;
             max-width: 1200px;
@@ -110,23 +111,20 @@ author_profile: true
         <p class="subtext">Large Scale Project Management</p>
     </div>
 
-    <div class="skills-section">
     <div class="item">
-        <img src="https://c7.alamy.com/comp/2D90ABN/eight-soft-skills-2D90ABN.jpg" alt="Python Icon">
-        <p>Inclusive Leadership, Business Communication </p>
+        <img src="https://c7.alamy.com/comp/2D90ABN/eight-soft-skills-2D90ABN.jpg" alt="Soft Skills">
+        <p>Inclusive Leadership, Business Communication</p>
         <p class="subtext">Soft Skills</p>
     </div>
 
-    <div class="skills-section">
     <div class="item">
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
     </div>
 
-    <div class="skills-section">
     <div class="item">
-        <img src="https://w7.pngwing.com/pngs/977/12/png-transparent-responsive-web-design-web-development-bootstrap-html-javascript-world-wide-web-text-trademark-logo.png" alt="Python Icon">
+        <img src="https://w7.pngwing.com/pngs/977/12/png-transparent-responsive-web-design-web-development-bootstrap-html-javascript-world-wide-web-text-trademark-logo.png" alt="Web Development">
         <p>HTML, CSS, Bootstrap, MERN, MEAN</p>
         <p class="subtext">Web Development</p>
     </div>
@@ -161,12 +159,12 @@ author_profile: true
         <p class="subtext">Databases</p>
     </div>
 
-    <div class="skills-section">
     <div class="item">
-        <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="Python Icon">
+        <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="IT Audit">
         <p>ISO, ITAF</p>
         <p class="subtext">IT Audit</p>
     </div>
+
     <div class="item">
         <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM">
         <p>SIEM, XDR, EDR</p>
@@ -186,7 +184,7 @@ author_profile: true
     </div>
 
     <div class="item">
-        <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="NMAP">
+        <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="VAPT Tools">
         <p>NMAP, Nessus, Burpsuite</p>
         <p class="subtext">VAPT Tools</p>
     </div>
@@ -216,6 +214,10 @@ author_profile: true
         <p>Certified in Risk and Information Systems Control (CRISC)</p>
     </li>
     <li>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+        <p>Certified Information Systems Auditor (CISA)</p>
+    </li>
+    <li>
         <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
         <p>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</p>
     </li>
@@ -223,10 +225,7 @@ author_profile: true
         <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
         <p>PCI DSS V3.2.1 Implementer (BSI)</p>
     </li>
-    <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-        <p>Certified Information Systems Auditor (CISA)</p>
-    </li>
+
     <li>
         <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
         <p>Certified Lean Six Sigma Black Belt</p>
