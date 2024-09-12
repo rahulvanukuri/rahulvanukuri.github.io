@@ -74,8 +74,6 @@ redirect_from:
         }
 
         .certification-card {
-            display: flex;
-            align-items: center;
             padding: 20px;
             background-color: #f9f9f9;
             border-radius: 10px;
@@ -86,12 +84,6 @@ redirect_from:
         .certification-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-        }
-
-        .certification-card img {
-            width: 40px;
-            height: 40px;
-            margin-right: 20px;
         }
 
         .certification-card h4 {
@@ -161,12 +153,11 @@ redirect_from:
 <body>
 
 <div class="content">
-    <!-- Card Layout for Biography -->
+    <!-- Full-width Biography Card -->
     <div class="certification-layout">
         <div class="separator">Biography</div>
-        <!-- Biography Card -->
-        <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/user.png" alt="Biography Icon">
+        <!-- Biography Card without the Icon -->
+        <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
                 <h4>Biography</h4>
                 <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
@@ -182,11 +173,8 @@ redirect_from:
         <div class="separator">Interests</div>
         <!-- Interests Card -->
         <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Interests Icon">
-            <div>
-                <h4>Interests</h4>
-                <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
-            </div>
+            <h4>Interests</h4>
+            <p>Cloud Computing, Information and Cyber Security, Microservices, High Performance Computing (HPC), HPC in the Cloud, Machine Learning for Systems, Distributed Systems</p>
         </div>
 
         <!-- Education Section Separator -->
@@ -194,38 +182,26 @@ redirect_from:
 
         <!-- Education Card 1 -->
         <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>PhD in Computer Science and Engineering</h4>
-                <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-            </div>
+            <h4>PhD in Computer Science and Engineering</h4>
+            <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
         </div>
 
         <!-- Education Card 2 -->
         <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>MSc in Information Systems Security (MISS)</h4>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
-            </div>
+            <h4>MSc in Information Systems Security (MISS)</h4>
+            <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
         </div>
 
         <!-- Education Card 3 -->
         <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>MBA in Management Information Systems</h4>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
-            </div>
+            <h4>MBA in Management Information Systems</h4>
+            <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
         </div>
 
         <!-- Education Card 4 -->
         <div class="certification-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div>
-                <h4>BSc in Computer Science and Engineering</h4>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
-            </div>
+            <h4>BSc in Computer Science and Engineering</h4>
+            <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
         </div>
     </div>
 </div>
