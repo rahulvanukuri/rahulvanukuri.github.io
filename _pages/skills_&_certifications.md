@@ -140,9 +140,12 @@ author_profile: true
         <p>AWS, GCP</p>
         <p class="subtext">Cloud Computing</p>
     </div>
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png
     <div class="item">
+        <span>
         <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Icon">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux Icon">
+        </span>
         <p>Linux, Kali Linux</p>
         <p class="subtext">Operating Systems</p>
     </div>
