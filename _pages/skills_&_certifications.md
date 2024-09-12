@@ -36,7 +36,7 @@ author_profile: true
             border-radius: 10px;
         }
         .skill img {
-            width: 80px; /* Consistent icon size */
+            width: 60px; /* Smaller icon size for balance */
             margin-bottom: 10px;
         }
         /* Larger specific icons */
@@ -44,19 +44,19 @@ author_profile: true
         .skill img[alt="Database Icon"],
         .skill img[alt="SOAR"],
         .skill img[alt="DLP"] {
-            width: 100px;
+            width: 80px;
         }
         /* SIEM, XDR icon alignment */
         .skill img[alt="SIEM"],
         .skill img[alt="XDR"] {
-            width: 80px;
-            height: 80px;
+            width: 60px;
+            height: 60px;
         }
         /* Smaller icons for NMAP, Nessus, Burpsuite */
         .skill img[alt="NMAP"],
         .skill img[alt="Nessus"],
         .skill img[alt="Burpsuite"] {
-            width: 60px;
+            width: 50px;
         }
         p {
             text-align: center;
