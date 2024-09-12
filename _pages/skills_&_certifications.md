@@ -125,13 +125,14 @@ author_profile: true
     </div>
 
     <div class="skill">
-        <span>
-        <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM">
-        <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR">
+        <span style="display: flex; justify-content: center;">
+            <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM" style="width: 80px; height: 80px; margin-right: 10px;">
+            <img src="https://blog.wei.com/hubfs/WEI-Blog-XDR.-Salem-NH.7.15.22.png" alt="XDR" style="width: 80px; height: 80px;">
         </span>
         <p>SIEM, XDR, EDR</p>
         <p class="subtext">Threat Detection and Defense Tools</p>
     </div>
+
 
     <div class="skill">
         <img src="https://www.office1.com/hs-fs/hubfs/04-SOAR.jpg?width=1200&name=04-SOAR.jpg" alt="SOAR">
@@ -155,6 +156,22 @@ author_profile: true
         </span>
         <p>NMAP, Nessus, Burpsuite</p>
         <p class="subtext">VAPT Tools</p>
+    </div>
+
+    <div class="skill">
+        <span>
+        <img src="https://www.ideagen.com/media/11748/grc-circle.png" alt="GRC">
+        </span>
+        <p>GRC, ISO, COBIT</p>
+        <p class="subtext">GRC</p>
+    </div>
+
+    <div class="skill">
+        <span>
+        <img src="https://www.advanceitsm.com/assets/images/courses/ITIL.svg" alt="ITIL">
+        </span>
+        <p>ITIL</p>
+        <p class="subtext">IT Incident Management</p>
     </div>
     
 </div>
