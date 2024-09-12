@@ -195,6 +195,10 @@ author_profile: true
             <p>Certified in Risk and Information Systems Control (CRISC)</p>
         </li>
         <li>
+            <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/twitter_thumb_201604_image.png" alt="CC">
+            <p>Certified in Cybersecurity (CC)</p>
+        </li>
+        <li>
             <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
             <p>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</p>
         </li>
@@ -205,6 +209,10 @@ author_profile: true
         <li>
             <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
             <p>Certified Lean Six Sigma Black Belt</p>
+        </li>
+        <li>
+            <img src="https://www.eccouncil.org/wp-content/uploads/2023/01/CBP-side-banner.jpg" alt="CBP">
+            <p>Certified Blockchain Professional</p>
         </li>
         <li>
             <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO 27001 Icon">
@@ -219,6 +227,10 @@ author_profile: true
             <p>ISO 27032 Lead Cybersecurity Manager</p>
         </li>
         <li>
+            <img src=" https://images.credly.com/images/91406b1f-a628-4387-b6c3-b3da5d570803/00402.png" alt="CLPTP">
+            <p>Certified Lead Penetration Testing Professional</p>
+        </li>
+        <li>
             <img src="https://static.wingify.com/gcp/uploads/sites/3/2021/09/ISOIEC-27701.png" alt="GDPR Icon">
             <p>Privacy Information Management and GDPR</p>
         </li>
@@ -226,6 +238,26 @@ author_profile: true
             <img src="https://cdn.pressport.com/files/view?c=5052&f=35099&width=660" alt="ITIL Icon">
             <p>ITIL Foundation</p>
         </li>
+        <li>
+            <img src="https://www.insightssuccess.in/wp-content/uploads/2022/04/What-Should-Everyone-Know-About-Prince-2-Foundation-and-Practitioner-Certification-Course.jpg" alt="PRINCE2 Icon">
+            <p>PRINCE2 Foundation and Practiioner</p>
+        </li>
+        <li>
+            <img src="https://ahad-me.com/uploaded-documents/media/CEH.png" alt="CEH">
+            <p>Certified Ethical Hacker</p>
+        </li>
+
+        <li>
+            <img src="https://www.digitaljewels.net/wp-content/uploads/2022/05/CTIA-logo.png" alt="CTIA">
+            <p>Certified Threat Intelligence Analyst</p>
+        </li>
+
+        <li>
+            <img src="https://ec-council-international.myshopify.com/cdn/shop/files/CSCU-logo_a70eb0ae-598e-40eb-a3e8-d725e91f70e2_1200x1200.png?v=1687381760" alt="CSCU">
+            <p>Certified Secure Computer User</p>
+        </li>
+        
+        
     </ul>
 </div>
 
