@@ -13,11 +13,11 @@ redirect_from:
     <style>
         /* General Body Style */
         body {
-            font-family: 'Georgia', serif; /* Matching font style */
+            font-family: 'Georgia', serif; /* Font matching the attached image */
             background-color: #f0f7fa;
             margin: 0;
             padding: 0;
-            color: #333; /* Matching font color */
+            color: #333; /* Text color matching the attached image */
         }
 
         /* Main content container */
@@ -31,7 +31,7 @@ redirect_from:
         }
 
         .content h2 {
-            font-family: 'Georgia', serif; /* Matching font style */
+            font-family: 'Georgia', serif;
             font-size: 28px; /* Matching font size */
             color: #1e3d8f; /* Matching blue color */
             font-weight: bold;
@@ -51,12 +51,13 @@ redirect_from:
         .content p {
             font-size: 18px; /* Matching font size */
             line-height: 1.8;
-            color: #333; /* Matching font color */
+            color: #333; /* Text color */
             margin-bottom: 20px;
+            text-align: justify; /* Justified alignment */
         }
 
         .content a {
-            color: #1e3d8f; /* Matching blue color */
+            color: #1e3d8f; /* Blue color for links */
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s ease;
@@ -66,13 +67,20 @@ redirect_from:
             color: #003399;
         }
 
+        /* Two-Column Layout for Education and Interests */
+        .two-columns {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+        }
+
         /* Education Section */
         .education-section h3 {
-            font-family: 'Georgia', serif; /* Matching font style */
+            font-family: 'Georgia', serif;
             font-size: 24px; /* Matching font size */
-            color: #1e3d8f; /* Matching blue color */
-            margin-bottom: 20px;
+            color: #1e3d8f; /* Blue color */
             font-weight: bold;
+            margin-bottom: 20px;
         }
 
         .education-item {
@@ -90,12 +98,43 @@ redirect_from:
         .education-item .details {
             font-size: 18px; /* Matching font size */
             color: #333;
+            text-align: justify; /* Justified alignment */
         }
 
         .education-item .details small {
             display: block;
             color: #888;
             font-size: 14px;
+        }
+
+        /* Interests Section */
+        .interests-section h3 {
+            font-family: 'Georgia', serif;
+            font-size: 24px; /* Matching font size */
+            color: #1e3d8f; /* Blue color */
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .interests-section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .interests-section ul li {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: #333;
+            text-align: justify; /* Justified alignment */
+        }
+
+        .interests-section ul li::before {
+            content: "•";
+            color: #1e3d8f; /* Matching blue color for bullet points */
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
         }
 
         /* Footer */
@@ -145,38 +184,38 @@ redirect_from:
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
-    <!-- Education Section -->
-    <div class="education-section">
-        <h3>Education</h3>
-        <div class="education-item">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div class="details">
-                PhD in Computer Science and Engineering, August 2028 (Expected)
-                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
-            </div>
+    <!-- Two-Column Layout for Interests and Education -->
+    <div class="two-columns">
+        <!-- Interests Section -->
+        <div class="column interests-section">
+            <h3>Interests</h3>
+            <ul>
+                <li>Cloud Computing</li>
+                <li>Microservices</li>
+                <li>High Performance Computing (HPC)</li>
+                <li>HPC in the Cloud (Converged Computing)</li>
+                <li>Machine Learning for Systems</li>
+                <li>Distributed Systems</li>
+            </ul>
         </div>
 
-        <div class="education-item">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div class="details">
-                MSc in Information Systems Security (MISS), 2018
-                <small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small>
+        <!-- Education Section -->
+        <div class="column education-section">
+            <h3>Education</h3>
+            <div class="education-item">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div class="details">
+                    PhD in Computer Science and Engineering, August 2024 (Expected)
+                    <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington</a></small>
+                </div>
             </div>
-        </div>
 
-        <div class="education-item">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div class="details">
-                MBA in Management Information Systems (MIS), 2016
-                <small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small>
-            </div>
-        </div>
-
-        <div class="education-item">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
-            <div class="details">
-                BSc in Computer Science and Engineering, 2011
-                <small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small>
+            <div class="education-item">
+                <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+                <div class="details">
+                    BSc in Computer Science and Engineering, 2015
+                    <small><a href="https://kuet.ac.bd/">Khulna University of Engineering & Technology</a></small>
+                </div>
             </div>
         </div>
     </div>
