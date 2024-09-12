@@ -13,10 +13,11 @@ redirect_from:
     <style>
         /* General Body Style */
         body {
-            font-family: 'Roboto', Arial, sans-serif;
+            font-family: 'Georgia', serif; /* Matching font style */
             background-color: #f0f7fa;
             margin: 0;
             padding: 0;
+            color: #333; /* Matching font color */
         }
 
         /* Main content container */
@@ -30,49 +31,48 @@ redirect_from:
         }
 
         .content h2 {
-            font-family: 'Poppins', sans-serif;
-            font-size: 36px;
-            color: #333;
-            font-weight: 700;
-            margin-bottom: 40px;
+            font-family: 'Georgia', serif; /* Matching font style */
+            font-size: 28px; /* Matching font size */
+            color: #1e3d8f; /* Matching blue color */
+            font-weight: bold;
+            margin-bottom: 20px;
             position: relative;
         }
 
         .content h2::after {
             content: '';
             display: block;
-            width: 60px;
-            height: 4px;
-            background-color: #007acc;
+            width: 100%;
+            height: 1px;
+            background-color: #cccccc;
             margin-top: 10px;
         }
 
         .content p {
-            font-size: 18px;
+            font-size: 18px; /* Matching font size */
             line-height: 1.8;
-            color: #555;
+            color: #333; /* Matching font color */
             margin-bottom: 20px;
         }
 
         .content a {
-            color: #007acc;
+            color: #1e3d8f; /* Matching blue color */
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         .content a:hover {
-            color: #0056b3;
+            color: #003399;
         }
 
         /* Education Section */
-        .education-section {
-            margin-top: 40px;
-        }
-
         .education-section h3 {
-            font-size: 24px;
+            font-family: 'Georgia', serif; /* Matching font style */
+            font-size: 24px; /* Matching font size */
+            color: #1e3d8f; /* Matching blue color */
             margin-bottom: 20px;
+            font-weight: bold;
         }
 
         .education-item {
@@ -88,7 +88,7 @@ redirect_from:
         }
 
         .education-item .details {
-            font-size: 18px;
+            font-size: 18px; /* Matching font size */
             color: #333;
         }
 
@@ -169,7 +169,8 @@ redirect_from:
             <div class="details">
                 MBA in Management Information Systems (MIS), 2016
                 <small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small>
-          </div>
+            </div>
+        </div>
 
         <div class="education-item">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
