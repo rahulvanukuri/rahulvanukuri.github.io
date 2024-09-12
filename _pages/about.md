@@ -34,7 +34,7 @@ redirect_from:
         h2 {
             text-align: center;
             font-family: 'Montserrat', sans-serif;
-            font-size: 36px;
+            font-size: 35px; /* Reduced font size */
             color: #222;
             font-weight: 700;
             letter-spacing: 1.2px;
@@ -53,7 +53,7 @@ redirect_from:
 
         p {
             text-align: justify;
-            font-size: 18px;
+            font-size: 17px; /* Reduced font size */
             line-height: 1.8;
             color: #555;
             margin-bottom: 25px;
@@ -99,7 +99,7 @@ redirect_from:
         }
 
         .highlight-item strong {
-            font-size: 18px;
+            font-size: 17px; /* Reduced font size */
             color: #333;
             margin-right: 15px;
             min-width: 150px;
@@ -107,7 +107,7 @@ redirect_from:
 
         .highlight-item p {
             margin: 0;
-            font-size: 16px;
+            font-size: 15px; /* Reduced font size */
             color: #555;
         }
 
@@ -120,10 +120,10 @@ redirect_from:
 
         .cta a {
             display: inline-block;
-            padding: 15px 30px;
+            padding: 14px 28px; /* Slightly reduced padding */
             background-color: #007BFF;
             color: white;
-            font-size: 18px;
+            font-size: 17px; /* Reduced font size */
             font-weight: bold;
             border-radius: 50px;
             text-decoration: none;
@@ -147,11 +147,11 @@ redirect_from:
         /* Responsive Design */
         @media (max-width: 768px) {
             h2 {
-                font-size: 28px;
+                font-size: 27px; /* Reduced font size */
             }
 
             p {
-                font-size: 16px;
+                font-size: 15px; /* Reduced font size */
             }
 
             .highlight-item {
@@ -160,11 +160,11 @@ redirect_from:
 
             .highlight-item strong {
                 min-width: 100px;
-                font-size: 16px;
+                font-size: 15px; /* Reduced font size */
             }
 
             .cta a {
-                font-size: 16px;
+                font-size: 15px; /* Reduced font size */
                 padding: 10px 20px;
             }
         }
