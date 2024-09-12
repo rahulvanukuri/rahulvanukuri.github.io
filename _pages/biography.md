@@ -177,15 +177,26 @@ redirect_from:
         <!-- Interests Section Separator -->
         <div class="separator">Interests</div>
         <!-- Interests Card -->
+      <!-- Interests Card 1 -->
         <div class="certification-card">
-            <p><li>Cloud Computing</li>
+            <div>
+            <li>Cloud Computing</li>
             <li>Information and Cyber Security</li>
             <li>Microservices</li> 
+            <li>High Performance Computing (HPC)</li>
+            </div>
+        </div>
+
+        <!-- Interests Card 1 -->
+        <div class="certification-card">
+            <div>
             <li>High Performance Computing (HPC)</li>
             <li>HPC in the Cloud</li>
             <li>Machine Learning for Systems</li>
             <li>Distributed Systems</li></p>
+            </div>
         </div>
+        
 
         <!-- Education Section Separator -->
         <div class="separator">
