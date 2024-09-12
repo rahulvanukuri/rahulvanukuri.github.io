@@ -23,27 +23,27 @@ redirect_from:
             line-height: 1.8;
         }
         .container {
-            max-width: 1000px;
-            margin: 20px auto; /* Reduced margin for less gap at the top */
-            padding: 40px;
+            max-width: 90%; /* Utilize more screen width */
+            margin: 20px auto; /* Reduced margin for less gap */
+            padding: 30px;
             background-color: #fff;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
-            border-radius: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            border-radius: 12px;
             border: 1px solid #e0e0e0;
         }
         h1 {
             color: #222;
             text-align: center;
-            font-weight: 700;
-            font-size: 38px;
-            margin-bottom: 40px;
-            letter-spacing: 1px;
+            font-weight: 600;
+            font-size: 30px; /* Reduced font size */
+            margin-bottom: 25px;
+            letter-spacing: 0.5px;
         }
         p {
             text-align: justify;
-            font-size: 18px;
+            font-size: 16px; /* Smaller, cleaner text */
             color: #555;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
         a {
             text-decoration: none;
@@ -55,68 +55,69 @@ redirect_from:
             color: #0056b3;
         }
 
-        /* Highlights section styling */
+        /* Career Highlights styling */
         .news-section {
-            margin-top: 40px; /* Reduced top margin for the news section */
+            margin-top: 30px; /* Reduced margin */
             padding-top: 20px;
         }
 
         h2 {
             color: #222;
             text-align: center;
-            font-weight: 700;
-            font-size: 32px;
-            margin-bottom: 30px; /* Reduced bottom margin */
-            letter-spacing: 1px;
+            font-weight: 600;
+            font-size: 24px; /* Reduced font size for consistency */
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
         }
 
         .news-item {
             display: flex;
             align-items: flex-start;
-            padding: 20px;
-            margin-bottom: 20px;
+            padding: 15px;
+            margin-bottom: 15px; /* Reduced space between items */
             background-color: #f8f9fa;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
         .news-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
         }
         .news-item strong {
-            font-size: 20px;
+            font-size: 16px;
             color: #333;
-            flex: 0 0 180px;
+            flex: 0 0 120px;
             font-weight: 600;
-            margin-right: 20px;
+            margin-right: 15px;
         }
         .news-item p {
             margin: 0;
-            font-size: 16px;
+            font-size: 15px;
             color: #555;
         }
 
         /* Call to action section */
         .cta {
             text-align: center;
-            margin-top: 50px;
-            padding: 30px 0;
+            margin-top: 40px;
+            padding: 20px 0;
             background-color: #f1f4f6;
-            border-radius: 10px;
+            border-radius: 8px;
         }
         .cta p {
-            font-size: 1.3em;
+            font-size: 1.2em;
             color: #007BFF;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
         .cta a {
-            font-size: 1.2em;
+            font-size: 1.1em;
             color: #fff;
             background-color: #007BFF;
-            padding: 15px 30px;
-            border-radius: 50px;
+            padding: 12px 30px;
+            border-radius: 30px;
             text-decoration: none;
+            display: inline-block;
             transition: background-color 0.3s ease, transform 0.2s;
         }
         .cta a:hover {
@@ -130,21 +131,21 @@ redirect_from:
         /* Responsive design adjustments */
         @media (max-width: 768px) {
             .container {
-                padding: 30px;
+                padding: 20px;
             }
             h1, h2 {
-                font-size: 28px;
+                font-size: 22px;
             }
             .news-item strong {
-                flex: 0 0 120px;
-                font-size: 16px;
+                flex: 0 0 100px;
+                font-size: 14px;
             }
             .news-item p {
                 font-size: 14px;
             }
             .cta a {
-                padding: 10px 25px;
-                font-size: 1.1em;
+                padding: 10px 20px;
+                font-size: 1em;
             }
         }
     </style>
