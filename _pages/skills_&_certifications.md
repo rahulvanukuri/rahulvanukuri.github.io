@@ -16,6 +16,7 @@ author_profile: true
             margin: 0 15px;
             text-align: center;
         }
+        /* Only one heading visible */
         h1 {
             font-size: 32px;
             margin-bottom: 20px;
@@ -71,7 +72,7 @@ author_profile: true
 </head>
 <body>
 
-<h1>Skills & Certifications</h1>
+<h1>Skills</h1>
 
 <div class="skills-section">
     <div class="skill">
