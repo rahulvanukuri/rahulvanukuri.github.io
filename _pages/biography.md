@@ -21,11 +21,11 @@ redirect_from:
 
         /* Main content container */
         .content {
-            max-width: 900px;
-            margin: 30px auto;
+            width: 100vw;
+            margin: 0;
+            padding: 40px;
             background-color: #ffffff;
             border-radius: 10px;
-            padding: 40px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
