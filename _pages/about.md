@@ -23,10 +23,10 @@ redirect_from:
         }
 
         .container {
-            max-width: 130%; /* Make the biography section wider */
+            max-width: 100%; /* Make the biography section wider */
             margin: 50px auto;
             padding: 30px;
-            background-color: white;
+            background-color: Grey;
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
