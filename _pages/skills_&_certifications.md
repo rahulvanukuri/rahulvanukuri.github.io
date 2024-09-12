@@ -105,11 +105,32 @@ author_profile: true
 <h1 class="section-title">Skills</h1>
 <div class="skills-section">
     <div class="item">
+        <img src="https://cdn-icons-png.flaticon.com/512/9402/9402518.png" alt="Project Management">
+        <p>Waterfall, Agile, Scrum</p>
+        <p class="subtext">Large Scale Project Management</p>
+    </div>
+
+    <div class="skills-section">
+    <div class="item">
+        <img src="https://c7.alamy.com/comp/2D90ABN/eight-soft-skills-2D90ABN.jpg" alt="Python Icon">
+        <p>Inclusive Leadership, Business Communication </p>
+        <p class="subtext">Soft Skills</p>
+    </div>
+
+    <div class="skills-section">
+    <div class="item">
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Icon">
         <p>Python, C, SQL, Bash</p>
         <p class="subtext">Programming Languages</p>
     </div>
 
+    <div class="skills-section">
+    <div class="item">
+        <img src="https://w7.pngwing.com/pngs/977/12/png-transparent-responsive-web-design-web-development-bootstrap-html-javascript-world-wide-web-text-trademark-logo.png" alt="Python Icon">
+        <p>HTML, CSS, Bootstrap, MERN, MEAN</p>
+        <p class="subtext">Web Development</p>
+    </div>
+    
     <div class="item">
         <img src="https://hoffstech.com/wp-content/uploads/2021/08/dockerkubernetes.jpg" alt="Docker Icon">
         <p>Docker, Kubernetes</p>
@@ -140,6 +161,12 @@ author_profile: true
         <p class="subtext">Databases</p>
     </div>
 
+    <div class="skills-section">
+    <div class="item">
+        <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="Python Icon">
+        <p>ISO, GRC, COBIT, ITAF</p>
+        <p class="subtext">IT Audit</p>
+    </div>
     <div class="item">
         <img src="https://www.shutterstock.com/image-illustration/siem-security-information-event-management-260nw-2379351451.jpg" alt="SIEM">
         <p>SIEM, XDR, EDR</p>
