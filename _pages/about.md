@@ -107,6 +107,27 @@ redirect_from:
             color: #666;
         }
 
+        /* Separator for Education Section */
+        .separator {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            color: #1e3d8f;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .separator::after {
+            content: '';
+            display: block;
+            width: 60%;
+            height: 1px;
+            background-color: #cccccc;
+            margin: 10px auto;
+        }
+
         /* Footer */
         footer {
             text-align: center;
@@ -160,6 +181,9 @@ redirect_from:
             </div>
         </div>
 
+        <!-- Education Section Separator -->
+        <div class="separator">Education</div>
+
         <!-- Education Card 1 -->
         <div class="certification-card">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
@@ -182,7 +206,7 @@ redirect_from:
         <div class="certification-card">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
-                <h4>MBA in Management Information Systems (MIS)</h4>
+                <h4>MBA in Management Information Systems</h4>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
             </div>
         </div>
