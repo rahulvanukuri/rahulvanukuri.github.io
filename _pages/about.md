@@ -23,7 +23,7 @@ redirect_from:
         }
 
         .container {
-            max-width: 95%; /* Make the biography section wider */
+            max-width: 130%; /* Make the biography section wider */
             margin: 50px auto;
             padding: 30px;
             background-color: white;
