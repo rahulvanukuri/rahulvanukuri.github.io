@@ -150,19 +150,6 @@ redirect_from:
 <body>
 
 <div class="container">
-    <!-- Profile Section (Left Panel) -->
-    <div class="profile-section">
-        <img src="your-profile-image.jpg" alt="Profile Picture">
-        <h2>Mohammad Shahedur Rahman</h2>
-        <p>Ph.D. Student in Department of Computer Science at The University of Texas at Arlington</p>
-        <p>Arlington, Texas</p>
-        <p>
-            <a href="mailto:email@example.com">Email</a><br>
-            <a href="#">LinkedIn</a><br>
-            <a href="#">GitHub</a><br>
-            <a href="#">Google Scholar</a>
-        </p>
-    </div>
 
     <!-- Biography Section -->
     <div class="biography-section">
