@@ -40,7 +40,7 @@ redirect_from:
         }
 
         p {
-            text-align: left; /* Use left alignment for readability */
+            text-align: justify; /* Use left alignment for readability */
             font-size: 18px;
             line-height: 1.7;
             color: #555;
