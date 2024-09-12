@@ -193,7 +193,7 @@ redirect_from:
             <li>High Performance Computing (HPC)</li>
             <li>HPC in the Cloud</li>
             <li>Machine Learning for Systems</li>
-            <li>Distributed Systems</li></p>
+            <li>Distributed Systems</li>
             </div>
         </div>
         
