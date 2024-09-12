@@ -19,70 +19,10 @@ redirect_from:
             padding: 0;
         }
 
-        /* Main layout container */
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            max-width: 1200px;
-            margin: 30px auto;
-            padding: 0 20px;
-        }
-
-        /* Sidebar */
-        .sidebar {
-            width: 300px;
-            background-color: #ffffff;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-            text-align: center;
-            margin-right: 20px;
-        }
-
-        .sidebar img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
-
-        .sidebar h1 {
-            font-size: 22px;
-            margin: 10px 0;
-        }
-
-        .sidebar p {
-            font-size: 16px;
-            margin-bottom: 20px;
-            color: #555;
-        }
-
-        .sidebar a {
-            color: #007acc;
-            text-decoration: none;
-            display: block;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-
-        .sidebar .social-icons {
-            margin-top: 20px;
-        }
-
-        .sidebar .social-icons a {
-            font-size: 24px;
-            margin: 0 10px;
-            color: #007acc;
-        }
-
-        .social-icons a:hover {
-            color: #0056b3;
-        }
-
-        /* Main content area */
+        /* Main content container */
         .content {
-            flex-grow: 1;
+            max-width: 800px;
+            margin: 30px auto;
             background-color: #ffffff;
             border-radius: 10px;
             padding: 40px;
@@ -149,6 +89,7 @@ redirect_from:
         .column ul li {
             margin-bottom: 10px;
             font-size: 18px;
+            color: #333;
         }
 
         .column ul li::before {
@@ -168,17 +109,23 @@ redirect_from:
             color: #aaa;
         }
 
+        /* Aesthetic Enhancements */
+        .content .cv-link {
+            display: inline-block;
+            background-color: #007acc;
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 5px;
+            margin-top: 20px;
+            text-decoration: none;
+        }
+
+        .content .cv-link:hover {
+            background-color: #0056b3;
+        }
+
         /* Responsive Design */
         @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .sidebar {
-                margin-bottom: 20px;
-            }
-
             .two-columns {
                 flex-direction: column;
             }
@@ -192,53 +139,35 @@ redirect_from:
 </head>
 <body>
 
-<div class="container">
-    <!-- Sidebar with image and contact details -->
-    <div class="sidebar">
-        <img src="https://via.placeholder.com/150" alt="Your Profile Picture">
-        <h1>Mohammad Shahedur Rahman</h1>
-        <p>PhD Student in Computer Science<br>at The University of Texas at Arlington</p>
-        <a href="#">The University of Texas at Arlington</a>
+<div class="content">
+    <!-- Biography Section -->
+    <h2>Biography</h2>
+    <p>I’m a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/">The University of Texas at Arlington</a>, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+    
+    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in cybersecurity, including serving as the Chief Information Security Officer (CISO) at BRAC Bank PLC, where I managed several large-scale projects. I hold a Master’s degree in Information Systems Security and an MBA from the University of Dhaka.</p>
+    
+    <a href="#" class="cv-link">Download my resumé / CV</a>
 
-        <div class="social-icons">
-            <a href="mailto:email@example.com">✉️</a>
-            <a href="#">🔗</a>
-            <a href="#">🐱</a>
-            <a href="#">🔍</a>
-            <a href="#">💼</a>
+    <!-- Interests and Education Section -->
+    <div class="two-columns">
+        <div class="column">
+            <h3>Interests</h3>
+            <ul>
+                <li>Cloud Computing</li>
+                <li>Microservices</li>
+                <li>High Performance Computing (HPC)</li>
+                <li>Machine Learning for Systems</li>
+                <li>Distributed Systems</li>
+            </ul>
         </div>
-    </div>
 
-    <!-- Main content area for biography and details -->
-    <div class="content">
-        <h2>Biography</h2>
-        <p>I’m a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/">The University of Texas at Arlington</a>, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
-        
-        <p>Before starting my Ph.D., I accrued over 12 years of professional experience in cybersecurity, including serving as the Chief Information Security Officer (CISO) at BRAC Bank PLC, where I managed several large-scale projects. I hold a Master’s degree in Information Systems Security and an MBA from the University of Dhaka.</p>
-        
-        <a href="#" download>Download my resumé / CV</a>
-
-        <!-- Interests and Education Section -->
-        <div class="two-columns">
-            <div class="column">
-                <h3>Interests</h3>
-                <ul>
-                    <li>Cloud Computing</li>
-                    <li>Microservices</li>
-                    <li>High Performance Computing (HPC)</li>
-                    <li>Machine Learning for Systems</li>
-                    <li>Distributed Systems</li>
-                </ul>
-            </div>
-
-            <div class="column">
-                <h3>Education</h3>
-                <ul>
-                    <li>PhD in Computer Science, 2024 (Expected)<br>The University of Texas at Arlington</li>
-                    <li>MSc in Information Systems Security, 2018<br>Bangladesh University of Professionals (BUP)</li>
-                    <li>BSc in Computer Science, 2011<br>Bangladesh University of Engineering & Technology (BUET)</li>
-                </ul>
-            </div>
+        <div class="column">
+            <h3>Education</h3>
+            <ul>
+                <li>PhD in Computer Science, 2024 (Expected)<br>The University of Texas at Arlington</li>
+                <li>MSc in Information Systems Security, 2018<br>Bangladesh University of Professionals (BUP)</li>
+                <li>BSc in Computer Science, 2011<br>Bangladesh University of Engineering & Technology (BUET)</li>
+            </ul>
         </div>
     </div>
 </div>
