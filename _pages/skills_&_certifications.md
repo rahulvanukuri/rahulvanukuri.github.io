@@ -39,15 +39,16 @@ author_profile: true
         }
         /* Enlarge Docker and Kubernetes icon */
         .skill img[alt="Docker Icon"] {
-            width: 80px; /* Increase size to 80px */
-        }
-        /* Enlarge Prometheus, Grafana, Jaeger icon */
-        .skill img[alt="Grafana Icon"] {
-            width: 80px; /* Increase size to 80px */
+            width: 100px; /* Increase size */
         }
         /* Enlarge MySQL, MongoDB icon */
         .skill img[alt="Database Icon"] {
-            width: 80px; /* Increase size to 80px */
+            width: 100px; /* Increase size */
+        }
+        /* Make Prometheus, Grafana, Jaeger icons smaller */
+        .skill img[alt="Grafana Icon"],
+        .skill img[alt="Jaeger Icon"] {
+            width: 50px; /* Decrease size */
         }
         p {
             text-align: center;
@@ -95,7 +96,7 @@ author_profile: true
     <div class="skill">
         <span>
         <img src="https://cdn.prod.website-files.com/61e1d8dcf4a5e16aab73f6b4/6436e5b8414672f2c5e6bf96_HvXhzF0cx90RWU_ej6Gv9N_nyQLdp0y9rSWk0XX89_wpyY_AJttyzmc8x5Q5XPjq1bT4U87X-2pZWbVfD8JsybS-MFV2vV-xKTTWr1n-TuKCIoyaAnGU9jK3kzDsyvnBVEeWoWyRjSjRvuj-4gBCacY.png" alt="Grafana Icon">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWtiB3_BrC4i5u7moVyhQQMlycSo8b7j4fg&s" alt="Grafana Icon">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWtiB3_BrC4i5u7moVyhQQMlycSo8b7j4fg&s" alt="Jaeger Icon">
         </span>
         <p>Prometheus, Grafana, Jaeger</p>
         <p class="subtext">Monitoring and Metrics</p>
