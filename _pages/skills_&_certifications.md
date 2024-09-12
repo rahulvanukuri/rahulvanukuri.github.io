@@ -61,8 +61,7 @@ author_profile: true
     
     <div class="skill">
         <span>
-        <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker Icon">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpgX-eSOmlFcV4UcxLM1Mpgq42FAKg2DpC_v6coCMA0MVgfLYh4QdjpjrYPmULNf5p5A&usqp=CAU" alt="Kubernetes Icon">        
+        <img src="https://www.opsmx.com/blog/wp-content/uploads/2017/06/docker-k8s-2.jpg" alt="Docker Icon">       
         </span>
         <p>Docker, Kubernetes</p>
         <p class="subtext">Container Orchestration</p>
