@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -139,6 +138,7 @@ redirect_from:
 <div class="container">
     <!-- Biography Section -->
     <div class="biography-section">
+      <h2>Biography</h2>
         <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
         <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
