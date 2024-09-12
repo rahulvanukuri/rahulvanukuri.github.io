@@ -172,6 +172,8 @@ redirect_from:
 
     <!-- Card Layout for Interests and Education -->
     <div class="certification-layout">
+    <!-- Education Section Separator -->
+        <div class="separator">Interests</div>
         <!-- Interests Card -->
         <div class="certification-card">
             <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Interests Icon">
