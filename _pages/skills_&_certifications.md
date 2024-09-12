@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills & Certifications"
+title: ""
 permalink: /skills_&_certifications/
 author_profile: true
 ---
