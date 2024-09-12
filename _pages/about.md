@@ -23,7 +23,7 @@ redirect_from:
         }
 
         .container {
-            max-width: 1200px; /* Biography Section Width */
+            max-width: 1200px;
             margin: 50px auto;
             padding: 30px;
             background: linear-gradient(135deg, #f0f0f0 30%, #ffffff 100%);
@@ -176,6 +176,7 @@ redirect_from:
 
 <div class="container">
     <!-- Biography Section -->
+    <h2>Biography</h2>
     <div class="biography-section">
         <p>I am a Ph.D. student in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a>, where <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, resource autoscaling, and microservices.</p>
 
@@ -184,8 +185,8 @@ redirect_from:
         <p>In 2011, I earned my B.Sc. in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. Later, I pursued a Master’s in Information Systems Security from <a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a> in 2018, where I graduated with a perfect CGPA and received the Presidential gold medal. Additionally, I completed an MBA from the <a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a> majoring in Management Information Systems (MIS). I began my Ph.D. journey in the Fall of 2023.</p>
 
         <!-- Career Highlights Section -->
+        <h2>Career Highlights</h2>
         <div class="highlights-section">
-            <h2>Career Highlights</h2>
             <div class="highlight-grid">
                 <div class="highlight-card">
                     <strong>August 2023:</strong>
