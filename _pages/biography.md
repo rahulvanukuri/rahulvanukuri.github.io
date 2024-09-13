@@ -254,7 +254,7 @@ redirect_from:
 
         <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering </h5>
                 <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
