@@ -21,7 +21,7 @@ redirect_from:
 
         /* Main content container */
         .content {
-            width: 128%;
+            width: 100%;
             margin: 0 auto;
             padding: 20px;
             max-width: 1000px;
@@ -73,9 +73,9 @@ redirect_from:
         }
 
         .experience-header h5 {
-            font-size: 16px;
+            font-size: 18px; /* Matching font size to your specified font */
             margin: 0;
-            font-weight: normal;
+            font-weight: bold; /* Making it bold */
             color: #333;
         }
 
@@ -89,7 +89,7 @@ redirect_from:
             margin-top: 15px;
         }
 
-        /* Styled bullet points */
+        /* Styled bullet points with smaller size */
         .experience-content ul {
             margin: 0;
             padding-left: 20px;
@@ -97,7 +97,7 @@ redirect_from:
 
         .experience-content ul li {
             margin-bottom: 10px;
-            font-size: 16px;
+            font-size: 15px; /* 1 size smaller */
             color: #333;
             list-style-type: none;
             position: relative;
@@ -109,7 +109,7 @@ redirect_from:
             position: absolute;
             left: 0;
             color: #1e3d8f;
-            font-size: 22px;
+            font-size: 20px;
             line-height: 16px;
         }
 
@@ -129,7 +129,7 @@ redirect_from:
             }
 
             .experience-header h5 {
-                font-size: 14px;
+                font-size: 16px;
             }
 
             .experience-content ul li {
@@ -170,7 +170,7 @@ redirect_from:
         <div class="experience-header">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div>
-                <h5>Graduate Student Researcher</h5>
+                <h5>Graduate Student Researcher</h5> <!-- Bold and resized title -->
                 <small>The University of Texas at Arlington</small>
                 <small>Sep 2019 – Present · Texas</small>
             </div>
