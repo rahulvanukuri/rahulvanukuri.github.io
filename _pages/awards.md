@@ -226,7 +226,7 @@ author_profile: true
     <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
-            <span>Education</span>
+            <span>Awards Received</span>
         </div>
 
         <!-- Education Card 1 -->
@@ -262,7 +262,6 @@ author_profile: true
             <div>
                 <h5>Gold Medal</h5>
                 <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PL</a></small></p>
-            </div>
         </div>
     </div>
 </div>
