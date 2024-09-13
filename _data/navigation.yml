@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Experiences"
-    url: /Experience/
+    url: /experiences/
 
   - title: "Projects"
-    url: /Experience/
+    url: /experiences/
 
   - title: "Skills"
     url: /skills_&_certifications/
