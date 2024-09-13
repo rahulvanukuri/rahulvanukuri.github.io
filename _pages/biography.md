@@ -70,7 +70,7 @@ redirect_from:
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
             gap: 20px;
-            margin-top: 30px;
+            margin-top: 20px;
         }
 
         .certification-card {
@@ -132,6 +132,7 @@ redirect_from:
             display: grid;
             grid-template-columns: 1fr;
             gap: 20px;
+            margin-top: 20px;
         }
 
         .education-card {
