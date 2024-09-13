@@ -18,17 +18,27 @@ author_profile: true
             padding: 0;
             text-align: center;
         }
-        h1 {
-            font-size: 32px;
-            margin-bottom: 40px;
-            color: #222;
+
+        .separator {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            color: #1e3d8f;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            position: relative;
         }
-        .section-title {
-            margin: 20px 0 30px; /* Reduced the top margin to bring the section closer to the top panel */
-            font-size: 28px;
-            color: #444;
-            text-transform: uppercase;
+
+        .separator::after {
+            content: '';
+            display: block;
+            width: 60%;
+            height: 1px;
+            background-color: #cccccc;
+            margin: 10px auto;
         }
+
         .skills-section, .certifications-section {
             display: grid;
             grid-template-columns: repeat(4, 1fr); /* 4 columns */
@@ -41,6 +51,7 @@ author_profile: true
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
+
         .item, .certification-item {
             display: flex;
             flex-direction: column;
@@ -51,29 +62,35 @@ author_profile: true
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
+
         .item:hover, .certification-item:hover {
             transform: translateY(-5px);
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
         }
+
         .item img, .certification-item img {
             width: 60px;
             margin-bottom: 15px;
         }
+
         .item p, .certification-item p {
             font-size: 16px;
             margin: 5px 0;
             color: #333;
         }
+
         .subtext {
             font-size: 14px;
             color: #888;
         }
+
         .certifications-list {
             list-style-type: none;
             padding: 0;
             margin: 40px auto;
             max-width: 800px;
         }
+
         .certifications-list li {
             display: flex;
             align-items: center;
@@ -84,15 +101,18 @@ author_profile: true
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
+
         .certifications-list li:hover {
             transform: translateY(-5px);
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
         }
+
         .certifications-list li img {
             width: 50px;
             height: 50px;
             margin-right: 15px;
         }
+
         .certifications-list li p {
             margin: 0;
             font-size: 16px;
@@ -103,7 +123,7 @@ author_profile: true
 <body>
 
 <!-- Skills Section -->
-<h1 class="section-title">Skills</h1>
+<div class="separator">Skills</div>
 <div class="skills-section">
     <div class="item">
         <img src="https://cdn-icons-png.flaticon.com/512/9402/9402518.png" alt="Project Management">
@@ -215,7 +235,7 @@ author_profile: true
 </div>
 
 <!-- Certifications Section -->
-<h1 class="section-title">Certifications</h1>
+<div class="separator">Certifications</div>
 <ul class="certifications-list">
     <li>
         <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
