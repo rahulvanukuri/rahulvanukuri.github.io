@@ -19,25 +19,26 @@ author_profile: true
             text-align: center;
         }
 
-        .separator {
-            grid-column: 1 / -1;
-            text-align: center;
-            font-size: 22px;
-            font-weight: bold;
-            color: #1e3d8f;
-            margin-top: 20px;
-            margin-bottom: 20px;
-            position: relative;
-        }
+.separator {
+    grid-column: 1 / -1;
+    text-align: center;
+    font-size: 28px; /* Updated to match Biography font size */
+    font-family: 'Georgia', serif; /* Updated to match Biography font */
+    font-weight: bold;
+    color: #1e3d8f; /* Updated to the same blue color as Biography */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
 
-        .separator::after {
-            content: '';
-            display: block;
-            width: 60%;
-            height: 1px;
-            background-color: #cccccc;
-            margin: 10px auto;
-        }
+.separator::after {
+    content: '';
+    display: block;
+    width: 60%;
+    height: 1px;
+    background-color: #cccccc;
+    margin: 10px auto;
+}
 
         .skills-section, .certifications-section {
             display: grid;
