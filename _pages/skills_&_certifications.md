@@ -125,8 +125,6 @@ author_profile: true
         }
 
     </style>
-</head>
-<body>
 
 <div class="content">
    <!-- Skills Section -->
