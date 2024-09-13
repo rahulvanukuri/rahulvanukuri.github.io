@@ -8,7 +8,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohammad Shahedur Rahman</title>
+    <title>Biography</title>
     <style>
         /* General Body Style */
         body {
