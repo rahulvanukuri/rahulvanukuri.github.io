@@ -244,18 +244,19 @@ redirect_from:
         <div class="certification-card">
             <div>
                 <li>Cloud Computing</li>
-                <li>Information and Cyber Security</li>
-                <li>Microservices</li> 
                 <li>High Performance Computing (HPC)</li>
+                <li>Microservices</li> 
+                <li>)HPC in the Cloud</li>
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>HPC in the Cloud</li>
-                <li>Machine Learning for Systems</li>
-                <li>Distributed Systems</li>
+                <li>Project Management</li> 
+                <li>Information and Cyber Security</li> 
+                <li>Governance, Risk & Compliance (GRC)</li>
+                <li>IT Audit</li>
             </div>
         </div>
     </div>
