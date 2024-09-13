@@ -213,6 +213,87 @@ author_profile: true
         </div>
         <div class="experience-content">
             <ul>
+                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
+                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
+                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+            </ul>
+        </div>
+    </div>
+
+        <!-- Experience Card 4 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868=w600-h300-pc0xffffff-pd" alt="BRAC Bank Logo">
+            <div>
+                <h5>Assistant Vice President (AVP)</h5>
+                <small><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a></small>
+                <small>Nov 2016 – Dec 2019 · Dhaka, Bangladesh</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
+                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
+                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Experience Card 5 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1KKd0fNMQ6lXdmdLhY10_1i5Qy4riFFiAw&s" alt="BRAC Bank Logo">
+            <div>
+                <h5>Assistant Manager (Cybersecurity)</h5>
+                <small><a href="<a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
+                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
+                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
+                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Experience Card 6 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <div>
+                <h5>Chief Information Security Officer (CISO)</h5>
+                <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
+                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
+                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
+                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+            </ul>
+        </div>
+    </div>
+    
+    <!-- Experience Card 7 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bangladesh_Computer_Council_Logo.svg/1440px-Bangladesh_Computer_Council_Logo.svg.png" alt="Bangladesh Computer Council Logo">
+            <div>
+                <h5>National IT Security & Audit Consultant</h5>
+                <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
+                <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
+                <small>Dec 2029 – Sep 2022 · Dhaka, Bangladesh</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
                 <li>Provided consulting services on IT security for national-level critical infrastructure projects.</li>
                 <li>Developed security guidelines and performed security audits on major government IT projects.</li>
                 <li>Collaborated with international experts to improve the country’s cybersecurity readiness.</li>
