@@ -233,8 +233,8 @@ author_profile: true
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>STEM Tuition Support </h5>
+                <p>covers all the tuition and fees and got the offer of a Graduate Teaching Assistantship, Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
@@ -242,26 +242,26 @@ author_profile: true
         <div class="education-card">
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <h5>Chancellor's Gold Medal</h5>
+                <p>Gold Medal from the President of the People’s Republic of Bangladesh as Chancellor’s award for being Top at the University in Master’s Level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
 
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
             <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+                <h5>IT Engineers Examinations (ITEE) f</h5>
+                <p>Taking part in a competitive examination for establishing Digital Bangladesh, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
             </div>
         </div>
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
+            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
             <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+                <h5>Gold Medal</h5>
+                <p>Outstanding performance in 12th grade as a Banker's child and awarded the gold medal from Janata Bank PLC (Government Owned Bank) Employees Benevolent Fund Managing Committee<br><small><a href="https://www.jb.com.bd/">Janata Bank PL</a></small></p>
             </div>
         </div>
     </div>
