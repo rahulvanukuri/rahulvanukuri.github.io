@@ -118,6 +118,16 @@ author_profile: true
             line-height: 16px;
         }
 
+        /* Style for hyperlinks */
+        a {
+            text-decoration: none; /* Removes underline */
+            color: #1e3d8f; /* Blue color */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Optional hover effect to underline */
+        }
+
         /* Footer */
         footer {
             text-align: center;
