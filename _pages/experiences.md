@@ -176,7 +176,7 @@ author_profile: true
     <!-- Experience Card 2 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://www.bracbank.com/career/assets/images/footer_logo.png" alt="BRAC Bank PLC Logo">
+            <img src="https://cdn.daily-sun.com/public/news_images/2023/09/18/DS-64-18-09-2023.jpg" alt="BRAC Bank PLC Logo">
             <div>
                 <h5>Graduate Student Researcher</h5>
                 <small><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a></small>
