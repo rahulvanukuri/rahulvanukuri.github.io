@@ -88,7 +88,7 @@ author_profile: true
 <body>
 
 <!-- Certifications Section -->
-<div class="separator">Certifications</div>
+<div class="separator">Affiliations</div>
 <ul class="certifications-list">
     <li>
         <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
