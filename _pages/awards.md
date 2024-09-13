@@ -251,7 +251,7 @@ author_profile: true
         <div class="education-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
             <div>
-                <h5>IT Engineers Examinations (ITEE) f</h5>
+                <h5>IT Engineers Examinations (ITEE) </h5>
                 <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
             </div>
         </div>
