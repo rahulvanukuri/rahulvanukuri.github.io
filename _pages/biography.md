@@ -91,7 +91,7 @@ redirect_from:
 
         .certification-card h5 {
             font-size: 18px; /* Font size for headings */
-            font-weight: bold; /* Making the heading bold */
+            font-weight: bold; /* Keeping the heading bold */
         }
 
         .certification-card p {
@@ -150,7 +150,8 @@ redirect_from:
         }
 
         .education-card h5 {
-            font-size: 18px;
+            font-family: 'Georgia', serif;
+            font-size: 18px; /* Matching font size to Interests section */
             font-weight: bold;
             color: #333;
             margin: 0;
