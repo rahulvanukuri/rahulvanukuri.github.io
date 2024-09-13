@@ -173,7 +173,7 @@ author_profile: true
     <!-- Experience Card 2 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://www.bracbank.com/career/assets/images/footer_logo.png" alt="BRAC Bank Logo">
+            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div>
                 <h5>Chief Information Security Officer (CISO)</h5>
                 <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
