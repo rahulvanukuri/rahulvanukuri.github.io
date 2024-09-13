@@ -15,12 +15,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /Awards/
+  - title: "Awards & Affiliations"
+    url: /awards/
     
-  - title: "Affiliations"
-    url: /Affiliations/
-  
+
   - title: "Teaching Assistantship"
     url: /teaching/
 
