@@ -22,40 +22,19 @@ redirect_from:
         /* Main content container */
         .content {
             width: 100%;
-            margin: 0;
-            padding: 10px;
-            padding-bottom: 20px; /* Added padding at the bottom */
-            background-color: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        }
-
-        .content h2 {
-            font-size: 28px;
-            color: #1e3d8f;
-            font-weight: bold;
-            margin-bottom: 20px;
-            position: relative;
-        }
-
-        .content h2::after {
-            content: '';
-            display: block;
-            width: 100%;
-            height: 1px;
-            background-color: #cccccc;
-            margin-top: 10px;
+            margin: 0 auto;
+            padding: 20px;
+            max-width: 1000px;
         }
 
         /* Style for Separator */
         .separator {
-            grid-column: 1 / -1;
             text-align: center;
             font-size: 22px;
             font-weight: bold;
             color: #1e3d8f;
             margin-top: 0px;
-            margin-bottom: 0px;
+            margin-bottom: 20px;
             position: relative;
         }
 
@@ -68,52 +47,58 @@ redirect_from:
             margin: 10px auto;
         }
 
-        /* New Style for Experiences Section (as per your uploaded image) */
-        .Experiences-layout {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 20px;
-            margin-top: 20px;
+        /* New Style for Experiences Section */
+        .experience-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: box-shadow 0.3s ease;
         }
 
-        .Experiences-card {
-            padding: 15px;
-            background-color: #f9f9f9;
-            border-radius: 10px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        .experience-card:hover {
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+        }
+
+        .experience-header {
             display: flex;
             align-items: center;
         }
 
-        .Experiences-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        .experience-header img {
+            width: 50px;
+            height: 50px;
+            margin-right: 20px;
         }
 
-        .Experiences-card h5 {
-            font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+        .experience-header h5 {
+            font-size: 20px;
+            margin: 0;
             font-weight: bold;
             color: #333;
-            margin: 0;
         }
 
-        .Experiences-card small {
+        .experience-header small {
+            display: block;
             font-size: 14px;
             color: #666;
         }
 
-        .Experiences-card img {
-            width: 40px;
-            height: 40px;
-            margin-right: 20px;
+        .experience-content {
+            margin-top: 15px;
         }
 
-        .Experiences-card p {
+        .experience-content ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+
+        .experience-content ul li {
+            margin-bottom: 10px;
             font-size: 16px;
             color: #333;
-            margin: 0;
         }
 
         /* Footer */
@@ -122,15 +107,21 @@ redirect_from:
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            position: relative; /* Ensure the footer is positioned relative to the content */
-            clear: both; /* Clear any floating elements */
-            padding: 20px 0; /* Add padding to the footer */
         }
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .Experiences-layout {
-                grid-template-columns: 1fr;
+            .experience-header img {
+                width: 40px;
+                height: 40px;
+            }
+
+            .experience-header h5 {
+                font-size: 18px;
+            }
+
+            .experience-content ul li {
+                font-size: 14px;
             }
         }
     </style>
@@ -138,51 +129,49 @@ redirect_from:
 <body>
 
 <div class="content">
+    <!-- Experiences Section -->
+    <div class="separator">Experiences</div>
 
-    <!-- New Style for Experiences Section -->
-    <div class="Experiences-layout">
-        <!-- Experiences Section Separator -->
-        <div class="separator">
-            <span>Experiences</span>
-        </div>
-
-        <!-- Experiences Card 1 -->
-        <div class="Experiences-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+    <!-- Experience Card 1 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
             <div>
-                <h5>PhD in Computer Science and Engineering</h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>Computing Scholar Graduate Intern</h5>
+                <small>Lawrence Livermore National Laboratory</small>
+                <small>May 2023 – Aug 2023 · Livermore, California</small>
             </div>
         </div>
-
-        <!-- Experiences Card 2 -->
-        <div class="Experiences-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
-            <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Experiences Card 3 -->
-        <div class="Experiences-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
-            <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Experiences Card 4 -->
-        <div class="Experiences-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
-            <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
-            </div>
+        <div class="experience-content">
+            <ul>
+                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
+                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
+                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
+                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
+                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
+            </ul>
         </div>
     </div>
 
+    <!-- Experience Card 2 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Graduate Student Researcher</h5>
+                <small>The University of Texas at Arlington</small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
 </div>
 
 <footer>
