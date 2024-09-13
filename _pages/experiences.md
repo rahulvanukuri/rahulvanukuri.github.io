@@ -11,6 +11,7 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Experiences</title>
     <style>
+
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
@@ -74,16 +75,18 @@ author_profile: true
         }
 
         .experience-header h5 {
-            font-size: 18px; /* Matching font size to your specified font */
+            font-size: 18px;
             margin: 0;
-            font-weight: bold; /* Making it bold */
+            font-weight: bold;
             color: #333;
+            font-family: 'Georgia', serif; /* Ensuring consistent font usage */
         }
 
         .experience-header small {
             display: block;
             font-size: 14px;
             color: #666;
+            font-family: 'Georgia', serif; /* Applying same font */
         }
 
         .experience-content {
@@ -103,6 +106,7 @@ author_profile: true
             list-style-type: none;
             position: relative;
             padding-left: 20px;
+            font-family: 'Georgia', serif; /* Applying same font */
         }
 
         .experience-content ul li::before {
@@ -120,6 +124,7 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
+            font-family: 'Georgia', serif; /* Applying same font */
         }
 
         /* Responsive Design */
@@ -171,7 +176,7 @@ author_profile: true
         <div class="experience-header">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div>
-                <h5>Graduate Student Researcher</h5> <!-- Bold and resized title -->
+                <h5>Graduate Student Researcher</h5>
                 <small>The University of Texas at Arlington</small>
                 <small>Sep 2019 – Present · Texas</small>
             </div>
