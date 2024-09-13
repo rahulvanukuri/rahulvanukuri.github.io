@@ -273,7 +273,7 @@ redirect_from:
       
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <img src="https://www.duir.ac.bd/wp-content/uploads/2016/03/DU-logo.jpg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
@@ -282,7 +282,7 @@ redirect_from:
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
                 <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
