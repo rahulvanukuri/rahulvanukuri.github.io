@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /affiliations/
+permalink: /certifications/
 author_profile: true
 ---
 
@@ -88,7 +88,7 @@ author_profile: true
 <body>
 
 <!-- Certifications Section -->
-<div class="separator">Professional Affiliations</div>
+<div class="separator">Certifications</div>
 <ul class="certifications-list">
     <li>
         <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
@@ -142,4 +142,3 @@ author_profile: true
 
 </body>
 </html>
-
