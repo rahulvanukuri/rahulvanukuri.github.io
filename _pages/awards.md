@@ -89,35 +89,50 @@ author_profile: true
 
            
            
-<!-- Award Section -->
-<div class="separator">Awards</div>
-<ul class="certifications-list">
-    <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
-        <p> STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and 
-fees and got the offer of a Graduate Teaching Assistantship </p>
-        <p>STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and 
-fees and got the offer of a Graduate Teaching Assistantship, Aug 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-        <p>Aug 2023 - Present </p>
-    </li>
-    <li>
-       <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
-        <p>Certified in Risk and Information Systems Control (CRISC)</p>
-    </li>
-    <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-        <p>Certified Information Systems Auditor (CISA)</p>
-    </li>
-    <li>
-        <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
-        <p>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</p>
-    </li>
-    <li>
-        <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
-        <p>PCI DSS V3.2.1 Implementer (BSI)</p>
-    </li>
+<!-- New Style for Education Section -->
+    <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Education</span>
+        </div>
 
-</ul>
+        <!-- Education Card 1 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+            <div>
+                <h5>PhD in Computer Science and Engineering </h5>
+                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 2 -->
+        <div class="education-card">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <div>
+                <h5>MSc in Information Systems Security (MISS)</h5>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 3 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
+            <div>
+                <h5>MBA in Management Information Systems</h5>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 4 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
+            <div>
+                <h5>BSc in Computer Science and Engineering</h5>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Affiliations Section -->
 <div class="separator">Professional Affiliations</div>
