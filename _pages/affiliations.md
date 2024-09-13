@@ -226,7 +226,7 @@ author_profile: true
     <!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
-        <div class="separator">Affiliations</div>
+        <div class="separator">Academic Affiliations</div>
         
         <!-- Interests Card 1 -->
         <div class="certification-card">
@@ -262,7 +262,7 @@ author_profile: true
 		<!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
-        <div class="separator">Affiliations</div>
+        <div class="separator">Professional Affiliations</div>
         
         <!-- Interests Card 1 -->
         <div class="certification-card">
@@ -295,11 +295,7 @@ author_profile: true
 	
 	
 	
-	<!-- Card Layout for Interests -->
-    <div class="certification-layout">
-        <!-- Interests Section Separator -->
-        <div class="separator">Affiliations</div>
-        
+      
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
@@ -319,10 +315,10 @@ author_profile: true
             <div>
         <!-- Education Card 6 -->
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwXT1WQBpnwv5f8VOrfoLE8A4w68ooMyRgQ&s" alt="Graduation Cap">
+            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="Graduation Cap">
             <div>
                 <h5>Life Member </h5>
-                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/"Bangladesh Computer Society (BCS)</a></small></p>
+                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
             </div>
         </div>
             </div>
