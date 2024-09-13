@@ -273,7 +273,7 @@ redirect_from:
       
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://www.duir.ac.bd/wp-content/uploads/2016/03/DU-logo.jpg" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
