@@ -259,71 +259,58 @@ author_profile: true
 
         
 		
-		<!-- Card Layout for Interests -->
-    <div class="certification-layout">
-        <!-- Interests Section Separator -->
-        <div class="separator">Professional Affiliations</div>
-        
-        <!-- Interests Card 1 -->
-        <div class="certification-card">
-            <div>
-        <!-- Education Card 3 -->
+<!-- Card Layout for Professional Affiliations -->
+<div class="certification-layout">
+    
+    <!-- Professional Affiliations Section Separator -->
+    <div class="separator">Professional Affiliations</div>
+    
+    <!-- Professional Affiliation Card 1 -->
+    <div class="certification-card">
         <div class="education-card">
-            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="Graduation Cap">
+            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
             <div>
-                <h5>Member </h5>
+                <h5>Member</h5>
                 <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
             </div>
         </div>
-            </div>
-        </div>
+    </div>
 
-        <!-- Interests Card 2 -->
-        <div class="certification-card">
-            <div>
-        <!-- Education Card 4 -->
+    <!-- Professional Affiliation Card 2 -->
+    <div class="certification-card">
         <div class="education-card">
-            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="Graduation Cap">
+            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
             <div>
-                <h5>Member </h5>
+                <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
             </div>
         </div>
+    </div>
+
+    <!-- Professional Affiliation Card 3 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
+            <div>
+                <h5>Life Member</h5>
+                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
             </div>
         </div>
     </div>
-	
-	
-	
-      
-        <!-- Interests Card 1 -->
-        <div class="certification-card">
-            <div>
-        <!-- Education Card 5 -->
-        <div class="education-card">
-           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="Graduation Cap">
-            <div>
-                <h5>Life Member </h5>
-                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institutions of Engineers, Bangladesh (IEB)</a></small></p>
-            </div>
-        </div>
-            </div>
-        </div>
 
-        <!-- Interests Card 2 -->
-        <div class="certification-card">
-            <div>
-        <!-- Education Card 6 -->
+    <!-- Professional Affiliation Card 4 -->
+    <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="Graduation Cap">
+            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
             <div>
-                <h5>Life Member </h5>
+                <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
             </div>
         </div>
-            </div>
-        </div>
     </div>
+    
+</div>
+
 		
 		
 	
