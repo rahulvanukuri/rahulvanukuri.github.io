@@ -11,7 +11,7 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: 'Lato', Arial, sans-serif;
+            font-family: 'Georgia', serif;
             background-color: #f7f7f7;
             color: #333;
             margin: 0;
@@ -19,26 +19,26 @@ author_profile: true
             text-align: center;
         }
 
-.separator {
-    grid-column: 1 / -1;
-    text-align: center;
-    font-size: 28px; /* Updated to match Biography font size */
-    font-family: 'Georgia', serif; /* Updated to match Biography font */
-    font-weight: bold;
-    color: #1e3d8f; /* Updated to the same blue color as Biography */
-    margin-top: 20px;
-    margin-bottom: 20px;
-    position: relative;
-}
+        .separator {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 28px; /* Matching Biography section */
+            font-family: 'Georgia', serif;
+            font-weight: bold;
+            color: #1e3d8f; /* Blue color as in Biography */
+            margin-top: 20px;
+            margin-bottom: 20px;
+            position: relative;
+        }
 
-.separator::after {
-    content: '';
-    display: block;
-    width: 60%;
-    height: 1px;
-    background-color: #cccccc;
-    margin: 10px auto;
-}
+        .separator::after {
+            content: '';
+            display: block;
+            width: 60%;
+            height: 1px;
+            background-color: #cccccc;
+            margin: 10px auto;
+        }
 
         .skills-section, .certifications-section {
             display: grid;
