@@ -257,10 +257,17 @@ author_profile: true
         </div>
     </div>
 
-        <!-- Interests Card 2 -->
+        
+		
+		<!-- Card Layout for Interests -->
+    <div class="certification-layout">
+        <!-- Interests Section Separator -->
+        <div class="separator">Affiliations</div>
+        
+        <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-        <!-- Education Card 1 -->
+        <!-- Education Card 3 -->
         <div class="education-card">
             <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="Graduation Cap">
             <div>
@@ -270,13 +277,11 @@ author_profile: true
         </div>
             </div>
         </div>
-    </div>
-
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-        <!-- Education Card 1 -->
+        <!-- Education Card 4 -->
         <div class="education-card">
             <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="Graduation Cap">
             <div>
@@ -287,13 +292,20 @@ author_profile: true
             </div>
         </div>
     </div>
-
-        <!-- Interests Card 2 -->
+	
+	
+	
+	<!-- Card Layout for Interests -->
+    <div class="certification-layout">
+        <!-- Interests Section Separator -->
+        <div class="separator">Affiliations</div>
+        
+        <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-        <!-- Education Card 1 -->
+        <!-- Education Card 5 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="Graduation Cap">
+           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="Graduation Cap">
             <div>
                 <h5>Life Member </h5>
                 <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institutions of Engineers, Bangladesh (IEB)</a></small></p>
@@ -301,12 +313,11 @@ author_profile: true
         </div>
             </div>
         </div>
-    </div>
 
-            <!-- Interests Card 2 -->
+        <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-        <!-- Education Card 1 -->
+        <!-- Education Card 6 -->
         <div class="education-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwXT1WQBpnwv5f8VOrfoLE8A4w68ooMyRgQ&s" alt="Graduation Cap">
             <div>
@@ -317,8 +328,9 @@ author_profile: true
             </div>
         </div>
     </div>
-
-    
+		
+		
+	
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
 </footer>
