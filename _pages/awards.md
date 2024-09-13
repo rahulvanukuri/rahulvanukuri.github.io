@@ -73,10 +73,11 @@ redirect_from:
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
+        /* Removing bold styling from h5 */
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
-            font-weight: bold;
+            font-size: 18px;
+            font-weight: normal; /* Set to normal to remove bold */
             color: #333;
             margin: 0;
         }
@@ -121,7 +122,7 @@ redirect_from:
 
 <div class="content">
     <!-- Education Section Separator -->
-    <div class="separator">Education</div>
+    <div class="separator">Award Received</div>
 
     <!-- Education Section -->
     <div class="education-layout">
