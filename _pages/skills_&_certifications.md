@@ -40,7 +40,7 @@ author_profile: true
             margin: 10px auto;
         }
 
-        .skills-section, .certifications-section {
+        .skills-section {
             display: grid;
             grid-template-columns: repeat(4, 1fr); /* 4 columns */
             grid-template-rows: repeat(4, auto); /* 4 rows */
@@ -53,7 +53,7 @@ author_profile: true
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
-        .item, .certification-item {
+        .item {
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -64,17 +64,17 @@ author_profile: true
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
-        .item:hover, .certification-item:hover {
+        .item:hover {
             transform: translateY(-5px);
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
         }
 
-        .item img, .certification-item img {
+        .item img {
             width: 60px;
             margin-bottom: 15px;
         }
 
-        .item p, .certification-item p {
+        .item p {
             font-size: 16px;
             margin: 5px 0;
             color: #333;
@@ -85,40 +85,6 @@ author_profile: true
             color: #888;
         }
 
-        .certifications-list {
-            list-style-type: none;
-            padding: 0;
-            margin: 40px auto;
-            max-width: 800px;
-        }
-
-        .certifications-list li {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-            padding: 10px;
-            border-radius: 10px;
-            background-color: #f9f9f9;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-
-        .certifications-list li:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-        }
-
-        .certifications-list li img {
-            width: 50px;
-            height: 50px;
-            margin-right: 15px;
-        }
-
-        .certifications-list li p {
-            margin: 0;
-            font-size: 16px;
-            color: #333;
-        }
     </style>
 </head>
 <body>
@@ -234,7 +200,6 @@ author_profile: true
         <p class="subtext">IT Incident Management</p>
     </div>
 </div>
-
 
 </body>
 </html>
