@@ -8,7 +8,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    <title>Worked For</title>
     <style>
         /* General Body Style */
         body {
@@ -66,7 +66,7 @@ redirect_from:
             color: #003399;
         }
 
-        /* Style for Biography and Interests (Unchanged) */
+        /* Style for Worked For and Interests (Unchanged) */
         .certification-layout {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -220,52 +220,7 @@ redirect_from:
     </style>
 </head>
 <body>
-
-<div class="content">
-    <!-- Full-width Biography Card -->
-    <div class="certification-layout">
-        <div class="separator">Biography</div>
-        <!-- Biography Card without the Icon -->
-        <div class="certification-card" style="grid-column: 1 / -1;">
-            <div>
-                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
-                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
-                
-                <!-- New Download CV section -->
-                <div class="cv-link-wrapper">
-                    <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="#" class="cv-link">Download my resumé / CV</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Card Layout for Interests -->
-    <div class="certification-layout">
-        <!-- Interests Section Separator -->
-        <div class="separator">Interests</div>
-        <!-- Interests Card 1 -->
-        <div class="certification-card">
-            <div>
-                <li>Cloud Computing</li>
-                <li>High Performance Computing (HPC)</li>
-                <li>Microservices</li> 
-                <li>HPC in the Cloud</li>
-            </div>
-        </div>
-
-        <!-- Interests Card 2 -->
-        <div class="certification-card">
-            <div>
-                <li>Project Management</li> 
-                <li>Information and Cyber Security</li> 
-                <li>Governance, Risk & Compliance (GRC)</li>
-                <li>IT Audit</li>
-            </div>
-        </div>
-    </div>
-
-    <!-- New Style for Education Section -->
+ <!-- New Style for Education Section -->
     <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
@@ -309,6 +264,51 @@ redirect_from:
         </div>
     </div>
 </div>
+<div class="content">
+    <!-- Full-width Worked For Card -->
+    <div class="certification-layout">
+        <div class="separator">Worked For</div>
+        <!-- Worked For Card without the Icon -->
+        <div class="certification-card" style="grid-column: 1 / -1;">
+            <div>
+                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
+                
+                <!-- New Download CV section -->
+                <div class="cv-link-wrapper">
+                    <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
+                    <a href="#" class="cv-link">Download my resumé / CV</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card Layout for Interests -->
+    <div class="certification-layout">
+        <!-- Interests Section Separator -->
+        <div class="separator">Interests</div>
+        <!-- Interests Card 1 -->
+        <div class="certification-card">
+            <div>
+                <li>Cloud Computing</li>
+                <li>High Performance Computing (HPC)</li>
+                <li>Microservices</li> 
+                <li>HPC in the Cloud</li>
+            </div>
+        </div>
+
+        <!-- Interests Card 2 -->
+        <div class="certification-card">
+            <div>
+                <li>Project Management</li> 
+                <li>Information and Cyber Security</li> 
+                <li>Governance, Risk & Compliance (GRC)</li>
+                <li>IT Audit</li>
+            </div>
+        </div>
+    </div>
+
+   
 
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
