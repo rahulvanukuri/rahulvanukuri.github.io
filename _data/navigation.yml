@@ -1,14 +1,23 @@
 # main links links
 main:
-  - title: "Experiences & Projects"
+  - title: "Experiences"
     url: /Experience/
 
-  - title: "Skills & Certifications"
+  - title: "Projects"
+    url: /Experience/
+
+  - title: "Skills"
     url: /skills_&_certifications/
 
-  - title: "Awards & Affiliations"
-    url: /Awards/
+  - title: "Certifications"
+    url: /skills_&_certifications/
 
+  - title: "Awards"
+    url: /Awards/
+    
+  - title: "Affiliations"
+    url: /Affiliations/
+  
   - title: "Resume"
     url: 
   
