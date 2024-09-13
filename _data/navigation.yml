@@ -12,15 +12,15 @@ main:
   - title: "Certifications"
     url: /skills_&_certifications/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Awards"
     url: /Awards/
     
   - title: "Affiliations"
     url: /Affiliations/
   
-  - title: "Publications"
-    url: /publications/
-
   - title: "Teaching Assistantship"
     url: /teaching/
 
