@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: ""
-permalink: /experiences/
-author_profile: true
+permalink: /
+redirect_from: 
+  - /biography/
 ---
-
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Former Roles</title>
+    <title>Experiences</title>
     <style>
         /* General Body Style */
         body {
@@ -23,7 +21,7 @@ author_profile: true
 
         /* Main content container */
         .content {
-            width: 100%;
+            width: 128%;
             margin: 0;
             padding: 10px;
             padding-bottom: 20px; /* Added padding at the bottom */
@@ -49,15 +47,36 @@ author_profile: true
             margin-top: 10px;
         }
 
-        /* New Style for Former Roles Section (as per your uploaded image) */
-        .Former Roles-layout {
+        /* Style for Separator */
+        .separator {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            color: #1e3d8f;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            position: relative;
+        }
+
+        .separator::after {
+            content: '';
+            display: block;
+            width: 60%;
+            height: 1px;
+            background-color: #cccccc;
+            margin: 10px auto;
+        }
+
+        /* New Style for Experiences Section (as per your uploaded image) */
+        .Experiences-layout {
             display: grid;
             grid-template-columns: 1fr;
             gap: 20px;
             margin-top: 20px;
         }
 
-        .Former Roles-card {
+        .Experiences-card {
             padding: 15px;
             background-color: #f9f9f9;
             border-radius: 10px;
@@ -67,12 +86,12 @@ author_profile: true
             align-items: center;
         }
 
-        .Former Roles-card:hover {
+        .Experiences-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
-        .Former Roles-card h5 {
+        .Experiences-card h5 {
             font-family: 'Georgia', serif;
             font-size: 18px; /* Matching font size to Interests section */
             font-weight: bold;
@@ -80,18 +99,18 @@ author_profile: true
             margin: 0;
         }
 
-        .Former Roles-card small {
+        .Experiences-card small {
             font-size: 14px;
             color: #666;
         }
 
-        .Former Roles-card img {
+        .Experiences-card img {
             width: 40px;
             height: 40px;
             margin-right: 20px;
         }
 
-        .Former Roles-card p {
+        .Experiences-card p {
             font-size: 16px;
             color: #333;
             margin: 0;
@@ -110,7 +129,7 @@ author_profile: true
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .Former Roles-layout {
+            .Experiences-layout {
                 grid-template-columns: 1fr;
             }
         }
@@ -120,15 +139,15 @@ author_profile: true
 
 <div class="content">
 
-    <!-- New Style for Former Roles Section -->
-    <div class="Former Roles-layout">
-        <!-- Former Roles Section Separator -->
+    <!-- New Style for Experiences Section -->
+    <div class="Experiences-layout">
+        <!-- Experiences Section Separator -->
         <div class="separator">
-            <span>Former Roles</span>
+            <span>Experiences</span>
         </div>
 
-        <!-- Former Roles Card 1 -->
-        <div class="Former Roles-card">
+        <!-- Experiences Card 1 -->
+        <div class="Experiences-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering</h5>
@@ -136,8 +155,8 @@ author_profile: true
             </div>
         </div>
 
-        <!-- Former Roles Card 2 -->
-        <div class="Former Roles-card">
+        <!-- Experiences Card 2 -->
+        <div class="Experiences-card">
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Information Systems Security (MISS)</h5>
@@ -145,8 +164,8 @@ author_profile: true
             </div>
         </div>
 
-        <!-- Former Roles Card 3 -->
-        <div class="Former Roles-card">
+        <!-- Experiences Card 3 -->
+        <div class="Experiences-card">
             <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
@@ -154,8 +173,8 @@ author_profile: true
             </div>
         </div>
 
-        <!-- Former Roles Card 4 -->
-        <div class="Former Roles-card">
+        <!-- Experiences Card 4 -->
+        <div class="Experiences-card">
             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
