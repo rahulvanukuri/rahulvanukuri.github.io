@@ -235,8 +235,8 @@ author_profile: true
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>Student Affiliation </h5>
+                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
             </div>
@@ -247,10 +247,10 @@ author_profile: true
             <div>
         <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ISACA_logo.png/1200px-ISACA_logo.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>Silver Member </h5>
+                <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
             </div>
         </div>
             </div>
@@ -259,14 +259,7 @@ author_profile: true
 
 
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
-            <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-            </div>
-        </div>
+
 
 
 
