@@ -1,7 +1,8 @@
 ---
-permalink: /
-redirect_from: 
-  - /Experience/
+layout: archive
+title: "Skills & Certifications"
+permalink: /Experience/
+author_profile: true
 ---
 
 <html lang="en">
