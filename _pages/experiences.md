@@ -1,7 +1,7 @@
 ---
 permalink: /
 redirect_from: 
-  - /biography/
+  - /experiences/
 ---
 
 <html lang="en">
