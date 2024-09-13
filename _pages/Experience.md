@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Skills & Certifications"
 permalink: /Experience/
 author_profile: true
 ---
