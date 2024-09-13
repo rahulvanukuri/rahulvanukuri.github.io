@@ -1,14 +1,14 @@
 ---
 permalink: /
 redirect_from: 
-  - /Experience/
+  - /biography/
 ---
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Worked For</title>
+    <title>Biography</title>
     <style>
         /* General Body Style */
         body {
@@ -66,7 +66,7 @@ redirect_from:
             color: #003399;
         }
 
-        /* Style for Worked For and Interests (Unchanged) */
+        /* Style for Biography and Interests (Unchanged) */
         .certification-layout {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -220,55 +220,12 @@ redirect_from:
     </style>
 </head>
 <body>
- <!-- New Style for Education Section -->
-    <div class="education-layout">
-        <!-- Education Section Separator -->
-        <div class="separator">
-            <span>Education</span>
-        </div>
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
-            <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 2 -->
-        <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
-            <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 3 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
-            <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 4 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
-            <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="content">
-    <!-- Full-width Worked For Card -->
+    <!-- Full-width Biography Card -->
     <div class="certification-layout">
-        <div class="separator">Worked For</div>
-        <!-- Worked For Card without the Icon -->
+        <div class="separator">Biography</div>
+        <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
                 <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
@@ -308,7 +265,50 @@ redirect_from:
         </div>
     </div>
 
-   
+    <!-- New Style for Education Section -->
+    <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Worked For</span>
+        </div>
+
+        <!-- Education Card 1 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+            <div>
+                <h5>Graduate Student Researcher </h5>
+                <p>Aug 2023 - Present : Texas, USA <br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 2 -->
+        <div class="education-card">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <div>
+                <h5>MSc in Information Systems Security (MISS)</h5>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 3 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
+            <div>
+                <h5>MBA in Management Information Systems</h5>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 4 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
+            <div>
+                <h5>BSc in Computer Science and Engineering</h5>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
