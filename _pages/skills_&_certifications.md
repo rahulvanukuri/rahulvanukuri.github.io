@@ -241,5 +241,3 @@ author_profile: true
 <footer>
 </footer>
 
-</body>
-</html>
