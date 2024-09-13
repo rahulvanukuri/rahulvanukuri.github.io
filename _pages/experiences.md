@@ -119,8 +119,8 @@ author_profile: true
         }
 
         /* Style for hyperlinks */
-        a {
-            text-decoration: none; /* Removes underline */
+        a, a:visited, a:active {
+            text-decoration: none; /* Removes underline from all hyperlink states */
             color: #1e3d8f; /* Blue color */
         }
 
@@ -208,7 +208,7 @@ author_profile: true
                 <h5>National IT Security & Audit Consultant</h5>
                 <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
                 <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
-                <small>Dec 2021 – Nov 2022 · Dhaka, Bangladesh</small>
+                <small>Dec 2029 – Sep 2022 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
