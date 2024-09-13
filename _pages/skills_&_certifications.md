@@ -231,9 +231,5 @@ author_profile: true
     </div>
 </div>
 
-<footer>
-    <p>© 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.</p>
-</footer>
-
 </body>
 </html>
