@@ -21,7 +21,7 @@ redirect_from:
 
         /* Main content container */
         .content {
-            width: 128%;
+            width: 100%;
             margin: 0 auto;
             padding: 20px;
             max-width: 1000px;
@@ -47,7 +47,7 @@ redirect_from:
             margin: 10px auto;
         }
 
-        /* New Style for Experiences Section */
+        /* Experience Card Styling */
         .experience-card {
             background-color: #fff;
             border-radius: 10px;
@@ -73,9 +73,9 @@ redirect_from:
         }
 
         .experience-header h5 {
-            font-size: 20px;
+            font-size: 16px;
             margin: 0;
-            font-weight: bold;
+            font-weight: normal;
             color: #333;
         }
 
@@ -89,16 +89,28 @@ redirect_from:
             margin-top: 15px;
         }
 
+        /* Styled bullet points */
         .experience-content ul {
             margin: 0;
-            padding: 0;
-            list-style-type: none;
+            padding-left: 20px;
         }
 
         .experience-content ul li {
             margin-bottom: 10px;
             font-size: 16px;
             color: #333;
+            list-style-type: none;
+            position: relative;
+            padding-left: 20px;
+        }
+
+        .experience-content ul li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #1e3d8f;
+            font-size: 22px;
+            line-height: 16px;
         }
 
         /* Footer */
@@ -117,7 +129,7 @@ redirect_from:
             }
 
             .experience-header h5 {
-                font-size: 18px;
+                font-size: 14px;
             }
 
             .experience-content ul li {
