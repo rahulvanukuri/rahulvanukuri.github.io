@@ -87,17 +87,21 @@ author_profile: true
 </head>
 <body>
 
+           
+           
 <!-- Award Section -->
 <div class="separator">Awards</div>
 <ul class="certifications-list">
     <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/UTA_logomark.png/1200px-UTA_logomark.png" alt="PMP Icon">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
         <p> STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and 
 fees and got the offer of a Graduate Teaching Assistantship </p>
+        <p>STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and 
+fees and got the offer of a Graduate Teaching Assistantship, Aug 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
         <p>Aug 2023 - Present </p>
     </li>
     <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
+       <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
         <p>Certified in Risk and Information Systems Control (CRISC)</p>
     </li>
     <li>
