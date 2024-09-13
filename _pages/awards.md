@@ -91,8 +91,10 @@ author_profile: true
 <div class="separator">Awards</div>
 <ul class="certifications-list">
     <li>
-        <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-        <p>Project Management Professional (PMP)</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/UTA_logomark.png/1200px-UTA_logomark.png" alt="PMP Icon">
+        <p> STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and 
+fees and got the offer of a Graduate Teaching Assistantship </p>
+        <p>Aug 2023 - Present </p>
     </li>
     <li>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
