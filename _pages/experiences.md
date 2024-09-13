@@ -220,7 +220,7 @@ author_profile: true
         <!-- Experience Card 4 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868=w600-h300-pc0xffffff-pd" alt="BRAC Bank Logo">
+            <img src="https://seeklogo.com/images/E/eastern-bank-limited-logo-3DD509DA8B-seeklogo.com.png" alt="BRAC Bank Logo">
             <div>
                 <h5>Assistant Vice President (AVP)</h5>
                 <small><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a></small>
