@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Experiences & Projects"
-    url: https://mdshahedrahman.github.io/blob/master/_pages/Experience.md
+    url: /Experience/
 
   - title: "Skills & Certifications"
     url: /skills_&_certifications/
