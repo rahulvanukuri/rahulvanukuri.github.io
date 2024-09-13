@@ -120,8 +120,8 @@ author_profile: true
 
         /* Style for hyperlinks */
         a, a:visited, a:hover, a:active {
-            text-decoration: none; /* Removes underline from all hyperlink states */
-            color: #1e3d8f; /* Blue color */
+            text-decoration: none !important; /* Forces removal of underline */
+            color: #1e3d8f !important; /* Ensures the color remains unchanged */
         }
 
         /* Footer */
