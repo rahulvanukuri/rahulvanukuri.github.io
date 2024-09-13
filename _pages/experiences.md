@@ -119,13 +119,13 @@ author_profile: true
         }
 
         /* Style for hyperlinks */
-        a, a:visited, a:active {
-            text-decoration: none; /* Removes underline from all hyperlink states */
+        a {
+            text-decoration: none; /* Removes underline */
             color: #1e3d8f; /* Blue color */
         }
 
         a:hover {
-            text-decoration: underline; /* Optional hover effect to underline */
+            text-decoration: none; /* Ensures no underline on hover */
         }
 
         /* Footer */
@@ -247,7 +247,7 @@ author_profile: true
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1KKd0fNMQ6lXdmdLhY10_1i5Qy4riFFiAw&s" alt="BRAC Bank Logo">
             <div>
                 <h5>Assistant Manager (Cybersecurity)</h5>
-                <small><a href="<a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
+                <small><a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
                 <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
             </div>
         </div>
