@@ -246,7 +246,7 @@ redirect_from:
                 <li>Cloud Computing</li>
                 <li>High Performance Computing (HPC)</li>
                 <li>Microservices</li> 
-                <li>)HPC in the Cloud</li>
+                <li>HPC in the Cloud</li>
             </div>
         </div>
 
