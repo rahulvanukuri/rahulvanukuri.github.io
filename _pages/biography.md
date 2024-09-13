@@ -173,27 +173,36 @@ redirect_from:
             margin: 0;
         }
 
+        /* Styling for Download CV link */
+        .cv-link-wrapper {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .cv-link-wrapper img {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+        }
+
+        .cv-link-wrapper a {
+            font-size: 18px;
+            font-family: 'Georgia', serif;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .cv-link-wrapper a:hover {
+            color: #1e3d8f;
+        }
+
         /* Footer */
         footer {
             text-align: center;
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-        }
-
-        /* Aesthetic Enhancements */
-        .content .cv-link {
-            display: inline-block;
-            background-color: #007acc;
-            color: #fff;
-            padding: 12px 24px;
-            border-radius: 5px;
-            margin-top: 20px;
-            text-decoration: none;
-        }
-
-        .content .cv-link:hover {
-            background-color: #0056b3;
         }
 
         /* Responsive Design */
@@ -215,7 +224,12 @@ redirect_from:
             <div>
                 <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
                 <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
-                <a href="#" class="cv-link">Download my resumé / CV</a>
+                
+                <!-- New Download CV section -->
+                <div class="cv-link-wrapper">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Download_font_awesome.svg/1200px-Download_font_awesome.svg.png" alt="Download Icon">
+                    <a href="#" class="cv-link">Download my resumé / CV</a>
+                </div>
             </div>
         </div>
     </div>
@@ -251,7 +265,6 @@ redirect_from:
             <span>Education</span>
         </div>
 
-
         <!-- Education Card 1 -->
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
@@ -270,7 +283,6 @@ redirect_from:
             </div>
         </div>
 
-      
         <!-- Education Card 3 -->
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
