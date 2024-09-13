@@ -204,7 +204,7 @@ author_profile: true
                 <h5>National IT Security & Audit Consultant</h5>
                 <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
                 <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
-                <small>Dec 2029 – Sep 2022 · Dhaka, Bangladesh</small>
+                <small>Jan 2019 – Sep 2022 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
@@ -224,7 +224,7 @@ author_profile: true
             <div>
                 <h5>Assistant Vice President (AVP)</h5>
                 <small><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a></small>
-                <small>Nov 2016 – Dec 2019 · Dhaka, Bangladesh</small>
+                <small>Nov 2016 – Dec 2018 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
@@ -244,7 +244,7 @@ author_profile: true
             <div>
                 <h5>Assistant Manager (Cybersecurity)</h5>
                 <small><a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
-                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
+                <small>Feb 2015 – Nov 2016 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
@@ -262,9 +262,9 @@ author_profile: true
         <div class="experience-header">
             <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/baf61aad54bfe77ab65a" alt="BRAC Bank Logo">
             <div>
-                <h5>Chief Information Security Officer (CISO)</h5>
+                <h5>Programmer</h5>
                 <small><a href="https://www.ibcs-primax.com/mission-vision.php">IBCS-Primax Software (Bangaladesh) Limited</a></small>
-                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
+                <small>Jan 2014 – Feb 2015 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
@@ -282,9 +282,9 @@ author_profile: true
         <div class="experience-header">
             <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
             <div>
-                <h5>National IT Security & Audit Consultant</h5>
+                <h5>Specialist (Security)</h5>
                 <small><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a></small> 
-                <small>Dec 2029 – Sep 2022 · Dhaka, Bangladesh</small>
+                <small>Oct 2012 – Dec 2013 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
