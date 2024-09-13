@@ -22,7 +22,7 @@ author_profile: true
         .separator {
             grid-column: 1 / -1;
             text-align: center;
-            font-size: 28px; /* Matching Biography section */
+            font-size: 24px; /* Matching Biography section */
             font-family: 'Georgia', serif;
             font-weight: bold;
             color: #1e3d8f; /* Blue color as in Biography */
