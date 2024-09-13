@@ -235,55 +235,6 @@ author_profile: true
     </div>
 </div>
 
-<!-- Certifications Section -->
-<div class="separator">Certifications</div>
-<ul class="certifications-list">
-    <li>
-        <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-        <p>Project Management Professional (PMP)</p>
-    </li>
-    <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
-        <p>Certified in Risk and Information Systems Control (CRISC)</p>
-    </li>
-    <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-        <p>Certified Information Systems Auditor (CISA)</p>
-    </li>
-    <li>
-        <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
-        <p>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</p>
-    </li>
-    <li>
-        <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
-        <p>PCI DSS V3.2.1 Implementer (BSI)</p>
-    </li>
-
-    <li>
-        <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
-        <p>Certified Lean Six Sigma Black Belt</p>
-    </li>
-    <li>
-        <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO 27001 Icon">
-        <p>ISO 27001 Lead Implementer</p>
-    </li>
-    <li>
-        <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
-        <p>ISO 27001 Lead Auditor</p>
-    </li>
-    <li>
-        <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="ISO 27032 Icon">
-        <p>ISO 27032 Lead Cybersecurity Manager</p>
-    </li>
-    <li>
-        <img src="https://static.wingify.com/gcp/uploads/sites/3/2021/09/ISOIEC-27701.png" alt="GDPR Icon">
-        <p>Privacy Information Management and GDPR</p>
-    </li>
-    <li>
-        <img src="https://cdn.pressport.com/files/view?c=5052&f=35099&width=660" alt="ITIL Icon">
-        <p>ITIL Foundation</p>
-    </li>
-</ul>
 
 </body>
 </html>
