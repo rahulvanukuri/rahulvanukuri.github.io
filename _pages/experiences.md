@@ -191,6 +191,102 @@ author_profile: true
     </div>
 </div>
 
+<div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bangladesh_Computer_Council_Logo.svg/1440px-Bangladesh_Computer_Council_Logo.svg.png" alt="UTA Logo">
+            <div>
+                <h5>National IT Security & Audit Consultant</h5>
+                <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
+                <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, </small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Graduate Student Researcher</h5>
+                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Graduate Student Researcher</h5>
+                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Graduate Student Researcher</h5>
+                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Graduate Student Researcher</h5>
+                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
+                <small>Sep 2019 – Present · Texas</small>
+            </div>
+        </div>
+        <div class="experience-content">
+            <ul>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+            </ul>
+        </div>
+    </div>
+
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
 </footer>
