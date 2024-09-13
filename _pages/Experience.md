@@ -128,15 +128,15 @@ redirect_from:
             margin: 10px auto;
         }
 
-        /* New Style for Education Section (as per your uploaded image) */
-        .education-layout {
+        /* New Style for Worked For Section (as per your uploaded image) */
+        .Worked For-layout {
             display: grid;
             grid-template-columns: 1fr;
             gap: 20px;
             margin-top: 20px;
         }
 
-        .education-card {
+        .Worked For-card {
             padding: 15px;
             background-color: #f9f9f9;
             border-radius: 10px;
@@ -146,12 +146,12 @@ redirect_from:
             align-items: center;
         }
 
-        .education-card:hover {
+        .Worked For-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
-        .education-card h5 {
+        .Worked For-card h5 {
             font-family: 'Georgia', serif;
             font-size: 18px; /* Matching font size to Interests section */
             font-weight: bold;
@@ -159,18 +159,18 @@ redirect_from:
             margin: 0;
         }
 
-        .education-card small {
+        .Worked For-card small {
             font-size: 14px;
             color: #666;
         }
 
-        .education-card img {
+        .Worked For-card img {
             width: 40px;
             height: 40px;
             margin-right: 20px;
         }
 
-        .education-card p {
+        .Worked For-card p {
             font-size: 16px;
             color: #333;
             margin: 0;
@@ -265,15 +265,15 @@ redirect_from:
         </div>
     </div>
 
-    <!-- New Style for Education Section -->
-    <div class="education-layout">
-        <!-- Education Section Separator -->
+    <!-- New Style for Worked For Section -->
+    <div class="Worked For-layout">
+        <!-- Worked For Section Separator -->
         <div class="separator">
             <span>Worked For</span>
         </div>
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
+        <!-- Worked For Card 1 -->
+        <div class="Worked For-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>Graduate Student Researcher </h5>
@@ -281,8 +281,8 @@ redirect_from:
             </div>
         </div>
 
-        <!-- Education Card 2 -->
-        <div class="education-card">
+        <!-- Worked For Card 2 -->
+        <div class="Worked For-card">
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Information Systems Security (MISS)</h5>
@@ -290,8 +290,8 @@ redirect_from:
             </div>
         </div>
 
-        <!-- Education Card 3 -->
-        <div class="education-card">
+        <!-- Worked For Card 3 -->
+        <div class="Worked For-card">
             <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
@@ -299,8 +299,8 @@ redirect_from:
             </div>
         </div>
 
-        <!-- Education Card 4 -->
-        <div class="education-card">
+        <!-- Worked For Card 4 -->
+        <div class="Worked For-card">
             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
