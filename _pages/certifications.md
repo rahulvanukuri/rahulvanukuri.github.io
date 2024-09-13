@@ -18,7 +18,16 @@ author_profile: true
             padding: 0;
             text-align: center;
         }
-
+/* Footer */
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 14px;
+            color: #aaa;
+            position: relative; /* Ensure the footer is positioned relative to the content */
+            clear: both; /* Clear any floating elements */
+            padding: 20px 0; /* Add padding to the footer */
+        }
         .separator {
             grid-column: 1 / -1;
             text-align: center;
