@@ -18,10 +18,10 @@ main:
   - title: "Affiliations"
     url: /affiliations/
 
-    - title: "Co-curricular"
+  - title: "Co-curricular"
     url: /co-curricular/
     
-    - title: "Publications"
+  - title: "Publications"
     url: /publications/
 
   - title: "Teaching Assistantship"
