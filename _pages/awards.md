@@ -222,50 +222,108 @@ author_profile: true
 </head>
 <body>
 
-    <!-- New Style for Education Section -->
-    <div class="education-layout">
-        <!-- Education Section Separator -->
-        <div class="separator">
-            <span>Awards Received</span>
-        </div>
 
-        <!-- Education Card 1 -->
+
+
+<!-- Card Layout for Academic Affiliations -->
+<div class="certification-layout">
+    <!-- Academic Affiliations Section Separator -->
+    <div class="separator">Awards Received</div>
+    
+    <!-- Academic Affiliation Card 1 -->
+    <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div>
-                <h5>STEM Tuition Support </h5>
-                <p>Honored with a renowned STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>Student Affiliation</h5>
+                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
-        </div>
-
-        <!-- Education Card 2 -->
-        <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
-            <div>
-                <h5>Chancellor's Gold Medal</h5>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level., 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 3 -->
-        <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
-            <div>
-                <h5>IT Engineers Examinations (ITEE) </h5>
-                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 4 -->
-        <div class="education-card">
-            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
-            <div>
-                <h5>Gold Medal</h5>
-                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
         </div>
     </div>
 </div>
 
+<!-- Card Layout for Academic Affiliations -->
+<div class="certification-layout">
+    <!-- Academic Affiliations Section Separator -->
+    <div class="separator">Academic Affiliations</div>
+    
+    <!-- Academic Affiliation Card 1 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <div>
+                <h5>Student Affiliation</h5>
+                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Card Layout for Professional Affiliations -->
+<div class="certification-layout">
+    <!-- Professional Affiliations Section Separator -->
+    <div class="separator">Professional Affiliations</div>
+    
+    <!-- Professional Affiliation Card 1 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/isaca.png?mw=250&hash=C68DA7ECFEAD695419778622BD1B5223" alt="ISACA Logo">
+            <div>
+                <h5>Silver Member</h5>
+                <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Professional Affiliation Card 2 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
+            <div>
+                <h5>Member</h5>
+                <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Professional Affiliation Card 3 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
+            <div>
+                <h5>Member</h5>
+                <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Professional Affiliation Card 4 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
+            <div>
+                <h5>Life Member</h5>
+                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Professional Affiliation Card 5 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
+            <div>
+                <h5>Life Member</h5>
+                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+		
+		
+	
 <footer>
 
 </footer>
