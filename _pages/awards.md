@@ -234,7 +234,7 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>STEM Tuition Support </h5>
-                <p>Honored with a prestigious STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>Honored with a renowned STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
@@ -261,7 +261,7 @@ author_profile: true
             <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
             <div>
                 <h5>Gold Medal</h5>
-                <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
+                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
         </div>
     </div>
 </div>
