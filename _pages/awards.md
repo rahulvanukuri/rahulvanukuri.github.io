@@ -234,7 +234,7 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>STEM Tuition Support </h5>
-                <p>covers all the tuition and fees and got the offer of a Graduate Teaching Assistantship, Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>Honored with a prestigious STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
@@ -243,7 +243,7 @@ author_profile: true
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
                 <h5>Chancellor's Gold Medal</h5>
-                <p>Gold Medal from the President of the People’s Republic of Bangladesh as Chancellor’s award for being Top at the University in Master’s Level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level., 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
 
@@ -252,7 +252,7 @@ author_profile: true
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
             <div>
                 <h5>IT Engineers Examinations (ITEE) f</h5>
-                <p>Taking part in a competitive examination for establishing Digital Bangladesh, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
+                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
             </div>
         </div>
 
@@ -261,7 +261,7 @@ author_profile: true
             <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
             <div>
                 <h5>Gold Medal</h5>
-                <p>Outstanding performance in 12th grade as a Banker's child and awarded the gold medal from Janata Bank PLC (Government Owned Bank) Employees Benevolent Fund Managing Committee<br><small><a href="https://www.jb.com.bd/">Janata Bank PL</a></small></p>
+                <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PL</a></small></p>
             </div>
         </div>
     </div>
