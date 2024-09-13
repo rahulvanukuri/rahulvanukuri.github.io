@@ -136,7 +136,7 @@ redirect_from:
 
         .education-card {
             padding: 15px;
-            background-color: #fff;
+            background-color: #f9f9f9;
             border-radius: 10px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
