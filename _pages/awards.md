@@ -89,19 +89,19 @@ author_profile: true
 
            
            
-<!-- New Style for Education Section -->
+<!-- New Style for Awards Section -->
     <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
-            <span>Education</span>
+            <span>Awards</span>
         </div>
 
         <!-- Education Card 1 -->
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>STEM (Science, Engineering, Technology, and Math) tuition support, which covers all the tuition and fees and got the offer of a Graduate Teaching Assistantship </p>
+                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
