@@ -1,7 +1,8 @@
 ---
-permalink: /
-redirect_from: 
-  - /awards/
+layout: archive
+title: ""
+permalink: /awards/
+author_profile: true
 ---
 
 <html lang="en">
