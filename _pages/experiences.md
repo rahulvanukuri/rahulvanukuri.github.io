@@ -260,10 +260,10 @@ author_profile: true
     <!-- Experience Card 6 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/baf61aad54bfe77ab65a" alt="BRAC Bank Logo">
             <div>
                 <h5>Chief Information Security Officer (CISO)</h5>
-                <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
+                <small><a href="https://www.ibcs-primax.com/mission-vision.php">IBCS-Primax Software (Bangaladesh) Limited</a></small>
                 <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
             </div>
         </div>
@@ -280,11 +280,10 @@ author_profile: true
     <!-- Experience Card 7 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bangladesh_Computer_Council_Logo.svg/1440px-Bangladesh_Computer_Council_Logo.svg.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
             <div>
                 <h5>National IT Security & Audit Consultant</h5>
-                <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
-                <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
+                <small><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a></small> 
                 <small>Dec 2029 – Sep 2022 · Dhaka, Bangladesh</small>
             </div>
         </div>
