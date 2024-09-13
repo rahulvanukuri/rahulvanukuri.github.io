@@ -230,6 +230,8 @@ author_profile: true
         <p class="subtext">IT Incident Management</p>
     </div>
 </div>
+<footer>
+</footer>
 
 </body>
 </html>
