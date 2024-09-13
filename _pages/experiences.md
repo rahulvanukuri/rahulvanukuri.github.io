@@ -1,7 +1,8 @@
 ---
-permalink: /
-redirect_from: 
-  - /experiences/
+layout: archive
+title: ""
+permalink: /experiences/
+author_profile: true
 ---
 
 <html lang="en">
