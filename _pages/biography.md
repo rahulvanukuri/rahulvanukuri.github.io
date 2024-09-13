@@ -227,7 +227,7 @@ redirect_from:
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Download_font_awesome.svg/1200px-Download_font_awesome.svg.png" alt="Download Icon">
+                    <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
                     <a href="#" class="cv-link">Download my resumé / CV</a>
                 </div>
             </div>
