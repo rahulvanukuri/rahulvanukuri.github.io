@@ -226,7 +226,7 @@ author_profile: true
     <div class="education-layout">
         <!-- Education Section Separator -->
         <div class="separator">
-            <span>Awards Received</span>
+            <span>Co-curricular Activities</span>
         </div>
 
         <!-- Education Card 1 -->
