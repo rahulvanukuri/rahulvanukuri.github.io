@@ -150,8 +150,6 @@ author_profile: true
     <!-- Experiences Section -->
     <div class="separator">Experiences</div>
 
-   
-
     <!-- Experience Card 1 -->
     <div class="experience-card">
         <div class="experience-header">
@@ -171,35 +169,27 @@ author_profile: true
             </ul>
         </div>
     </div>
-</div>
 
     <!-- Experience Card 2 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://cdn.daily-sun.com/public/news_images/2023/09/18/DS-64-18-09-2023.jpg" alt="BRAC Bank PLC Logo">
+            <img src="https://www.bracbank.com/career/assets/images/footer_logo.png" alt="BRAC Bank Logo">
             <div>
-                <h5>Graduate Student Researcher</h5>
-                <small><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a></small>
-                <small>November 2022 – Aug 2023 · Dhaka, Bangladesh</small>
+                <h5>Chief Information Security Officer (CISO)</h5>
+                <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
+                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
             <ul>
-                <li>Optimize resource usage of microservice applications in cloud computing.</li>
-                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
-                <li>Identify root cause of the resource bottlenecks of microservices.</li>
-                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
+                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
+                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
+                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
             </ul>
         </div>
     </div>
 </div>
-    
-    
-    
-    
-    
-    
-    
 
 <footer>
     © 2024 by Mohammad Shahedur Rahman. All rights reserved.
