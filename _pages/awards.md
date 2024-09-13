@@ -261,7 +261,7 @@ author_profile: true
             <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
             <div>
                 <h5>Gold Medal</h5>
-                <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PL</a></small></p>
+                <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
         </div>
     </div>
 </div>
