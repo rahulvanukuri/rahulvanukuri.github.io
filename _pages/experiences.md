@@ -176,128 +176,29 @@ author_profile: true
     <!-- Experience Card 2 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://www.bracbank.com/career/assets/images/footer_logo.png" alt="Lawrence Livermore National Lab Logo">
+            <img src="https://www.bracbank.com/career/assets/images/footer_logo.png" alt="BRAC Bank PLC Logo">
             <div>
-                <h5>Chief Information Security Officer (CISO)</h5>
+                <h5>Graduate Student Researcher</h5>
                 <small><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a></small>
                 <small>November 2022 – Aug 2023 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
             <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Identify root cause of the resource bottlenecks of microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
             </ul>
         </div>
     </div>
-
-        <!-- Experience Card 3 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
-            <div>
-                <h5>Computing Scholar Graduate Intern</h5>
-                <small>Lawrence Livermore National Laboratory</small>
-                <small>May 2023 – Aug 2023 · Livermore, California</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
-            </ul>
-        </div>
-    </div>
-
-        <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
-            <div>
-                <h5>Computing Scholar Graduate Intern</h5>
-                <small>Lawrence Livermore National Laboratory</small>
-                <small>May 2023 – Aug 2023 · Livermore, California</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
-            </ul>
-        </div>
-    </div>
-
-        <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
-            <div>
-                <h5>Computing Scholar Graduate Intern</h5>
-                <small>Lawrence Livermore National Laboratory</small>
-                <small>May 2023 – Aug 2023 · Livermore, California</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
-            </ul>
-        </div>
-    </div>
-
-        <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
-            <div>
-                <h5>Computing Scholar Graduate Intern</h5>
-                <small>Lawrence Livermore National Laboratory</small>
-                <small>May 2023 – Aug 2023 · Livermore, California</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
-            </ul>
-        </div>
-    </div>
-
-        <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/LLNL-Logo-Black-Text.png" alt="Lawrence Livermore National Lab Logo">
-            <div>
-                <h5>Computing Scholar Graduate Intern</h5>
-                <small>Lawrence Livermore National Laboratory</small>
-                <small>May 2023 – Aug 2023 · Livermore, California</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Develop Autoscaling mechanism for ML and HPC Workflows and Cloud Environments (AWS, GCP).</li>
-                <li>Enable Autoscaling into HPC frameworks such as Flux Framework with Cloud.</li>
-                <li>Enable HPC and Cloud Computing convergence (Deploying lightweight Kubernetes instances with Flux in nested mode).</li>
-                <li>Develop tools to automate the deployment and elasticity of HPC Apps and the cloud.</li>
-                <li>Tools and Technologies: Python, AWS API, BOTO3, Terraform, Bash.</li>
-            </ul>
-        </div>
-    </div>
+</div>
+    
+    
+    
+    
+    
+    
     
 
 <footer>
