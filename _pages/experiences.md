@@ -280,8 +280,7 @@ author_profile: true
     <!-- Experience Card 7 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="![image](https://github.com/user-attachments/assets/3e22a7e5-2389-46a8-9dc0-8ce631aacbec)
-" alt="Bangladesh Computer Council Logo">
+            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
             <div>
                 <h5>National IT Security & Audit Consultant</h5>
                 <small><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a></small> 
