@@ -24,6 +24,7 @@ redirect_from:
             width: 128%;
             margin: 0;
             padding: 10px;
+            padding-bottom: 50px; /* Added padding at the bottom */
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -205,6 +206,9 @@ redirect_from:
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
+            position: relative; /* Ensure the footer is positioned relative to the content */
+            clear: both; /* Clear any floating elements */
+            padding: 20px 0; /* Add padding to the footer */
         }
 
         /* Responsive Design */
