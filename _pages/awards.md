@@ -8,7 +8,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Education</title>
+    <title>Biography</title>
     <style>
         /* General Body Style */
         body {
@@ -28,6 +28,84 @@ redirect_from:
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .content h2 {
+            font-size: 28px;
+            color: #1e3d8f;
+            font-weight: bold;
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .content h2::after {
+            content: '';
+            display: block;
+            width: 100%;
+            height: 1px;
+            background-color: #cccccc;
+            margin-top: 10px;
+        }
+
+        .content p {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #333;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        .content a {
+            color: #1e3d8f;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        .content a:hover {
+            color: #003399;
+        }
+
+        /* Style for Biography and Interests (Unchanged) */
+        .certification-layout {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .certification-card {
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            font-family: 'Georgia', serif;
+        }
+
+        .certification-card h5,
+        .certification-card p,
+        .certification-card small {
+            font-family: 'Georgia', serif;
+            color: #333;
+        }
+
+        .certification-card h5 {
+            font-size: 18px; /* Font size for headings */
+            font-weight: bold; /* Keeping the heading bold */
+        }
+
+        .certification-card p {
+            font-size: 17px; /* Font size for regular text */
+        }
+
+        .certification-card small {
+            font-size: 15px; /* Font size for small text */
+        }
+
+        .certification-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
         .separator {
@@ -50,7 +128,7 @@ redirect_from:
             margin: 10px auto;
         }
 
-        /* New Style for Education Section */
+        /* New Style for Education Section (as per your uploaded image) */
         .education-layout {
             display: grid;
             grid-template-columns: 1fr;
@@ -73,11 +151,10 @@ redirect_from:
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
-        /* Removing bold styling from h5 */
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px;
-            font-weight: normal; /* Set to normal to remove bold */
+            font-size: 18px; /* Matching font size to Interests section */
+            font-weight: bold;
             color: #333;
             margin: 0;
         }
@@ -99,6 +176,30 @@ redirect_from:
             margin: 0;
         }
 
+        /* Styling for Download CV link */
+        .cv-link-wrapper {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .cv-link-wrapper img {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+        }
+
+        .cv-link-wrapper a {
+            font-size: 18px;
+            font-family: 'Georgia', serif;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .cv-link-wrapper a:hover {
+            color: #1e3d8f;
+        }
+
         /* Footer */
         footer {
             text-align: center;
@@ -112,7 +213,7 @@ redirect_from:
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .education-layout {
+            .certification-layout {
                 grid-template-columns: 1fr;
             }
         }
@@ -120,24 +221,25 @@ redirect_from:
 </head>
 <body>
 
-<div class="content">
-    <!-- Education Section Separator -->
-    <div class="separator">Award Received</div>
-
-    <!-- Education Section -->
+    <!-- New Style for Education Section -->
     <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Education</span>
+        </div>
+
         <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering</h5>
+                <h5>PhD in Computer Science and Engineering </h5>
                 <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
         <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Information Systems Security (MISS)</h5>
                 <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
@@ -146,7 +248,7 @@ redirect_from:
 
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Dhaka University Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
                 <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
@@ -155,7 +257,7 @@ redirect_from:
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="BUET Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
                 <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
@@ -165,7 +267,7 @@ redirect_from:
 </div>
 
 <footer>
-    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
+
 </footer>
 
 </body>
