@@ -88,7 +88,7 @@ author_profile: true
 </head>
 <body>
 
-<!-- Certifications Section -->
+<!-- Award Section -->
 <div class="separator">Awards</div>
 <ul class="certifications-list">
     <li>
@@ -114,7 +114,7 @@ author_profile: true
 
 </ul>
 
-<!-- Certifications Section -->
+<!-- Affiliations Section -->
 <div class="separator">Professional Affiliations</div>
 <ul class="certifications-list">
     <li>
