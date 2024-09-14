@@ -273,7 +273,7 @@ author_profile: true
 <!-- Card Layout for Academic Affiliations -->
 <div class="certification-layout">
     <!-- Affiliations Section Separator -->
-    <div class="separator">Academic Affiliations</div>
+    <div class="separator">Affiliations</div>
     
     <!-- Academic Affiliation Card 1 -->
     <div class="certification-card">
