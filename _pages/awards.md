@@ -56,15 +56,16 @@ author_profile: true
             text-align: justify;
         }
 
+        /* Updated hyperlink styling: removed underline and darkened color */
         .content a {
-            color: #1e3d8f;
-            text-decoration: none;
+            color: #1c2e67; /* Darker color for links */
+            text-decoration: none; /* Removed underline */
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         .content a:hover {
-            color: #003399;
+            color: #00264d; /* Slightly darker on hover */
         }
 
         /* Style for Biography and Interests (Unchanged) */
