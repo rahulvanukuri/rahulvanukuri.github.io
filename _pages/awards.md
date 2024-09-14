@@ -240,6 +240,39 @@ author_profile: true
             </div>
         </div>
     </div>
+
+<!-- Academic Affiliation Card 1 -->
+    <div class="certification-card">
+        <div class="education-card">
+	<img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <div>
+                <h5>Chancellor's Gold Medal</h5>
+                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level., 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+<!-- Academic Affiliation Card 1 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
+            <div>
+                <h5>IT Engineers Examinations (ITEE) </h5>
+                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+<!-- Academic Affiliation Card 1 -->
+    <div class="certification-card">
+        <div class="education-card">
+            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
+            <div>
+                <h5>Gold Medal</h5>
+                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <!-- Card Layout for Academic Affiliations -->
