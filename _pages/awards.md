@@ -312,7 +312,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ec_Council_Logo.png" alt="EC-Council Logo">
             <div>
                 <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
@@ -334,7 +334,7 @@ author_profile: true
     <!-- Professional Affiliation Card 5 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
             <div>
                 <h5>Life Member</h5>
                 <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
