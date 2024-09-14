@@ -159,16 +159,16 @@ author_profile: true
     <!-- Experience Card 1 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div>
                 <h5>Project Management</h5>
-                <small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small>
-                <small>Sep 2019 – Present · Texas</small>
             </div>
         </div>
         <div class="experience-content">
             <ul>
-                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+              <li>
+                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                <p>Project Management Professional (PMP)</p>
+                </li>
                 <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
                 <li>Identify root cause of the resource bottlenecks of microservices.</li>
                 <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
@@ -179,17 +179,20 @@ author_profile: true
     <!-- Experience Card 2 -->
     <div class="experience-card">
         <div class="experience-header">
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div>
                 <h5>IT Audit</h5>
-                <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
-                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
             </div>
         </div>
         <div class="experience-content">
             <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
+                    <li>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+        <p>Certified Information Systems Auditor (CISA)</p>
+    </li>
+                    <li>
+        <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
+        <p>ISO 27001 Lead Auditor</p>
+    </li>
                 <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
                 <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
             </ul>
