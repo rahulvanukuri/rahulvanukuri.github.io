@@ -62,6 +62,7 @@ author_profile: true
             box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
         }
 
+        /* Using Icon as a Bullet */
         .experience-header {
             display: flex;
             align-items: center;
@@ -69,23 +70,9 @@ author_profile: true
         }
 
         .experience-header img {
-            width: 80px;
-            height: 80px;
+            width: 35px;
+            height: 35px;
             margin-right: 15px;
-        }
-
-        .experience-header h5 {
-            font-size: 18px;
-            margin: 0;
-            font-weight: bold;
-            color: #333;
-            font-family: 'Georgia', serif;
-        }
-
-        .experience-header p {
-            font-size: 16px;
-            margin: 0;
-            color: #333;
         }
 
         .experience-header h6 {
@@ -96,29 +83,31 @@ author_profile: true
             font-family: 'Georgia', serif;
         }
 
-        /* Styled bullet points with smaller size */
+        /* Styled content with icon as bullet */
         .experience-content ul {
-            margin: 0;
-            padding-left: 20px;
+            list-style: none;
+            padding-left: 0;
         }
 
         .experience-content ul li {
+            display: flex;
+            align-items: center;
             margin-bottom: 10px;
             font-size: 15px;
             color: #333;
-            list-style-type: none;
-            position: relative;
-            padding-left: 20px;
             font-family: 'Georgia', serif;
         }
 
-        .experience-content ul li::before {
-            content: '•';
-            position: absolute;
-            left: 0;
-            color: #1e3d8f;
-            font-size: 20px;
-            line-height: 16px;
+        .experience-content ul li img {
+            width: 35px;
+            height: 35px;
+            margin-right: 10px;
+        }
+
+        .experience-content ul li p {
+            margin: 0;
+            font-size: 15px;
+            color: #333;
         }
 
         /* Footer */
@@ -133,15 +122,20 @@ author_profile: true
         /* Responsive Design */
         @media (max-width: 768px) {
             .experience-header img {
-                width: 40px;
-                height: 40px;
+                width: 30px;
+                height: 30px;
             }
 
-            .experience-header h5 {
+            .experience-header h6 {
                 font-size: 16px;
             }
 
-            .experience-content ul li {
+            .experience-content ul li img {
+                width: 30px;
+                height: 30px;
+            }
+
+            .experience-content ul li p {
                 font-size: 14px;
             }
         }
@@ -157,36 +151,22 @@ author_profile: true
     <div class="experience-card">
         <div class="experience-header">
             <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <div>
-                <h5>Project Management</h5>
-                <h6>Project Management Professional (PMP)</h6>
-            </div>
+            <h6>Project Management Professional (PMP)</h6>
         </div>
         <div class="experience-content">
             <ul>
-                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
-                <li>Identify root cause of the resource bottlenecks of microservices.</li>
-                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
-            <div>
-                <h5>Chief Information Security Officer (CISO)</h5>
-                <small><a href="https://www.bracbank.com/en">BRAC Bank PLC</a></small>
-                <small>Nov 2022 – Aug 2023 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+                <li>
+                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                    <p>Develop Resource Manager on top of Kubernetes for microservices.</p>
+                </li>
+                <li>
+                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                    <p>Identify root cause of the resource bottlenecks of microservices.</p>
+                </li>
+                <li>
+                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                    <p>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</p>
+                </li>
             </ul>
         </div>
     </div>
