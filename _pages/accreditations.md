@@ -69,9 +69,9 @@ author_profile: true
         }
 
         .experience-header img {
-            width: 50px;
-            height: 50px;
-            margin-right: 20px;
+            width: 80px;
+            height: 80px;
+            margin-right: 15px;
         }
 
         .experience-header h5 {
@@ -86,6 +86,14 @@ author_profile: true
             font-size: 16px;
             margin: 0;
             color: #333;
+        }
+
+        .experience-header h6 {
+            font-size: 17px;
+            font-weight: normal;
+            margin: 0;
+            color: #333;
+            font-family: 'Georgia', serif;
         }
 
         /* Styled bullet points with smaller size */
@@ -148,18 +156,13 @@ author_profile: true
     <!-- Experience Card 1 -->
     <div class="experience-card">
         <div class="experience-header">
-            <span>&#8226;</span>
-            <h5 style="margin-left: 10px;">Project Management</h5>
+            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+            <div>
+                <h5>Project Management</h5>
+                <h6>Project Management Professional (PMP)</h6>
+            </div>
         </div>
         <div class="experience-content">
-            <div style="display: flex; align-items: center; gap: 15px;">
-                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon" style="width: 80px; height: 80px;">
-                <p>Project Management Professional (PMP)</p>
-            </div>
-            <div style="display: flex; align-items: center; gap: 15px;">
-                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon" style="width: 80px; height: 80px;">
-                <p>Project Management Professional (PMP)</p>
-            </div>
             <ul>
                 <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
                 <li>Identify root cause of the resource bottlenecks of microservices.</li>
