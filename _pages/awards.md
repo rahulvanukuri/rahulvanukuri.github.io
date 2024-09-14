@@ -56,15 +56,15 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Updated hyperlink styling: removed underline and darkened color */
-        .content a {
-            color: #1c2e67; /* Darker color for links */
+        /* Remove underline and make the links darker */
+        a {
+            color: #1c1c1c; /* Darker color for links */
             text-decoration: none; /* Removed underline */
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
-        .content a:hover {
+        a:hover {
             color: #00264d; /* Slightly darker on hover */
         }
 
