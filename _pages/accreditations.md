@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /experiences/
+permalink: /accreditations/
 author_profile: true
 ---
 
