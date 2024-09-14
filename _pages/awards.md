@@ -56,14 +56,15 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Remove underline and use custom color for links */
-        a, a:visited, a:hover, a:active {
-            text-decoration: none !important; /* Forces removal of underline */
-            color: #1e3d8f !important; /* Use consistent color for links */
+        /* Styling the links */
+        a, a:visited {
+            color: #1e3d8f; /* Dark blue color for links */
+            text-decoration: none; /* Remove underline */
         }
 
-        a:hover {
-            color: #003399 !important; /* Darker color on hover */
+        a:hover, a:active {
+            color: #003399; /* Darker blue on hover and active */
+            text-decoration: none; /* Ensure no underline on hover */
         }
 
         /* Style for Biography and Interests */
@@ -154,7 +155,7 @@ author_profile: true
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px;
+            font-size: 18px; /* Matching font size to Interests section */
             font-weight: bold;
             color: #333;
             margin: 0;
