@@ -9,9 +9,8 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experiences</title>
+    <title>Accreditations</title>
     <style>
-
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
@@ -66,6 +65,7 @@ author_profile: true
         .experience-header {
             display: flex;
             align-items: center;
+            margin-bottom: 10px;
         }
 
         .experience-header img {
@@ -79,18 +79,13 @@ author_profile: true
             margin: 0;
             font-weight: bold;
             color: #333;
-            font-family: 'Georgia', serif; /* Ensuring consistent font usage */
+            font-family: 'Georgia', serif;
         }
 
-        .experience-header small {
-            display: block;
-            font-size: 14px;
-            color: #666;
-            font-family: 'Georgia', serif; /* Applying same font */
-        }
-
-        .experience-content {
-            margin-top: 15px;
+        .experience-header p {
+            font-size: 16px;
+            margin: 0;
+            color: #333;
         }
 
         /* Styled bullet points with smaller size */
@@ -101,12 +96,12 @@ author_profile: true
 
         .experience-content ul li {
             margin-bottom: 10px;
-            font-size: 15px; /* 1 size smaller */
+            font-size: 15px;
             color: #333;
             list-style-type: none;
             position: relative;
             padding-left: 20px;
-            font-family: 'Georgia', serif; /* Applying same font */
+            font-family: 'Georgia', serif;
         }
 
         .experience-content ul li::before {
@@ -118,19 +113,13 @@ author_profile: true
             line-height: 16px;
         }
 
-        /* Style for hyperlinks */
-        a, a:visited, a:hover, a:active {
-            text-decoration: none !important; /* Forces removal of underline */
-            color: #1e3d8f !important; /* Ensures the color remains unchanged */
-        }
-
         /* Footer */
         footer {
             text-align: center;
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            font-family: 'Georgia', serif; /* Applying same font */
+            font-family: 'Georgia', serif;
         }
 
         /* Responsive Design */
@@ -153,23 +142,21 @@ author_profile: true
 <body>
 
 <div class="content">
-    <!-- Experiences Section -->
+    <!-- Accreditations Section -->
     <div class="separator">Accreditations</div>
 
     <!-- Experience Card 1 -->
     <div class="experience-card">
         <div class="experience-header">
-  
-            <div>
-                <h5>Project Management</h5>
-            </div>
+            <span>&#8226;</span>
+            <h5 style="margin-left: 10px;">Project Management</h5>
         </div>
         <div class="experience-content">
+            <div style="display: flex; align-items: center; gap: 15px;">
+                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon" style="width: 80px; height: 80px;">
+                <p>Project Management Professional (PMP)</p>
+            </div>
             <ul>
-                    <span><li>
-        <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-        <p>Project Management Professional (PMP)</p>
-    </li></span>
                 <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
                 <li>Identify root cause of the resource bottlenecks of microservices.</li>
                 <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
@@ -197,106 +184,8 @@ author_profile: true
         </div>
     </div>
 
-    <!-- Experience Card 3 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bangladesh_Computer_Council_Logo.svg/1440px-Bangladesh_Computer_Council_Logo.svg.png" alt="Bangladesh Computer Council Logo">
-            <div>
-                <h5>National IT Security & Audit Consultant</h5>
-                <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
-                <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
-                <small>Jan 2019 – Sep 2022 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
+    <!-- More cards would go here -->
 
-        <!-- Experience Card 4 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://seeklogo.com/images/E/eastern-bank-limited-logo-3DD509DA8B-seeklogo.com.png" alt="BRAC Bank Logo">
-            <div>
-                <h5>Assistant Vice President (AVP)</h5>
-                <small><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a></small>
-                <small>Nov 2016 – Dec 2018 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Experience Card 5 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1KKd0fNMQ6lXdmdLhY10_1i5Qy4riFFiAw&s" alt="BRAC Bank Logo">
-            <div>
-                <h5>Assistant Manager (Cybersecurity)</h5>
-                <small><a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
-                <small>Feb 2015 – Nov 2016 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Experience Card 6 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/baf61aad54bfe77ab65a" alt="BRAC Bank Logo">
-            <div>
-                <h5>Programmer</h5>
-                <small><a href="https://www.ibcs-primax.com/mission-vision.php">IBCS-Primax Software (Bangaladesh) Limited</a></small>
-                <small>Jan 2014 – Feb 2015 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
-    
-    <!-- Experience Card 7 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
-            <div>
-                <h5>Specialist (Security)</h5>
-                <small><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a></small> 
-                <small>Oct 2012 – Dec 2013 · Dhaka, Bangladesh</small>
-            </div>
-        </div>
-        <div class="experience-content">
-            <ul>
-                <li>Provided consulting services on IT security for national-level critical infrastructure projects.</li>
-                <li>Developed security guidelines and performed security audits on major government IT projects.</li>
-                <li>Collaborated with international experts to improve the country’s cybersecurity readiness.</li>
-                <li>Developed and implemented training for IT professionals on security best practices.</li>
-            </ul>
-        </div>
-    </div>
 </div>
 
 <footer>
