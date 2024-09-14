@@ -22,7 +22,7 @@ author_profile: true
 
         /* Main content container */
         .content {
-            width: 100%; /* Ensure content fits the page */
+            width: 128%; /* Ensure content fits the page */
             max-width: 1200px; /* Limit maximum width */
             margin: 0 auto;
             padding: 10px;
