@@ -156,6 +156,10 @@ author_profile: true
                 <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon" style="width: 80px; height: 80px;">
                 <p>Project Management Professional (PMP)</p>
             </div>
+            <div style="display: flex; align-items: center; gap: 15px;">
+                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon" style="width: 80px; height: 80px;">
+                <p>Project Management Professional (PMP)</p>
+            </div>
             <ul>
                 <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
                 <li>Identify root cause of the resource bottlenecks of microservices.</li>
