@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /awards/
-author_profile: true
+permalink: /
+redirect_from: 
+  - /biography/
 ---
 
 <html lang="en">
@@ -56,16 +55,15 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Remove underline and make the links darker */
         .content a {
-            color: #333333; /* Darker color for links */
-            text-decoration: none; /* Remove underline */
+            color: #1e3d8f;
+            text-decoration: none;
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         .content a:hover {
-            color: #1e3d8f; /* Slightly darker on hover */
+            color: #003399;
         }
 
         /* Style for Biography and Interests (Unchanged) */
@@ -99,7 +97,6 @@ author_profile: true
 
         .certification-card p {
             font-size: 17px; /* Font size for regular text */
-            text-align: justify; /* Justifies the paragraph text */
         }
 
         .certification-card small {
@@ -131,7 +128,7 @@ author_profile: true
             margin: 10px auto;
         }
 
-        /* New Style for Education Section */
+        /* New Style for Education Section (as per your uploaded image) */
         .education-layout {
             display: grid;
             grid-template-columns: 1fr;
@@ -209,9 +206,9 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            position: relative;
-            clear: both;
-            padding: 20px 0;
+            position: relative; /* Ensure the footer is positioned relative to the content */
+            clear: both; /* Clear any floating elements */
+            padding: 20px 0; /* Add padding to the footer */
         }
 
         /* Responsive Design */
@@ -224,136 +221,97 @@ author_profile: true
 </head>
 <body>
 
-<!-- Card Layout for Academic Affiliations -->
-<div class="certification-layout">
-    <!-- Academic Affiliations Section Separator -->
-    <div class="separator">Awards Received</div>
-    
-    <!-- Academic Affiliation Card 1 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+<div class="content">
+    <!-- Full-width Biography Card -->
+    <div class="certification-layout">
+        <div class="separator">Biography</div>
+        <!-- Biography Card without the Icon -->
+        <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <h5>STEM Tuition Support</h5>
-                <p>Honored with a renowned STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a> & <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the "Big Four" accounting firms.</p>
+                
+                <!-- New Download CV section -->
+                <div class="cv-link-wrapper">
+                    <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
+                    <a href="#" class="cv-link">Download my resumé / CV</a>
+                </div>
             </div>
         </div>
     </div>
 
-    <!-- Academic Affiliation Card 2 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+    <!-- Card Layout for Interests -->
+    <div class="certification-layout">
+        <!-- Interests Section Separator -->
+        <div class="separator">Interests</div>
+        <!-- Interests Card 1 -->
+        <div class="certification-card">
             <div>
-                <h5>Chancellor's Gold Medal</h5>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <li>Cloud Computing</li>
+                <li>High Performance Computing (HPC)</li>
+                <li>Microservices</li> 
+                <li>HPC in the Cloud</li>
+            </div>
+        </div>
+
+        <!-- Interests Card 2 -->
+        <div class="certification-card">
+            <div>
+                <li>Project Management</li> 
+                <li>Information and Cyber Security</li> 
+                <li>Governance, Risk & Compliance (GRC)</li>
+                <li>IT Audit</li>
             </div>
         </div>
     </div>
 
-    <!-- Academic Affiliation Card 3 -->
-    <div class="certification-card">
+    <!-- New Style for Education Section -->
+    <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Education</span>
+        </div>
+
+        <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>IT Engineers Examinations (ITEE)</h5>
-                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
+                <h5>PhD in Computer Science and Engineering </h5>
+                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
-    </div>
 
-    <!-- Academic Affiliation Card 4 -->
-    <div class="certification-card">
+        <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Janata Bank Logo">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
-                <h5>Gold Medal</h5>
-                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
+                <h5>MSc in Information Systems Security (MISS)</h5>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
-    </div>
-</div>
 
-<!-- Card Layout for Academic Affiliations -->
-<div class="certification-layout">
-    <!-- Academic Affiliations Section Separator -->
-    <div class="separator">Academic Affiliations</div>
-    
-    <!-- Academic Affiliation Card 1 -->
-    <div class="certification-card">
+        <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
-                <h5>Student Affiliation</h5>
-                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>MBA in Management Information Systems</h5>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
             </div>
         </div>
-    </div>
-</div>
 
-<!-- Card Layout for Professional Affiliations -->
-<div class="certification-layout">
-    <!-- Professional Affiliations Section Separator -->
-    <div class="separator">Professional Affiliations</div>
-    
-    <!-- Professional Affiliation Card 1 -->
-    <div class="certification-card">
+        <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/isaca.png?mw=250&hash=C68DA7ECFEAD695419778622BD1B5223" alt="ISACA Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
-                <h5>Silver Member</h5>
-                <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Professional Affiliation Card 2 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
-            <div>
-                <h5>Member</h5>
-                <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Professional Affiliation Card 3 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
-            <div>
-                <h5>Member</h5>
-                <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Professional Affiliation Card 4 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
-            <div>
-                <h5>Life Member</h5>
-                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Professional Affiliation Card 5 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
-            <div>
-                <h5>Life Member</h5>
-                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
+                <h5>BSc in Computer Science and Engineering</h5>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
             </div>
         </div>
     </div>
 </div>
 
 <footer>
-
+    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
 </footer>
 
 </body>
