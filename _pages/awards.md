@@ -11,7 +11,6 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awards</title>
     <style>
-
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
@@ -56,14 +55,14 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Styling the links */
-        a, a:visited {
+        /* Styling the links to remove underlines and adjust color */
+        a {
             color: #1e3d8f; /* Dark blue color for links */
             text-decoration: none; /* Remove underline */
         }
 
-        a:hover, a:active {
-            color: #003399; /* Darker blue on hover and active */
+        a:hover {
+            color: #003399; /* Darker blue on hover */
             text-decoration: none; /* Ensure no underline on hover */
         }
 
