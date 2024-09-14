@@ -9,14 +9,11 @@ main:
   - title: "Skills"
     url: /skills_&_certifications/
 
-  - title: "Certifications"
+  - title: "Accreditations"
     url: /certifications/
 
   - title: "Awards"
     url: /awards/
-
-  - title: "Affiliations"
-    url: /affiliations/
 
   - title: "Co-curricular"
     url: /co-curricular/
