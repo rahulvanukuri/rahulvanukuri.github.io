@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Accreditations"
 permalink: /accreditations/
 author_profile: true
 ---
@@ -9,24 +9,25 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experiences</title>
+    <title>Accreditations</title>
     <style>
-
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
             background-color: #f0f7fa;
+            color: #333;
             margin: 0;
             padding: 0;
-            color: #333;
         }
 
         /* Main content container */
         .content {
-            width: 128%;
-            margin: 0 auto;
+            max-width: 1200px;
+            margin: 40px auto;
             padding: 20px;
-            max-width: 1000px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
         /* Style for Separator */
@@ -36,7 +37,7 @@ author_profile: true
             font-weight: bold;
             color: #1e3d8f;
             margin-top: 0px;
-            margin-bottom: 20px;
+            margin-bottom: 40px;
             position: relative;
         }
 
@@ -49,79 +50,45 @@ author_profile: true
             margin: 10px auto;
         }
 
-        /* Experience Card Styling */
-        .experience-card {
+        /* Certifications Grid */
+        .certifications-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 20px;
+        }
+
+        .certification-card {
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
             padding: 20px;
-            margin-bottom: 20px;
-            transition: box-shadow 0.3s ease;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
-        .experience-card:hover {
-            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+        .certification-card img {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 15px;
         }
 
-        .experience-header {
-            display: flex;
-            align-items: center;
-        }
-
-        .experience-header img {
-            width: 50px;
-            height: 50px;
-            margin-right: 20px;
-        }
-
-        .experience-header h5 {
+        .certification-card h5 {
             font-size: 18px;
-            margin: 0;
             font-weight: bold;
             color: #333;
-            font-family: 'Georgia', serif; /* Ensuring consistent font usage */
-        }
-
-        .experience-header small {
-            display: block;
-            font-size: 14px;
-            color: #666;
-            font-family: 'Georgia', serif; /* Applying same font */
-        }
-
-        .experience-content {
-            margin-top: 15px;
-        }
-
-        /* Styled bullet points with smaller size */
-        .experience-content ul {
-            margin: 0;
-            padding-left: 20px;
-        }
-
-        .experience-content ul li {
             margin-bottom: 10px;
-            font-size: 15px; /* 1 size smaller */
+        }
+
+        .certification-card p {
+            font-size: 16px;
             color: #333;
-            list-style-type: none;
-            position: relative;
-            padding-left: 20px;
-            font-family: 'Georgia', serif; /* Applying same font */
+            margin-bottom: 15px;
         }
 
-        .experience-content ul li::before {
-            content: '•';
-            position: absolute;
-            left: 0;
-            color: #1e3d8f;
-            font-size: 20px;
-            line-height: 16px;
-        }
-
-        /* Style for hyperlinks */
-        a, a:visited, a:hover, a:active {
-            text-decoration: none !important; /* Forces removal of underline */
-            color: #1e3d8f !important; /* Ensures the color remains unchanged */
+        .certification-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
         }
 
         /* Footer */
@@ -130,22 +97,21 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            font-family: 'Georgia', serif; /* Applying same font */
         }
 
         /* Responsive Design */
         @media (max-width: 768px) {
-            .experience-header img {
-                width: 40px;
-                height: 40px;
+            .certifications-grid {
+                grid-template-columns: 1fr;
             }
 
-            .experience-header h5 {
-                font-size: 16px;
+            .certification-card {
+                padding: 15px;
             }
 
-            .experience-content ul li {
-                font-size: 14px;
+            .certification-card img {
+                width: 50px;
+                height: 50px;
             }
         }
     </style>
@@ -153,150 +119,85 @@ author_profile: true
 <body>
 
 <div class="content">
-    <!-- Experiences Section -->
-    <div class="separator">Accreditations & Credentials</div>
+    <!-- Certifications Section -->
+    <div class="separator">Accreditations</div>
 
-    <!-- Experience Card 1 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <div>
-                <h5>Project Management</h5>
-            </div>
+    <div class="certifications-grid">
+        <!-- Certification 1 -->
+        <div class="certification-card">
+            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+            <h5>Project Management Professional (PMP)</h5>
+            <p>Credential demonstrating expertise in project management.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-              <li>
-                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                <p>Project Management Professional (PMP)</p>
-                </li>
-                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
-                <li>Identify root cause of the resource bottlenecks of microservices.</li>
-                <li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li>
-            </ul>
-        </div>
-    </div>
 
-    <!-- Experience Card 2 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <div>
-                <h5>IT Audit</h5>
-            </div>
+        <!-- Certification 2 -->
+        <div class="certification-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
+            <h5>Certified in Risk and Information Systems Control (CRISC)</h5>
+            <p>Accredited for managing and mitigating enterprise risks.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                    <li>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
-        <p>Certified Information Systems Auditor (CISA)</p>
-    </li>
-                    <li>
-        <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
-        <p>ISO 27001 Lead Auditor</p>
-    </li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
 
-    <!-- Experience Card 3 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bangladesh_Computer_Council_Logo.svg/1440px-Bangladesh_Computer_Council_Logo.svg.png" alt="Bangladesh Computer Council Logo">
-            <div>
-                <h5>Governance, Risk & Compliance (GRC)</h5>
-                <small><a href="https://bcc.gov.bd/">Bangladesh Computer Council (BCC)</a></small>
-                <small>Projects: <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a></small>
-                <small>Jan 2019 – Sep 2022 · Dhaka, Bangladesh</small>
-            </div>
+        <!-- Certification 3 -->
+        <div class="certification-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+            <h5>Certified Information Systems Auditor (CISA)</h5>
+            <p>Globally recognized certification in IT audit and control.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
 
-        <!-- Experience Card 4 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://seeklogo.com/images/E/eastern-bank-limited-logo-3DD509DA8B-seeklogo.com.png" alt="BRAC Bank Logo">
-            <div>
-                <h5>Cybersecurity Credentials</h5>
-                <small><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a></small>
-                <small>Nov 2016 – Dec 2018 · Dhaka, Bangladesh</small>
-            </div>
+        <!-- Certification 4 -->
+        <div class="certification-card">
+            <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
+            <h5>Advanced Cloud Security Alliance (CSA) STAR</h5>
+            <p>Advanced accreditation in cloud security assessments.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
 
-    <!-- Experience Card 5 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1KKd0fNMQ6lXdmdLhY10_1i5Qy4riFFiAw&s" alt="BRAC Bank Logo">
-            <div>
-                <h5>IT Incident Management</h5>
-                <small><a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a></small>
-                <small>Feb 2015 – Nov 2016 · Dhaka, Bangladesh</small>
-            </div>
+        <!-- Certification 5 -->
+        <div class="certification-card">
+            <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
+            <h5>PCI DSS V3.2.1 Implementer</h5>
+            <p>Certification for implementing security standards in payment card systems.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
-        </div>
-    </div>
 
-    <!-- Experience Card 6 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/baf61aad54bfe77ab65a" alt="BRAC Bank Logo">
-            <div>
-                <h5>Programmer</h5>
-                <small><a href="https://www.ibcs-primax.com/mission-vision.php">IBCS-Primax Software (Bangaladesh) Limited</a></small>
-                <small>Jan 2014 – Feb 2015 · Dhaka, Bangladesh</small>
-            </div>
+        <!-- Certification 6 -->
+        <div class="certification-card">
+            <img src="https://6sigmaplus.com/wp-content/uploads/2020/01/lssbb-1-600x693.png" alt="Six Sigma Icon">
+            <h5>Lean Six Sigma Black Belt</h5>
+            <p>Accreditation for excellence in quality management and process improvement.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
-            </ul>
+
+        <!-- Certification 7 -->
+        <div class="certification-card">
+            <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="ISO 27001 Icon">
+            <h5>ISO 27001 Lead Implementer</h5>
+            <p>Certification for implementing Information Security Management Systems.</p>
         </div>
-    </div>
-    
-    <!-- Experience Card 7 -->
-    <div class="experience-card">
-        <div class="experience-header">
-            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
-            <div>
-                <h5>Database Management</h5>
-                <small><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a></small> 
-                <small>Oct 2012 – Dec 2013 · Dhaka, Bangladesh</small>
-            </div>
+
+        <!-- Certification 8 -->
+        <div class="certification-card">
+            <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="ISO 27001 Icon">
+            <h5>ISO 27001 Lead Auditor</h5>
+            <p>Accredited for auditing Information Security Management Systems.</p>
         </div>
-        <div class="experience-content">
-            <ul>
-                <li>Provided consulting services on IT security for national-level critical infrastructure projects.</li>
-                <li>Developed security guidelines and performed security audits on major government IT projects.</li>
-                <li>Collaborated with international experts to improve the country’s cybersecurity readiness.</li>
-                <li>Developed and implemented training for IT professionals on security best practices.</li>
-            </ul>
+
+        <!-- Certification 9 -->
+        <div class="certification-card">
+            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="ISO 27032 Icon">
+            <h5>ISO 27032 Lead Cybersecurity Manager</h5>
+            <p>Credential demonstrating expertise in cybersecurity management.</p>
+        </div>
+
+        <!-- Certification 10 -->
+        <div class="certification-card">
+            <img src="https://static.wingify.com/gcp/uploads/sites/3/2021/09/ISOIEC-27701.png" alt="GDPR Icon">
+            <h5>Privacy Information Management and GDPR</h5>
+            <p>Accreditation for data privacy and GDPR compliance management.</p>
+        </div>
+
+        <!-- Certification 11 -->
+        <div class="certification-card">
+            <img src="https://cdn.pressport.com/files/view?c=5052&f=35099&width=660" alt="ITIL Icon">
+            <h5>ITIL Foundation</h5>
+            <p>Certification for best practices in IT service management.</p>
         </div>
     </div>
 </div>
