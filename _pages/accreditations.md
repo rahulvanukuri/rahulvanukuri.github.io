@@ -70,8 +70,8 @@ author_profile: true
         }
 
         .experience-header img {
-            width: 35px;
-            height: 35px;
+            width: 50px;
+            height: 50px;
             margin-right: 15px;
         }
 
@@ -99,8 +99,8 @@ author_profile: true
         }
 
         .experience-content ul li img {
-            width: 35px;
-            height: 35px;
+            width: 50px;
+            height: 50px;
             margin-right: 10px;
         }
 
@@ -122,8 +122,8 @@ author_profile: true
         /* Responsive Design */
         @media (max-width: 768px) {
             .experience-header img {
-                width: 30px;
-                height: 30px;
+                width: 40px;
+                height: 40px;
             }
 
             .experience-header h6 {
@@ -131,8 +131,8 @@ author_profile: true
             }
 
             .experience-content ul li img {
-                width: 30px;
-                height: 30px;
+                width: 40px;
+                height: 40px;
             }
 
             .experience-content ul li p {
@@ -154,24 +154,55 @@ author_profile: true
             <h6>Project Management Professional (PMP)</h6>
         </div>
         <div class="experience-content">
-            <ul>
-                <li>
-                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                    <p>Develop Resource Manager on top of Kubernetes for microservices.</p>
-                </li>
-                <li>
-                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                    <p>Identify root cause of the resource bottlenecks of microservices.</p>
-                </li>
-                <li>
-                    <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                    <p>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</p>
-                </li>
-            </ul>
+            <p>Recognized for expertise in project management, managing resources efficiently, and achieving project goals within set constraints.</p>
         </div>
     </div>
 
-    <!-- More cards would go here -->
+    <!-- Experience Card 2 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
+            <h6>Certified in Risk and Information Systems Control (CRISC)</h6>
+        </div>
+        <div class="experience-content">
+            <p>Proficient in identifying and managing IT and business risks using Information Systems Control to achieve business objectives.</p>
+        </div>
+    </div>
+
+    <!-- Experience Card 3 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
+            <h6>Certified Information Systems Auditor (CISA)</h6>
+        </div>
+        <div class="experience-content">
+            <p>Specialized in auditing, control, and security of information systems with a focus on professional standards.</p>
+        </div>
+    </div>
+
+    <!-- Experience Card 4 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://fractionalciso.com/wp-content/uploads/2020/11/CSA-Cloud-Security-Alliance-Logo.png" alt="CSA STAR Icon">
+            <h6>Advanced Auditing for Cloud Security Alliance (CSA) STAR Certification</h6>
+        </div>
+        <div class="experience-content">
+            <p>Expert in cloud security auditing under the CSA STAR Certification, ensuring adherence to industry standards and protocols.</p>
+        </div>
+    </div>
+
+    <!-- Experience Card 5 -->
+    <div class="experience-card">
+        <div class="experience-header">
+            <img src="https://ecylabs.com/marketplace/wp-content/uploads/sites/3/2022/03/PCI-DSS-Control-Requirment.png" alt="PCI DSS Icon">
+            <h6>PCI DSS V3.2.1 Implementer (BSI)</h6>
+        </div>
+        <div class="experience-content">
+            <p>Knowledgeable in implementing PCI DSS (Payment Card Industry Data Security Standard) to secure payment transactions and protect customer data.</p>
+        </div>
+    </div>
+
+    <!-- Additional certification cards can be added below -->
 
 </div>
 
