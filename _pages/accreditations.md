@@ -125,22 +125,28 @@ author_profile: true
     <div class="certifications-grid">
         <!-- Certification 1 -->
         <div class="certification-card">
+        <span>
             <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
             <h5>Project Management Professional (PMP)</h5>
+            </span>
             <p>Credential demonstrating expertise in project management.</p>
         </div>
 
         <!-- Certification 2 -->
         <div class="certification-card">
+            <span>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3IPka1OAY3ZPVzlsgZrEphaftD9HD5wlWA&s" alt="CRISC Icon">
             <h5>Certified in Risk and Information Systems Control (CRISC)</h5>
             <p>Accredited for managing and mitigating enterprise risks.</p>
+            </span>
         </div>
 
         <!-- Certification 3 -->
         <div class="certification-card">
+            <span>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="CISA Icon">
             <h5>Certified Information Systems Auditor (CISA)</h5>
+            </span>
             <p>Globally recognized certification in IT audit and control.</p>
         </div>
 
