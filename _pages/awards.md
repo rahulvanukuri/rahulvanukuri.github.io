@@ -98,6 +98,7 @@ author_profile: true
 
         .certification-card p {
             font-size: 17px; /* Font size for regular text */
+            text-align: justify; /* Justifies the paragraph text */
         }
 
         .certification-card small {
@@ -129,7 +130,7 @@ author_profile: true
             margin: 10px auto;
         }
 
-        /* New Style for Education Section (as per your uploaded image) */
+        /* New Style for Education Section */
         .education-layout {
             display: grid;
             grid-template-columns: 1fr;
@@ -207,9 +208,9 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            position: relative; /* Ensure the footer is positioned relative to the content */
-            clear: both; /* Clear any floating elements */
-            padding: 20px 0; /* Add padding to the footer */
+            position: relative;
+            clear: both;
+            padding: 20px 0;
         }
 
         /* Responsive Design */
@@ -221,9 +222,6 @@ author_profile: true
     </style>
 </head>
 <body>
-
-
-
 
 <!-- Card Layout for Academic Affiliations -->
 <div class="certification-layout">
@@ -241,32 +239,32 @@ author_profile: true
         </div>
     </div>
 
-<!-- Academic Affiliation Card 1 -->
+    <!-- Academic Affiliation Card 2 -->
     <div class="certification-card">
         <div class="education-card">
-	<img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
             <div>
                 <h5>Chancellor's Gold Medal</h5>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level., 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
     </div>
 
-<!-- Academic Affiliation Card 1 -->
+    <!-- Academic Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
             <div>
-                <h5>IT Engineers Examinations (ITEE) </h5>
+                <h5>IT Engineers Examinations (ITEE)</h5>
                 <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
             </div>
         </div>
     </div>
 
-<!-- Academic Affiliation Card 1 -->
+    <!-- Academic Affiliation Card 4 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
+            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Janata Bank Logo">
             <div>
                 <h5>Gold Medal</h5>
                 <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
@@ -353,10 +351,6 @@ author_profile: true
     </div>
 </div>
 
-
-		
-		
-	
 <footer>
 
 </footer>
