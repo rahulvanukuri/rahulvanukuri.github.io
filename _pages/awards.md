@@ -290,7 +290,7 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/isaca.png?mw=250&hash=C68DA7ECFEAD695419778622BD1B5223" alt="ISACA Logo">
+            <img src="https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D5B0000001qOEUAY/PeTNGFMy_logo_png" alt="ISACA Logo">
             <div>
                 <h5>Silver Member</h5>
                 <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
@@ -301,7 +301,7 @@ author_profile: true
     <!-- Professional Affiliation Card 2 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
+            <img src="https://cdn.worldvectorlogo.com/logos/project-management-institute.svg" alt="PMI Logo">
             <div>
                 <h5>Member</h5>
                 <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
@@ -312,7 +312,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ec_Council_Logo.png" alt="EC-Council Logo">
+            <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
             <div>
                 <h5>Member</h5>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
