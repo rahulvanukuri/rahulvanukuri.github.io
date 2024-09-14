@@ -7,10 +7,10 @@ main:
     url: /experiences/
 
   - title: "Skills"
-    url: /skills_&_certifications/
+    url: /skills/
 
   - title: "Accreditations"
-    url: /certifications/
+    url: /accreditations/
 
   - title: "Awards"
     url: /awards/
