@@ -9,8 +9,9 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    <title>Awards</title>
     <style>
+
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
@@ -23,9 +24,8 @@ author_profile: true
         /* Main content container */
         .content {
             width: 128%;
-            margin: 0;
+            margin: 0 auto;
             padding: 10px;
-            padding-bottom: 20px; /* Added padding at the bottom */
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -56,19 +56,17 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Remove underline and make the links darker */
-        a {
-            color: #1c1c1c; /* Darker color for links */
-            text-decoration: none; /* Removed underline */
-            font-weight: bold;
-            transition: color 0.3s ease;
+        /* Remove underline and use custom color for links */
+        a, a:visited, a:hover, a:active {
+            text-decoration: none !important; /* Forces removal of underline */
+            color: #1e3d8f !important; /* Use consistent color for links */
         }
 
         a:hover {
-            color: #00264d; /* Slightly darker on hover */
+            color: #003399 !important; /* Darker color on hover */
         }
 
-        /* Style for Biography and Interests (Unchanged) */
+        /* Style for Biography and Interests */
         .certification-layout {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -156,7 +154,7 @@ author_profile: true
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+            font-size: 18px;
             font-weight: bold;
             color: #333;
             margin: 0;
@@ -209,9 +207,7 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            position: relative;
-            clear: both;
-            padding: 20px 0;
+            font-family: 'Georgia', serif;
         }
 
         /* Responsive Design */
@@ -353,7 +349,7 @@ author_profile: true
 </div>
 
 <footer>
-
+    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
 </footer>
 
 </body>
