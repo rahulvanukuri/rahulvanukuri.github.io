@@ -151,7 +151,7 @@ author_profile: true
 <div class="content">
     <div class="certification-layout">
         <!-- Affiliations Section Separator -->
-        <div class="separator">Certifications</div>
+        <div class="separator">Accreditation</div>
 
         <!-- Affiliation Cards (Merged Academic and Professional) -->
         <div class="certification-card">
