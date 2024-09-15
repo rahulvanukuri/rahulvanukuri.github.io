@@ -312,7 +312,10 @@ author_profile: true
 </div>
 
 <footer>
-
+    <div class="links">
+        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
+    </div>
+  
 </footer>
 
 </body>
