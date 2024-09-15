@@ -206,8 +206,8 @@ author_profile: true
                 </div>
                 <div>
                 <span>
-                <p><img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                Honored with a renowned STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p><small><img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                Project Management Professionals (PMP)</small></p>
                 </span>
                 </div>
             </div>
