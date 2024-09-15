@@ -63,14 +63,13 @@ author_profile: true
         }
 
         /* Styling the links to remove underlines and adjust color */
-        a {
+        a:link, a:visited, a:hover, a:active {
             color: #1e3d8f;
             text-decoration: none; /* Removed underline */
         }
 
         a:hover {
-            color: #003399;
-            text-decoration: none; /* Ensure no underline on hover */
+            color: #003399; /* Change color on hover */
         }
 
         /* Style for Cards */
@@ -201,7 +200,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Janata Bank Logo">
+                    <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Janata Bank Logo">
                     <h5>Gold Medal</h5>
                 </div>
                 <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
