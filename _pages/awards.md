@@ -135,12 +135,12 @@ author_profile: true
         .flex-row {
             display: flex;
             align-items: center;
-            gap: 8px; /* Small gap between icon and text */
+            gap: 12px; /* Increase gap between icon and text */
         }
 
         .flex-row img {
-            width: 35px; /* Smaller icon size */
-            height: 35px;
+            width: 45px; /* Slightly larger icon size */
+            height: 45px;
         }
 
         /* Responsive Design */
