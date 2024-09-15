@@ -48,12 +48,18 @@ author_profile: true
             margin-top: 8px;
         }
 
+        /* Adjusted paragraph text size to be slightly smaller */
         .content p {
-            font-size: 18px;
+            font-size: 17px; /* Reduced by 0.5 from 18px */
             line-height: 1.6; /* Slightly tighter line-height */
             color: #333;
             margin-bottom: 15px; /* Smaller bottom margin */
             text-align: justify;
+        }
+
+        /* Styling for smaller text in certifications */
+        .certification-card p {
+            font-size: 16px; /* 0.5 smaller than the existing text */
         }
 
         /* Styling the links to remove underlines and adjust color */
@@ -94,12 +100,6 @@ author_profile: true
             font-size: 18px;
             font-weight: bold;
             margin-bottom: 5px; /* Tighter spacing */
-        }
-
-        .certification-card p {
-            font-size: 17px;
-            text-align: justify;
-            margin-bottom: 8px; /* Tighter bottom spacing */
         }
 
         .certification-card small {
