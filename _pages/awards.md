@@ -189,7 +189,7 @@ author_profile: true
             <div class="education-card">
                 <div class="flex-row">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
-                 <h5>IT Engineers Examinations (ITEE)</h5>>
+                 <h5>IT Engineers Examinations (ITEE)</h5>
                 </div>
       <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
             </div>
@@ -219,10 +219,10 @@ author_profile: true
         <!-- Affiliation Cards (Merged Academic and Professional) -->
         <div class="certification-card">
             <div class="education-card">
+            <div class="flex-row">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-                
                     <h5>Student Affiliation</h5>
-
+ </div>
                    <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
               
             </div>
