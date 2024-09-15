@@ -178,15 +178,15 @@ author_profile: true
          <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-                    <h5>STEM Tuition Support</h5>
+                    <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+                    <h5>Chancellor's Gold Medal</h5>
                 </div>
-                <p>Honored with a renowned STEM scholarship covering all tuition and fees, alongside a Graduate Teaching Assistantship offer for academic excellence., Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+  <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
 
         
-        </div>
+
     </div>
 </div>
 
