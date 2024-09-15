@@ -18,14 +18,9 @@ author_profile: true
             margin: 0;
             padding: 0;
             color: #333;
-        }
-
-        /* Header styles for better alignment */
-        h1, h2, h3, h4, h5, h6 {
-            margin: 0em 0 0.5em;
-            line-height: 1.2;
-            font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-            font-weight: bold;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
 
         /* Main content container */
@@ -37,6 +32,7 @@ author_profile: true
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Softer shadow */
+            flex: 1;
         }
 
         .content h2 {
@@ -169,6 +165,9 @@ author_profile: true
             font-size: 14px;
             color: #aaa;
             font-family: 'Georgia', serif;
+            padding: 10px 0;
+            background-color: #f0f7fa;
+            width: 100%;
         }
     </style>
 </head>
