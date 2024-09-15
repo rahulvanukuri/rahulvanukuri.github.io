@@ -59,11 +59,12 @@ author_profile: true
         /* Styling the links to remove underlines and adjust color */
         a {
             color: #1e3d8f;
-            text-decoration: none;
+            text-decoration: none; /* Removed underline */
         }
 
         a:hover {
             color: #003399;
+            text-decoration: none; /* Ensure no underline on hover */
         }
 
         /* Style for Cards */
