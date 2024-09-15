@@ -204,40 +204,46 @@ author_profile: true
         <!-- PMP Card with image icon and text -->
         <div class="certification-card">
             <div class="flex-row">
+                <h5>Project Management</h5> <!-- New Header -->
+            </div>
+            <div class="flex-row">
                 <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
                 <h5>Project Management Professional (PMP)</h5>
             </div>
         </div>
 
-        <!-- Other Cards -->
+        <!-- Other Cards with "Project Management" Heading -->
         <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
-                    <h5>Chancellor's Gold Medal</h5>
-                </div>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+            <div class="flex-row">
+                <h5>Project Management</h5> <!-- New Header -->
             </div>
+            <div class="flex-row">
+                <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+                <h5>Chancellor's Gold Medal</h5>
+            </div>
+            <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
         </div>
 
         <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
-                    <h5>IT Engineers Examinations (ITEE)</h5>
-                </div>
-                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
+            <div class="flex-row">
+                <h5>Project Management</h5> <!-- New Header -->
             </div>
+            <div class="flex-row">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
+                <h5>IT Engineers Examinations (ITEE)</h5>
+            </div>
+            <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
         </div>
 
         <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Janata Bank Logo">
-                    <h5>Gold Medal</h5>
-                </div>
-                <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
+            <div class="flex-row">
+                <h5>Project Management</h5> <!-- New Header -->
             </div>
+            <div class="flex-row">
+                <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Janata Bank Logo">
+                <h5>Gold Medal</h5>
+            </div>
+            <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
         </div>
 
     </div>
@@ -251,13 +257,14 @@ author_profile: true
 
         <!-- Affiliation Cards -->
         <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-                    <h5>Student Affiliation</h5>
-                </div>
-                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+            <div class="flex-row">
+                <h5>Project Management</h5> <!-- New Header -->
             </div>
+            <div class="flex-row">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+                <h5>Student Affiliation</h5>
+            </div>
+            <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
         </div>
 
         <!-- More Affiliation Cards... -->
