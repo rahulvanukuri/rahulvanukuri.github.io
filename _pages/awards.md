@@ -20,6 +20,14 @@ author_profile: true
             color: #333;
         }
 
+        /* Header styles for better alignment */
+        h1, h2, h3, h4, h5, h6 {
+            margin: 0em 0 0.5em;
+            line-height: 1.2;
+            font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+            font-weight: bold;
+        }
+
         /* Main content container */
         .content {
             width: 100%; 
@@ -50,7 +58,7 @@ author_profile: true
 
         /* Adjusted paragraph text size to be slightly smaller */
         .content p {
-            font-size: 16px; /* Reduced by 0.5 from 18px */
+            font-size: 17px; /* Reduced by 0.5 from 18px */
             line-height: 1.6; /* Slightly tighter line-height */
             color: #333;
             margin-bottom: 15px; /* Smaller bottom margin */
@@ -135,28 +143,23 @@ author_profile: true
             display: flex;
             align-items: center;
             gap: 12px; /* Increase gap between icon and text */
-            justify-content: flex-start; /* Align items to the left */
         }
 
         .flex-row img {
             width: 45px; /* Slightly larger icon size */
             height: 45px;
+            vertical-align: middle;
+        }
+
+        .flex-row h5 {
+            margin: 0;
+            line-height: 1.2;
         }
 
         /* Responsive Design */
         @media (max-width: 768px) {
             .certification-layout {
                 grid-template-columns: 1fr;
-            }
-
-            .flex-row {
-                justify-content: flex-start;
-                gap: 8px; /* Smaller gap for smaller screens */
-            }
-
-            .flex-row img {
-                width: 35px; /* Slightly smaller icon size for mobile */
-                height: 35px;
             }
         }
 
