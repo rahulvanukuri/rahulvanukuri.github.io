@@ -170,7 +170,7 @@ author_profile: true
             font-size: 14px;
             color: #aaa;
             font-family: 'Georgia', serif;
-            background-color: #f0f7fa;
+            background-color: #f9f9f9; /* Uniform background color */
             padding: 20px 0;
             border-top: 1px solid #ccc;
         }
@@ -315,7 +315,7 @@ author_profile: true
     <div class="links">
         <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
     </div>
-  
+    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 </footer>
 
 </body>
