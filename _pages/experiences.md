@@ -154,7 +154,7 @@ author_profile: true
 
 <div class="content">
     <!-- Experiences Section -->
-    <div class="separator">12 Years of Comprehensive Professional Expertise Across Diverse Domains</div>
+    <div class="separator">Comprehensive Professional Expertise: 12 years</div>
 
     <!-- Experience Card 1 -->
     <div class="experience-card">
