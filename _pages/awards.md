@@ -50,7 +50,7 @@ author_profile: true
 
         /* Adjusted paragraph text size to be slightly smaller */
         .content p {
-            font-size: 17px; /* Reduced by 0.5 from 18px */
+            font-size: 16px; /* Reduced by 0.5 from 18px */
             line-height: 1.6; /* Slightly tighter line-height */
             color: #333;
             margin-bottom: 15px; /* Smaller bottom margin */
@@ -135,6 +135,7 @@ author_profile: true
             display: flex;
             align-items: center;
             gap: 12px; /* Increase gap between icon and text */
+            justify-content: flex-start; /* Align items to the left */
         }
 
         .flex-row img {
@@ -146,6 +147,16 @@ author_profile: true
         @media (max-width: 768px) {
             .certification-layout {
                 grid-template-columns: 1fr;
+            }
+
+            .flex-row {
+                justify-content: flex-start;
+                gap: 8px; /* Smaller gap for smaller screens */
+            }
+
+            .flex-row img {
+                width: 35px; /* Slightly smaller icon size for mobile */
+                height: 35px;
             }
         }
 
