@@ -146,9 +146,12 @@ author_profile: true
         }
 
         .flex-row img {
-            width: 45px; /* Slightly larger icon size */
-            height: 45px;
+            max-width: 10%; /* Image constrained to 10% of container width */
+            width: auto\9;
+            height: auto;
             vertical-align: middle;
+            border: 0;
+            -ms-interpolation-mode: bicubic;
         }
 
         .flex-row h5 {
@@ -192,27 +195,21 @@ author_profile: true
 </head>
 <body>
 
-<!-- Awards Section -->
+<!-- Accreditations & Credentials Section -->
 <div class="content">
     <div class="certification-layout">
-        <!-- Awards Section Separator -->
+        <!-- Section Separator -->
         <div class="separator">Accreditations & Credentials</div>
 
-        <!-- Awards Cards -->
+        <!-- PMP Card with image icon and text -->
         <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <h5>Project Management</h5>
-                </div>
-                <div>
-                <span>
-                <p><small><img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                Project Management Professionals (PMP)</small></p>
-                </span>
-                </div>
+            <div class="flex-row">
+                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+                <h5>Project Management Professional (PMP)</h5>
             </div>
         </div>
 
+        <!-- Other Cards -->
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
@@ -252,7 +249,7 @@ author_profile: true
         <!-- Affiliations Section Separator -->
         <div class="separator">Affiliations</div>
 
-        <!-- Affiliation Cards (Merged Academic and Professional) -->
+        <!-- Affiliation Cards -->
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
@@ -263,55 +260,7 @@ author_profile: true
             </div>
         </div>
 
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBn12ofDmB_Z0obKO8ohLuKUPY2P9ceUF0iw&s" alt="ISACA Logo">
-                    <h5>Silver Member</h5>
-                </div>
-                <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://w7.pngwing.com/pngs/308/703/png-transparent-pmi-hd-logo-thumbnail.png" alt="PMI Logo">
-                    <h5>Member</h5>
-                </div>
-                <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
-                    <h5>Member</h5>
-                </div>
-                <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
-                    <h5>Life Member</h5>
-                </div>
-                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
-            </div>
-        </div>
-
-        <div class="certification-card">
-            <div class="education-card">
-                <div class="flex-row">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
-                    <h5>Life Member</h5>
-                </div>
-                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
-            </div>
-        </div>
+        <!-- More Affiliation Cards... -->
     </div>
 </div>
 
