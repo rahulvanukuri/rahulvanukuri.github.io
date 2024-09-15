@@ -172,7 +172,7 @@ author_profile: true
             font-family: 'Georgia', serif;
             background-color: #f9f9f9; /* Uniform background color */
             padding: 20px 0;
-            border-top: 1px solid #ccc;
+            border-top: none; /* No separation */
         }
 
         footer .links {
