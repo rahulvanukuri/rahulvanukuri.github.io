@@ -251,7 +251,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
+                    <img src="https://e7.pngegg.com/pngimages/768/788/png-clipart-ec-council-certified-ethical-hacker-computer-security-information-security-certified-ethical-hacker-emblem-label.png" alt="EC-Council Logo">
                     <h5>Member</h5>
                 </div>
                 <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
@@ -271,7 +271,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
-                    <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
                     <h5>Life Member</h5>
                 </div>
                 <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
