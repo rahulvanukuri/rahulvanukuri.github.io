@@ -312,10 +312,7 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="links">
-        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
-    </div>
-    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+
 </footer>
 
 </body>
