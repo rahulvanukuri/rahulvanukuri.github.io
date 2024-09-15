@@ -222,7 +222,7 @@ author_profile: true
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
                 
                     <h5>Student Affiliation</h5>
-                   </div>
+
                    <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
               
             </div>
@@ -231,9 +231,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://www.isaca.org/-/media/images/isacadp/project/isaca/tiles/search/isaca.png?mw=250&hash=C68DA7ECFEAD695419778622BD1B5223" alt="ISACA Logo">
-                <div>
                     <h5>Silver Member</h5>
-                    </div>
                     <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
                 
             </div>
@@ -242,9 +240,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://logowik.com/content/uploads/images/pmi-project-management-institute3441.jpg" alt="PMI Logo">
-                <div>
                     <h5>Member</h5>
-                    </div>
                     <p>2020 - Present<br><small><a href="https://my.pmi.org/">Project Management Institute (PMI)</a></small></p>
                
             </div>
@@ -253,9 +249,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://mma.prnewswire.com/media/2373437/EC_Council_Logo.jpg?p=twitter" alt="EC-Council Logo">
-                <div>
                     <h5>Member</h5>
-                    </div>
                     <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
                 
             </div>
@@ -264,9 +258,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
-                <div>
                     <h5>Life Member</h5>
-                    </div>
                     <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
                 
             </div>
@@ -275,10 +267,7 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://www.bcsbd.org.bd/public/storage/upload/conf/221219065529-5779logo-2-removebg-preview.png" alt="BCS Logo">
-                <div>
                     <h5>Life Member</h5>
-                    
-                    </div>
                     <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
                 
             </div>
