@@ -18,20 +18,20 @@ author_profile: true
             margin: 0;
             padding: 0;
             color: #333;
-            min-height: 100vh;
             display: flex;
             flex-direction: column;
+            min-height: 100vh;
         }
 
         /* Main content container */
         .content {
             width: 100%; 
-            max-width: 1100px;
-            margin: 20px auto;
-            padding: 15px;
+            max-width: 1100px; /* Slightly smaller width */
+            margin: 20px auto; /* Compact margins */
+            padding: 15px; /* More compact padding */
             background-color: #ffffff;
             border-radius: 10px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Softer shadow */
             flex: 1;
         }
 
@@ -39,7 +39,7 @@ author_profile: true
             font-size: 28px;
             color: #1e3d8f;
             font-weight: bold;
-            margin-bottom: 15px;
+            margin-bottom: 15px; /* Smaller margin */
             position: relative;
         }
 
@@ -52,39 +52,43 @@ author_profile: true
             margin-top: 8px;
         }
 
+        /* Adjusted paragraph text size to be slightly smaller */
         .content p {
-            font-size: 17px;
-            line-height: 1.6;
+            font-size: 17px; /* Reduced by 0.5 from 18px */
+            line-height: 1.6; /* Slightly tighter line-height */
             color: #333;
-            margin-bottom: 15px;
+            margin-bottom: 15px; /* Smaller bottom margin */
             text-align: justify;
         }
 
+        /* Styling for smaller text in certifications */
         .certification-card p {
-            font-size: 16px;
+            font-size: 16px; /* 0.5 smaller than the existing text */
         }
 
+        /* Styling the links to remove underlines and adjust color */
         a:link, a:visited, a:hover, a:active {
             color: #1e3d8f;
-            text-decoration: none;
+            text-decoration: none; /* Removed underline */
         }
 
         a:hover {
-            color: #003399;
+            color: #003399; /* Change color on hover */
         }
 
+        /* Style for Cards */
         .certification-layout {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 15px;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); /* Smaller card width */
+            gap: 15px; /* Tighter gap */
             margin-top: 15px;
         }
 
         .certification-card {
             padding: 10px;
             background-color: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+            border-radius: 8px; /* Slightly smaller border radius */
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05); /* Softer shadow */
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
@@ -98,7 +102,7 @@ author_profile: true
         .certification-card h5 {
             font-size: 18px;
             font-weight: bold;
-            margin-bottom: 5px;
+            margin-bottom: 5px; /* Tighter spacing */
         }
 
         .certification-card small {
@@ -106,10 +110,11 @@ author_profile: true
         }
 
         .certification-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            transform: translateY(-3px); /* Subtle hover effect */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Softer hover shadow */
         }
 
+        /* Section Separator */
         .separator {
             grid-column: 1 / -1;
             text-align: center;
@@ -129,14 +134,15 @@ author_profile: true
             margin: 5px auto;
         }
 
+        /* Flex layout for icon and text */
         .flex-row {
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 12px; /* Increase gap between icon and text */
         }
 
         .flex-row img {
-            width: 45px;
+            width: 45px; /* Slightly larger icon size */
             height: 45px;
             vertical-align: middle;
         }
@@ -146,28 +152,36 @@ author_profile: true
             line-height: 1.2;
         }
 
+        /* Responsive Design */
         @media (max-width: 768px) {
             .certification-layout {
                 grid-template-columns: 1fr;
             }
         }
 
-        /* Footer Style */
+        /* Footer styling with aesthetic background */
         footer {
             text-align: center;
-            padding: 20px 0;
-            background: linear-gradient(to top, #e0e0e0, #f0f7fa);
-            box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
-            width: 100%;
-            position: relative;
-            bottom: 0;
-        }
-
-        footer p {
-            margin: 0;
+            margin-top: 20px;
             font-size: 14px;
             color: #aaa;
             font-family: 'Georgia', serif;
+            padding: 20px 0;
+            background: linear-gradient(to top, #f0f7fa, #ffffff);
+            border-top: 1px solid #ccc;
+        }
+
+        footer .links {
+            margin-bottom: 10px;
+        }
+
+        footer .links a {
+            margin: 0 10px;
+            color: #333;
+        }
+
+        footer .links a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -229,7 +243,7 @@ author_profile: true
         <!-- Affiliations Section Separator -->
         <div class="separator">Affiliations</div>
 
-        <!-- Affiliation Cards -->
+        <!-- Affiliation Cards (Merged Academic and Professional) -->
         <div class="certification-card">
             <div class="education-card">
                 <div class="flex-row">
@@ -292,8 +306,12 @@ author_profile: true
     </div>
 </div>
 
+<!-- Footer Section -->
 <footer>
-    <p>© 2024 by Mohammad Shahedur Rahman. All rights reserved.</p>
+    <div class="links">
+        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
+    </div>
+    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 </footer>
 
 </body>
