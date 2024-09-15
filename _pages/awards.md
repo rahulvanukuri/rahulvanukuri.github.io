@@ -178,20 +178,19 @@ author_profile: true
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
-                <div>
                     <h5>Chancellor's Gold Medal</h5>
-                    <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
                 </div>
+                    <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
 
         <div class="certification-card">
             <div class="education-card">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
-                <div>
-                    <h5>IT Engineers Examinations (ITEE)</h5>
+                 <h5>IT Engineers Examinations (ITEE)</h5>
+                    </div>
                     <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
-                </div>
+                
             </div>
         </div>
 
