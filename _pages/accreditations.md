@@ -195,8 +195,14 @@ author_profile: true
         <div class="certification-card">
             <h5>Project Management</h5>
             <div class="flex-row">
+                <span>
                 <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                <h6>Project Management Professional (PMP)</h6>
+                <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
+                <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
+                 </span>
+                <li><h6>Project Management Professional (PMP)</h6></li>
+                <li><h6>PRINCE2 Practitione</h6></li>
+                <li><h6>PRINCE2 Foundation</h6></li>
             </div>
         </div>
 
