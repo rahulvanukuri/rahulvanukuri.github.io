@@ -173,7 +173,7 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Project Management</div>
+    <div class="separator">Governance, Risk & Compliance</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
@@ -190,7 +190,7 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Project Management</div>
+    <div class="separator">IT Audit</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
@@ -207,7 +207,7 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Project Management</div>
+    <div class="separator">Information & Cyber Security</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
@@ -222,107 +222,7 @@ author_profile: true
         </div>
 </div>
 
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
 
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
-
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
-
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
-
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
-
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
-
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
-
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
-
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
-
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
-
-<!-- Accreditations & Credentials Section -->
-<div class="content">
-    <div class="separator">Project Management</div>
-
-    <!-- Two-Column Layout for Cards -->
-    <div class="certification-layout">
-        <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
-        </div>
-
-        <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
-        </div>
-</div>
 
 
 
