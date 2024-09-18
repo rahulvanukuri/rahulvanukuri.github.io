@@ -20,7 +20,7 @@ author_profile: true
             color: #333;
         }
 
-        /* Header styles for better alignment */
+        /* Header styles */
         h1, h2, h3, h4, h5, h6 {
             margin: 0 0 0.5em;
             line-height: 1.2;
@@ -65,44 +65,28 @@ author_profile: true
         }
 
         /* Styling for certifications */
-        .certification-card p {
-            font-size: 16px;
-        }
-
-        a:link, a:visited, a:hover, a:active {
-            color: #1e3d8f;
-            text-decoration: none;
-        }
-
-        a:hover {
-            color: #003399;
-        }
-
-        /* Certifications Grid Layout */
-        .certification-layout {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 15px;
-            margin-top: 15px;
-        }
-
-        /* Certification card styling */
         .certification-card {
+            display: flex;
+            align-items: center;
             padding: 15px;
             background-color: #f9f9f9;
             border-radius: 8px;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 15px;
         }
 
-        .certification-card h5 {
-            font-size: 18px;
-            font-weight: bold;
-            margin-bottom: 10px;
+        .certification-card img {
+            width: 50px;
+            height: 50px;
+            object-fit: contain;
+            margin-right: 15px;
         }
 
-        .certification-card small {
-            font-size: 15px;
+        .certification-card h6 {
+            font-size: 16px;
+            font-weight: normal;
+            margin: 0;
         }
 
         .certification-card:hover {
@@ -128,26 +112,6 @@ author_profile: true
             height: 1px;
             background-color: #cccccc;
             margin: 5px auto;
-        }
-
-        /* Flex layout for icons and text */
-        .flex-row {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .flex-row img {
-            width: 50px; /* Uniform width for icons */
-            height: 50px; /* Uniform height for icons */
-            object-fit: contain; /* Ensure the image fits within the given dimensions without distortion */
-            border-radius: 50%; /* Makes all icons circular */
-        }
-
-        .flex-row h6 {
-            margin: 0;
-            font-size: 16px;
-            color: #333;
         }
 
         @media (max-width: 768px) {
@@ -185,58 +149,54 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="certification-layout">
-        <!-- Section Separator -->
-        <div class="separator">Accreditations & Credentials</div>
+    <div class="separator">Accreditations & Credentials</div>
 
-        <!-- Project Management Certification (with icons aligned and consistent) -->
-        <div class="certification-card">
-            <h5>Project Management</h5>
-            <div class="flex-row">
-                <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-                <h6>Project Management Professional (PMP)</h6>
-            </div>
-            <div class="flex-row">
-                <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-                <h6>PRINCE2 Practitioner</h6>
-            </div>
-            <div class="flex-row">
-                <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
-                <h6>PRINCE2 Foundation</h6>
-            </div>
-        </div>
-
-        <!-- Chancellor's Gold Medal -->
-        <div class="certification-card">
-            <h5>Project Management</h5>
-            <div class="flex-row">
-                <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
-                <h6>Chancellor's Gold Medal</h6>
-            </div>
-            <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level, 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
-        </div>
-
-        <!-- ITEE Certification -->
-        <div class="certification-card">
-            <h5>Project Management</h5>
-            <div class="flex-row">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="JICA Logo">
-                <h6>IT Engineers Examinations (ITEE)</h6>
-            </div>
-            <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
-        </div>
-
-        <!-- Gold Medal -->
-        <div class="certification-card">
-            <h5>Project Management</h5>
-            <div class="flex-row">
-                <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Janata Bank Logo">
-                <h6>Gold Medal</h6>
-            </div>
-            <p>Received a distinguished gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
-        </div>
-
+    <!-- Nine Cards with Icons and Text -->
+    <div class="certification-card">
+        <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+        <h6>Project Management Professional (PMP)</h6>
     </div>
+
+    <div class="certification-card">
+        <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
+        <h6>PRINCE2 Practitioner</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
+        <h6>PRINCE2 Foundation</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+        <h6>Chancellor's Gold Medal</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="ITEE Icon">
+        <h6>IT Engineers Examinations (ITEE)</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Gold Medal Icon">
+        <h6>Gold Medal</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+        <h6>Student Affiliation (UTA)</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://www.pmi.org/-/media/pmi/images/logos/acp.png" alt="PMI-ACP Icon">
+        <h6>PMI Agile Certified Practitioner (PMI-ACP)</h6>
+    </div>
+
+    <div class="certification-card">
+        <img src="https://www.isaca.org/-/media/images/isaca/certification/cisa/cisa-digital-badge.png" alt="CISA Icon">
+        <h6>Certified Information Systems Auditor (CISA)</h6>
+    </div>
+
 </div>
 
 <footer>
