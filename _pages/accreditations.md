@@ -135,14 +135,13 @@ author_profile: true
             display: flex;
             align-items: center;
             gap: 12px;
-            margin-top: 10px;
-            justify-content: flex-start; /* Align items to the left */
         }
 
         .flex-row img {
-            max-width: 15%;
-            height: auto;
-            vertical-align: middle;
+            width: 50px; /* Uniform width for icons */
+            height: 50px; /* Uniform height for icons */
+            object-fit: contain; /* Ensure the image fits within the given dimensions without distortion */
+            border-radius: 50%; /* Makes all icons circular */
         }
 
         .flex-row h6 {
@@ -154,10 +153,6 @@ author_profile: true
         @media (max-width: 768px) {
             .certification-layout {
                 grid-template-columns: 1fr;
-            }
-
-            .flex-row {
-                justify-content: center; /* Center the content on smaller screens */
             }
         }
 
@@ -194,7 +189,7 @@ author_profile: true
         <!-- Section Separator -->
         <div class="separator">Accreditations & Credentials</div>
 
-        <!-- Project Management Certification (image on left side of text) -->
+        <!-- Project Management Certification (with icons aligned and consistent) -->
         <div class="certification-card">
             <h5>Project Management</h5>
             <div class="flex-row">
