@@ -24,7 +24,7 @@ author_profile: true
         h1, h2, h3, h4, h5, h6 {
             margin: 0 0 0.5em;
             line-height: 1.2;
-            font-family: 'Georgia', serif; /* Set Georgia for headers */
+            font-family: 'Georgia', serif;
             font-weight: bold;
         }
 
@@ -64,21 +64,28 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Styling for certifications */
+        /* Certifications Grid Layout */
+        .certification-layout {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Two cards per row */
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        /* Certification card styling */
         .certification-card {
             display: flex;
             align-items: center;
-            padding: 15px;
+            padding: 10px;
             background-color: #f9f9f9;
             border-radius: 8px;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            margin-bottom: 15px;
         }
 
         .certification-card img {
-            width: 50px;
-            height: 50px;
+            width: 40px;
+            height: 40px;
             object-fit: contain;
             margin-right: 15px;
         }
@@ -149,51 +156,57 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <!-- Project Management Section -->
     <div class="separator">Project Management</div>
-    <div class="certification-card">
-        <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-        <h6>Project Management Professional (PMP)</h6>
-    </div>
-    <div class="certification-card">
-        <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-        <h6>PRINCE2 Practitioner</h6>
-    </div>
-    <div class="certification-card">
-        <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
-        <h6>PRINCE2 Foundation</h6>
+
+    <!-- Two-Column Layout for Cards -->
+    <div class="certification-layout">
+        <div class="certification-card">
+            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+            <h6>Project Management Professional (PMP)</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
+            <h6>PRINCE2 Practitioner</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
+            <h6>PRINCE2 Foundation</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
+            <h6>Chancellor's Gold Medal</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="ITEE Icon">
+            <h6>IT Engineers Examinations (ITEE)</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://www.isaca.org/-/media/images/isaca/certification/cisa/cisa-digital-badge.png" alt="CISA Icon">
+            <h6>Certified Information Systems Auditor (CISA)</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://play-lh.googleusercontent.com/UfQw66njIZLmRcxcQivESKmgllkMXgDS2njDaUK_SCtL1iP9iCyOiwmVExMdzZV7XKtG" alt="Gold Medal Icon">
+            <h6>Gold Medal</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <h6>Student Affiliation (UTA)</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://www.pmi.org/-/media/pmi/images/logos/acp.png" alt="PMI-ACP Icon">
+            <h6>PMI Agile Certified Practitioner (PMI-ACP)</h6>
+        </div>
     </div>
 
-    <!-- IT Certifications Section -->
-    <div class="separator">IT Certifications</div>
-    <div class="certification-card">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="ITEE Icon">
-        <h6>IT Engineers Examinations (ITEE)</h6>
-    </div>
-    <div class="certification-card">
-        <img src="https://www.isaca.org/-/media/images/isaca/certification/cisa/cisa-digital-badge.png" alt="CISA Icon">
-        <h6>Certified Information Systems Auditor (CISA)</h6>
-    </div>
-
-    <!-- Academic Achievements Section -->
-    <div class="separator">Academic Achievements</div>
-    <div class="certification-card">
-        <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
-        <h6>Chancellor's Gold Medal</h6>
-    </div>
-    <div class="certification-card">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-        <h6>Student Affiliation (UTA)</h6>
-    </div>
-
-    <!-- Agile & Project Management Section -->
-    <div class="separator">Agile & Project Management</div>
-    <div class="certification-card">
-        <img src="https://www.pmi.org/-/media/pmi/images/logos/acp.png" alt="PMI-ACP Icon">
-        <h6>PMI Agile Certified Practitioner (PMI-ACP)</h6>
-    </div>
-
-    <!-- More Sections Here (as needed) -->
+    <!-- More Sections Here -->
 
 </div>
 
