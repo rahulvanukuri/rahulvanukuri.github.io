@@ -169,65 +169,68 @@ author_profile: true
             <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
             <h6>PRINCE2 Practitioner</h6>
         </div>
+    </div>
 </div>
 
-<!-- Accreditations & Credentials Section -->
+<!-- Governance, Risk & Compliance Section -->
 <div class="content">
     <div class="separator">Governance, Risk & Compliance</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Governance Icon">
+            <h6>Governance Certification</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
+            <img src="https://some-path-to-certification-icon.png" alt="Risk Management Icon">
+            <h6>Risk Management Practitioner</h6>
         </div>
+    </div>
 </div>
 
-<!-- Accreditations & Credentials Section -->
+<!-- IT Audit Section -->
 <div class="content">
     <div class="separator">IT Audit</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
+            <img src="https://some-path-to-certification-icon.png" alt="IT Audit Icon">
+            <h6>Certified IT Auditor</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
+            <img src="https://some-path-to-certification-icon.png" alt="IT Compliance Icon">
+            <h6>Certified IT Compliance Auditor</h6>
         </div>
+    </div>
 </div>
 
-<!-- Accreditations & Credentials Section -->
+<!-- Information & Cyber Security Section -->
 <div class="content">
     <div class="separator">Information & Cyber Security</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
-            <h6>Project Management Professional (PMP)</h6>
+            <img src="https://some-path-to-certification-icon.png" alt="Cyber Security Icon">
+            <h6>Cyber Security Certification</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
-            <h6>PRINCE2 Practitioner</h6>
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
         </div>
+    </div>
 </div>
 
-
-
-
-
 <footer>
-
+    <div class="links">
+        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
+    </div>
+    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 </footer>
 
 </body>
