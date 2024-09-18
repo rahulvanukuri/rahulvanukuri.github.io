@@ -175,6 +175,10 @@ author_profile: true
             <h6>PRINCE2 Foundation</h6>
         </div>
 
+<!-- Accreditations & Credentials Section -->
+<div class="content">
+    <div class="separator">Governance, Risk & Compliance (GRC)</div>
+    
         <div class="certification-card">
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="BUP Logo">
             <h6>Chancellor's Gold Medal</h6>
