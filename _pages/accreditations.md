@@ -204,8 +204,8 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://www.guestpoint.com/wp-content/uploads/2023/04/PCI-Certified-Icon-1-1568x1568.png" alt="Risk Management Icon">
-            <h6>PCI DSS V3.2.1 Implementation</h6>
+            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="Risk Management Icon">
+            <h6>ISO/IEC 27032 Lead Cybersecurity Manager</h6>
         </div>
 
     </div>
@@ -223,13 +223,18 @@ author_profile: true
         </div>
 
         <div class="certification-card">
+            <img src="https://1111systems.com/wp-content/uploads/2021/04/CSA-STAR-Certification.png" alt="IT Compliance Icon">
+            <h6>Advanced Auditing for CSA STAR Certification</h6>
+        </div>
+        
+        <div class="certification-card">
             <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="IT Compliance Icon">
             <h6>ISO/IEC 27001 ISMS: Lead Auditor</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://1111systems.com/wp-content/uploads/2021/04/CSA-STAR-Certification.png" alt="IT Compliance Icon">
-            <h6>Advanced Auditing for CSA STAR Certification</h6>
+            <img src="https://www.guestpoint.com/wp-content/uploads/2023/04/PCI-Certified-Icon-1-1568x1568.png" alt="Risk Management Icon">
+            <h6>PCI DSS V3.2.1 Implementation</h6>
         </div>
     </div>
 </div>
@@ -243,6 +248,36 @@ author_profile: true
         <div class="certification-card">
             <img src="https://some-path-to-certification-icon.png" alt="Cyber Security Icon">
             <h6>Cyber Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
+            <h6>Information Security Certification</h6>
         </div>
 
         <div class="certification-card">
