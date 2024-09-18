@@ -149,7 +149,7 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Accreditations & Credentials</div>
+    <div class="separator">Project Management</div>
 
     <!-- Nine Cards with Icons and Text -->
     <div class="certification-card">
