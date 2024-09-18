@@ -171,12 +171,12 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
+            <img src="https://www.guide-it.de/wp-content/uploads/2019/05/Prince-2-Practitioner.png" alt="PRINCE2 Practitioner Icon">
             <h6>PRINCE2 Practitioner</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Practitioner Icon">
+            <img src="https://forresttraining.com.au/wp-content/uploads/2015/05/prince2-logo.png" alt="PRINCE2 Practitioner Icon">
             <h6>PRINCE2 Foundation</h6>
         </div>
     </div>
