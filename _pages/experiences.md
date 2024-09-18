@@ -9,7 +9,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accreditations & Credentials</title>
+    <title>Professional Experiences</title>
     <style>
         /* General Body Style */
         body {
@@ -33,10 +33,10 @@ author_profile: true
             width: 100%; 
             max-width: 1100px;
             margin: 20px auto;
-            padding: 15px;
+            padding: 30px;
             background-color: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
         .content h2 {
@@ -50,74 +50,80 @@ author_profile: true
         .content h2::after {
             content: '';
             display: block;
-            width: 100%;
+            width: 50%;
             height: 1px;
             background-color: #cccccc;
             margin-top: 8px;
+            margin-left: 0;
         }
 
         .content p {
             font-size: 17px;
-            line-height: 1.6;
+            line-height: 1.8;
             color: #333;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
             text-align: justify;
         }
 
         /* Certifications Grid Layout */
         .certification-layout {
             display: grid;
-            grid-template-columns: repeat(2, 1fr); /* Two cards per row */
-            gap: 15px;
+            grid-template-columns: 1fr; /* Full-width layout */
+            gap: 25px;
             margin-top: 15px;
         }
 
         /* Certification card styling */
         .certification-card {
             background-color: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-            margin-bottom: 15px;
-            padding: 15px;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-left: 6px solid #1e3d8f;
         }
 
         .certification-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            transform: translateY(-5px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
         }
 
         .certification-card h3 {
-            font-size: 20px;
+            font-size: 22px;
             font-weight: bold;
             color: #1e3d8f;
+            margin-bottom: 10px;
         }
 
         .certification-card h4 {
             font-size: 18px;
             font-weight: normal;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
             color: #666;
         }
 
         .certification-card img {
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             object-fit: contain;
-            margin-right: 15px;
+            float: right;
+            margin-left: 15px;
         }
 
         .section-header {
-            font-size: 16px;
+            font-size: 17px;
             font-weight: bold;
             color: #1e3d8f;
             margin-bottom: 10px;
+            border-bottom: 2px solid #cccccc;
+            padding-bottom: 5px;
         }
 
         .section-content {
             font-size: 16px;
-            line-height: 1.6;
+            line-height: 1.8;
             color: #333;
+            margin-bottom: 15px;
         }
 
         /* Footer styles */
@@ -173,31 +179,33 @@ author_profile: true
 </head>
 <body>
 
-<!-- Accreditations & Credentials Section -->
+<!-- Professional Experiences Section -->
 <div class="content">
     <div class="separator">Professional Roles</div>
 
-    <!-- Seven sets -->
-    {% for i in (1..7) %}
-    <div class="certification-card">
-        <!-- Section 1: Title and Image -->
-        <div class="section-header">Chief Information Security Officer (CISO)</div>
-        <h4>BRAC Bank PLC · Nov 2022 – Aug 2023 · Dhaka, Bangladesh</h4>
-        <img src="/path_to_image/file-XTQxGfreDJG87CPJniV7h0Bm.png" alt="BRAC Bank Logo">
+    <!-- Seven sets of professional roles -->
+    <div class="certification-layout">
+        {% for i in (1..7) %}
+        <div class="certification-card">
+            <!-- Section 1: Title and Image -->
+            <div class="section-header">Chief Information Security Officer (CISO)</div>
+            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023 · Dhaka, Bangladesh</h4>
+            <img src="/path_to_image/file-XTQxGfreDJG87CPJniV7h0Bm.png" alt="BRAC Bank Logo">
 
-        <!-- Section 2: Responsibilities -->
-        <div class="section-header">Responsibilities</div>
-        <p class="section-content">Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</p>
+            <!-- Section 2: Responsibilities -->
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content">Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</p>
 
-        <!-- Section 3: Contributions -->
-        <div class="section-header">Contributions</div>
-        <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+            <!-- Section 3: Contributions -->
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
 
-        <!-- Section 4: Projects -->
-        <div class="section-header">Projects</div>
-        <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques. Fostered strategic stakeholder relationships and shared best practices to elevate organizational cybersecurity knowledge.</p>
+            <!-- Section 4: Projects -->
+            <div class="section-header">Projects</div>
+            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques. Fostered strategic stakeholder relationships and shared best practices to elevate organizational cybersecurity knowledge.</p>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
 
 <footer>
