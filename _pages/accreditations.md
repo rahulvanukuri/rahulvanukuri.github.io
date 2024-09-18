@@ -219,7 +219,7 @@ author_profile: true
     <div class="certification-layout">
         <div class="certification-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="IT Audit Icon">
-            <h6>Certified Information Systems Auditor (CISA)r</h6>
+            <h6>Certified Information Systems Auditor (CISA)</h6>
         </div>
 
         <div class="certification-card">
@@ -246,43 +246,43 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="Cyber Security Icon">
-            <h6>Cyber Security Certification</h6>
+            <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Cyber Security Icon">
+            <h6>Certified in Cybersecurity (CC)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://api.ssdntech.com/public/storage/course/168483210686915.jpg" alt="InfoSec Icon">
+            <h6>Certified Threat Intelligence Analyst</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://images.credly.com/images/91406b1f-a628-4387-b6c3-b3da5d570803/00402.png" alt="InfoSec Icon">
+            <h6>Certified Lead Pen Test Professional</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://entoplearning.com/wp-content/uploads/2023/12/fgfdgfdggf.png" alt="InfoSec Icon">
+            <h6>Certified Ethical Hacker (CEH)</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://intellectualpoint.com/wp-content/uploads/2019/04/CBP-logo-black_new.png" alt="InfoSec Icon">
+            <h6>Certified Blockchain Professional</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0W9ibn1tQrswJ05bU619uyhxIaI1byW7iQO2-fy_CzjadCbbVM_ErJwjA0XcAuTqy7fU&usqp=CAU" alt="InfoSec Icon">
+            <h6>Certified Secure Computer User v2</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://isacfoundation.org/wp-content/uploads/2017/02/isac-100pxlogo.png" alt="InfoSec Icon">
+            <h6>Certified Cybercrime First Responder</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="InfoSec Icon">
-            <h6>Information Security Certification</h6>
+            <img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="InfoSec Icon">
+            <h6>Cyber Security Foundation Professional Certificate (CSFPC)</h6>
         </div>
     </div>
 </div>
