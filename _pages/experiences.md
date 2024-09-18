@@ -65,10 +65,10 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Certifications Grid Layout */
+        /* Grid layout for the experience cards */
         .certification-layout {
             display: grid;
-            grid-template-columns: 1fr; /* Full-width layout */
+            grid-template-columns: repeat(2, 1fr); /* Two cards per row */
             gap: 25px;
             margin-top: 15px;
         }
@@ -81,6 +81,7 @@ author_profile: true
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-left: 6px solid #1e3d8f;
+            cursor: pointer; /* Indicates interactive hover states */
         }
 
         .certification-card:hover {
@@ -183,98 +184,64 @@ author_profile: true
 <div class="content">
     <div class="separator">Professional Roles</div>
 
-    <!-- Seven sets of professional roles -->
-
-    <!-- Role 1 -->
+    <!-- Card-based grid for professional roles -->
     <div class="certification-layout">
+        
+        <!-- Role 1: CISO -->
         <div class="certification-card">
-            <!-- Section 1: Title and Image -->
-            <div class="section-header">Chief Information Security Officer (CISO)</div>
+            <h3>Chief Information Security Officer (CISO)</h3>
             <h4>BRAC Bank PLC · Nov 2022 – Aug 2023 · Dhaka, Bangladesh</h4>
             <img src="/path_to_image1.png" alt="BRAC Bank Logo">
-
-            <!-- Section 2: Responsibilities -->
             <div class="section-header">Responsibilities</div>
             <p class="section-content">Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</p>
-
-            <!-- Section 3: Contributions -->
             <div class="section-header">Contributions</div>
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-
-            <!-- Section 4: Projects -->
             <div class="section-header">Projects</div>
-            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques. Fostered strategic stakeholder relationships and shared best practices to elevate organizational cybersecurity knowledge.</p>
+            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</p>
         </div>
-    </div>
 
-    <!-- Role 2 -->
-    <div class="certification-layout">
+        <!-- Role 2: Senior Security Analyst -->
         <div class="certification-card">
-            <!-- Section 1: Title and Image -->
-            <div class="section-header">Senior Security Analyst</div>
+            <h3>Senior Security Analyst</h3>
             <h4>XYZ Company · Jan 2020 – Oct 2022 · New York, USA</h4>
             <img src="/path_to_image2.png" alt="XYZ Company Logo">
-
-            <!-- Section 2: Responsibilities -->
             <div class="section-header">Responsibilities</div>
             <p class="section-content">Analyzed security incidents and recommended preventive measures, while conducting vulnerability assessments and risk management exercises.</p>
-
-            <!-- Section 3: Contributions -->
             <div class="section-header">Contributions</div>
             <p class="section-content">Implemented automated security monitoring systems and developed training programs to improve company-wide cybersecurity awareness.</p>
-
-            <!-- Section 4: Projects -->
             <div class="section-header">Projects</div>
             <p class="section-content">Led initiatives to enhance SOC response capabilities and improve threat detection using advanced security tools.</p>
         </div>
-    </div>
 
-    <!-- Role 3 -->
-    <div class="certification-layout">
+        <!-- Role 3: Security Operations Manager -->
         <div class="certification-card">
-            <!-- Section 1: Title and Image -->
-            <div class="section-header">Security Operations Manager</div>
+            <h3>Security Operations Manager</h3>
             <h4>ABC Security Ltd. · Aug 2017 – Dec 2019 · London, UK</h4>
             <img src="/path_to_image3.png" alt="ABC Security Logo">
-
-            <!-- Section 2: Responsibilities -->
             <div class="section-header">Responsibilities</div>
             <p class="section-content">Managed the security operations center, overseeing incident management, threat detection, and the development of response protocols.</p>
-
-            <!-- Section 3: Contributions -->
             <div class="section-header">Contributions</div>
             <p class="section-content">Led improvements in operational efficiency by introducing new security tools and optimizing SOC workflows.</p>
-
-            <!-- Section 4: Projects -->
             <div class="section-header">Projects</div>
             <p class="section-content">Developed a comprehensive incident response strategy that reduced response time by 30%.</p>
         </div>
-    </div>
 
-    <!-- Role 4 -->
-    <div class="certification-layout">
+        <!-- Role 4: Risk Management Lead -->
         <div class="certification-card">
-            <!-- Section 1: Title and Image -->
-            <div class="section-header">Risk Management Lead</div>
+            <h3>Risk Management Lead</h3>
             <h4>RiskSecure Ltd. · Jan 2015 – Jul 2017 · Sydney, Australia</h4>
             <img src="/path_to_image4.png" alt="RiskSecure Logo">
-
-            <!-- Section 2: Responsibilities -->
             <div class="section-header">Responsibilities</div>
             <p class="section-content">Led risk assessments and mitigation strategies for internal and client systems, ensuring compliance with industry regulations.</p>
-
-            <!-- Section 3: Contributions -->
             <div class="section-header">Contributions</div>
             <p class="section-content">Created risk management frameworks that aligned with both business goals and regulatory requirements.</p>
-
-            <!-- Section 4: Projects -->
             <div class="section-header">Projects</div>
             <p class="section-content">Developed and implemented risk mitigation processes that reduced potential vulnerabilities by 40%.</p>
         </div>
+
+        <!-- Add roles 5 to 7 in similar fashion with static content and images -->
+
     </div>
-
-    <!-- Add roles 5 to 7 in similar fashion with static content and images -->
-
 </div>
 
 <footer>
