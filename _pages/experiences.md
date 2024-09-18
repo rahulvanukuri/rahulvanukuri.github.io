@@ -188,10 +188,10 @@ author_profile: true
         </div>
         <div class="experience-content">
             <ul>
-                <li>Led the Information Security team to enhance the cybersecurity posture of the organization.</li>
-                <li>Developed and implemented strategies for managing and mitigating cybersecurity risks.</li>
-                <li>Oversaw the compliance of IT systems with security standards and regulations.</li>
-                <li>Collaborated with international partners to ensure the security of cross-border data exchanges.</li>
+                <li>Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, Knowledge training, and incident response.</li>
+                <li>Architect robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Lead the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
+                <li>Foster strategic stakeholder relationships, effectively communicate security insights, and share best practices to elevate organizational cybersecurity awareness.</li>
             </ul>
         </div>
     </div>
