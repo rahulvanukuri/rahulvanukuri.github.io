@@ -194,7 +194,7 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="Risk Management Icon">
+            <img src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_ISO-IEC27001-Lead-Implementer.png" alt="Risk Management Icon">
             <h6>ISO/IEC 27001:2013 ISMS: Lead Implementer</h6>
         </div>
 
