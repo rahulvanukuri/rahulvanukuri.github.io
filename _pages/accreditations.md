@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Accreditations & Credentials"
+title: ""
 permalink: /accreditations/
 author_profile: true
 ---
