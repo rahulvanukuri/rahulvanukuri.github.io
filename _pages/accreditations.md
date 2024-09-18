@@ -166,8 +166,18 @@ author_profile: true
         </div>
 
         <div class="certification-card">
+            <img src="https://bestiimm.com/wp-content/uploads/2023/12/lss-black-belt.png" alt="PRINCE2 Practitioner Icon">
+            <h6>Lean Six Sigma Black Belt</h6>
+        </div>
+
+        <div class="certification-card">
             <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/f7ziOhu7VbzFHhE3q3MP3PRvpUEiqRjaosR9HGwJQ1C11rfD/PRINCE2%20-%20Practioner-720x480pix.png" alt="PRINCE2 Practitioner Icon">
             <h6>PRINCE2 Practitioner</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Practitioner Icon">
+            <h6>PRINCE2 Foundation</h6>
         </div>
     </div>
 </div>
@@ -179,8 +189,8 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Governance Icon">
-            <h6>Governance Certification</h6>
+            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/crisc_logo_rgb.webp" alt="Governance Icon">
+            <h6>Certified in Risk and Information Systems Control (CRISC)</h6>
         </div>
 
         <div class="certification-card">
@@ -226,12 +236,7 @@ author_profile: true
     </div>
 </div>
 
-<footer>
-    <div class="links">
-        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
-    </div>
-    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
-</footer>
+
 
 </body>
 </html>
