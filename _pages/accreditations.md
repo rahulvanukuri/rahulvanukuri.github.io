@@ -204,9 +204,11 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="Risk Management Icon">
-            <h6>ISO/IEC 27032 Lead Cybersecurity Manager</h6>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62vFTrUUXr_U1IiTyzAEzLQJyT9H5FBOSag&s" alt="Risk Management Icon">
+            <h6>ITIL Foundation</h6>
         </div>
+
+
 
     </div>
 </div>
@@ -256,8 +258,18 @@ author_profile: true
         </div>
 
         <div class="certification-card">
+            <img src="https://media.licdn.com/dms/image/D4D12AQGGTErHv-mtLA/article-cover_image-shrink_600_2000/0/1678782336183?e=2147483647&v=beta&t=-WBaWlkdzWr7uxvFGqvX_EcQd5iRe3H4EYzOTip3o_c" alt="InfoSec Icon">
+            <h6>Certified EC-Council Instructor v10</h6>
+        </div>
+
+        <div class="certification-card">
             <img src="https://images.credly.com/images/91406b1f-a628-4387-b6c3-b3da5d570803/00402.png" alt="InfoSec Icon">
             <h6>Certified Lead Pen Test Professional</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://images.credly.com/images/0e99cc31-1f54-42f8-8293-ff8c4addc03d/00215.png" alt="Risk Management Icon">
+            <h6>ISO/IEC 27032 Lead Cybersecurity Manager</h6>
         </div>
 
         <div class="certification-card">
