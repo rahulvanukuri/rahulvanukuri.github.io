@@ -194,9 +194,20 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="Risk Management Icon">
-            <h6>Risk Management Practitioner</h6>
+            <img src="https://images.credly.com/images/89b9a53a-7499-4826-8908-eb1b6c981b64/00193.png" alt="Risk Management Icon">
+            <h6>ISO/IEC 27001:2013 ISMS: Lead Implementer</h6>
         </div>
+
+        <div class="certification-card">
+            <img src="https://principledefence.com/wp-content/uploads/2022/09/ISO-27701-certified.jpg" alt="Risk Management Icon">
+            <h6>ISO/IEC 27701:2019 Privacy Information Management and GDPR: Lead Implementer</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://www.guestpoint.com/wp-content/uploads/2023/04/PCI-Certified-Icon-1-1568x1568.png" alt="Risk Management Icon">
+            <h6>PCI DSS V3.2.1 Implementation</h6>
+        </div>
+
     </div>
 </div>
 
@@ -207,13 +218,18 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="IT Audit Icon">
-            <h6>Certified IT Auditor</h6>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2igHcJAr6x1OZ_ywY4XRQ0L4j9-sn0P0Ubg&s" alt="IT Audit Icon">
+            <h6>Certified Information Systems Auditor (CISA)r</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://some-path-to-certification-icon.png" alt="IT Compliance Icon">
-            <h6>Certified IT Compliance Auditor</h6>
+            <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/00196.png" alt="IT Compliance Icon">
+            <h6>ISO/IEC 27001 ISMS: Lead Auditor</h6>
+        </div>
+
+        <div class="certification-card">
+            <img src="https://1111systems.com/wp-content/uploads/2021/04/CSA-STAR-Certification.png" alt="IT Compliance Icon">
+            <h6>Advanced Auditing for CSA STAR Certification</h6>
         </div>
     </div>
 </div>
