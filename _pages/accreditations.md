@@ -174,7 +174,7 @@ author_profile: true
             <img src="https://wc1.prod3.arlocdn.net/p/7c28b8671fc8478d801c44160b25a0eb/d/G4bg4VekKJMbYJXyA52Drmo9ZEPrFDiaJg0fVgtcYPK9YfLY/Prince2%20-%20Foundation.png" alt="PRINCE2 Foundation Icon">
             <h6>PRINCE2 Foundation</h6>
         </div>
-
+</div>
 <!-- Accreditations & Credentials Section -->
 <div class="content">
     <div class="separator">Governance, Risk & Compliance (GRC)</div>
@@ -188,7 +188,7 @@ author_profile: true
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="ITEE Icon">
             <h6>IT Engineers Examinations (ITEE)</h6>
         </div>
-
+</div>
         <div class="certification-card">
             <img src="https://www.isaca.org/-/media/images/isaca/certification/cisa/cisa-digital-badge.png" alt="CISA Icon">
             <h6>Certified Information Systems Auditor (CISA)</h6>
@@ -215,10 +215,7 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="links">
-        <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
-    </div>
-    © 2024 Mohammad Shahedur Rahman. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+
 </footer>
 
 </body>
