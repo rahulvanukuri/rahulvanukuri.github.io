@@ -239,26 +239,6 @@ author_profile: true
     </div>
 </div>
 
-<!-- Affiliations Section -->
-<div class="content">
-    <div class="certification-layout">
-        <!-- Affiliations Section Separator -->
-        <div class="separator">Affiliations</div>
-
-        <!-- Affiliation Cards -->
-        <div class="certification-card">
-            <h5>Affiliation</h5>
-            <div class="flex-row">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-                <h6>Student Affiliation</h6>
-            </div>
-            <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-        </div>
-
-        <!-- More Affiliation Cards... -->
-    </div>
-</div>
-
 <footer>
     <div class="links">
         <a href="#">Sitemap</a> | <a href="#">GitHub</a> | <a href="#">RSS</a>
