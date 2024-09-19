@@ -31,8 +31,8 @@ author_profile: true
         /* Main content container */
         .content {
             width: 100%; 
-            max-width: 1100px;
-            margin: 20px auto;
+            max-width: 1200px;
+            margin: 30px auto;
             padding: 30px;
             background-color: #ffffff;
             border-radius: 15px;
@@ -65,45 +65,74 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Grid layout for the experience cards */
-        .certification-layout {
+        /* Experience card container with timeline */
+        .experience-container {
             display: grid;
-            grid-template-columns: repeat(2, 1fr); /* Two cards per row */
+            grid-template-columns: 1fr;
             gap: 25px;
-            margin-top: 15px;
+            position: relative;
+            padding-left: 40px;
         }
 
-        /* Certification card styling */
-        .certification-card {
-            background-color: #f9f9f9;
-            border-radius: 12px;
+        .experience-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 18px;
+            width: 4px;
+            height: 100%;
+            background-color: #1e3d8f;
+        }
+
+        /* Experience card styling */
+        .experience-card {
+            background-color: #ffffff;
+            border-radius: 10px;
             padding: 25px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-left: 6px solid #1e3d8f;
-            cursor: pointer; /* Indicates interactive hover states */
+            position: relative;
         }
 
-        .certification-card:hover {
+        .experience-card::before {
+            content: '';
+            position: absolute;
+            top: 25px;
+            left: -27px;
+            width: 16px;
+            height: 16px;
+            background-color: #ffffff;
+            border: 4px solid #1e3d8f;
+            border-radius: 50%;
+        }
+
+        .experience-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
         }
 
-        .certification-card h3 {
+        .experience-card h3 {
             font-size: 22px;
             font-weight: bold;
             color: #1e3d8f;
             margin-bottom: 10px;
         }
 
-        .certification-card h4 {
+        .experience-card h4 {
             font-size: 18px;
             font-weight: normal;
             margin-bottom: 15px;
             color: #666;
         }
 
-        .certification-card img {
+        .experience-card h5 {
+            font-size: 16px;
+            color: #999;
+            margin-bottom: 15px;
+        }
+
+        .experience-card img {
             width: 50px;
             height: 50px;
             object-fit: contain;
@@ -182,86 +211,67 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <div class="separator">Professional Roles</div>
+    <div class="separator">Professional Experiences</div>
 
-    <!-- Card-based grid for professional roles -->
-    <div class="certification-layout">
-        
-        <!-- Role 1: Researcher -->
-        <div class="certification-card">
-            <h4>Graduate Student Researcher</h4>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+    <!-- Timeline with cards -->
+    <div class="experience-container">
+
+        <!-- Role 1: Graduate Student Researcher -->
+        <div class="experience-card">
+            <h3>Graduate Student Researcher</h3>
+            <h4>The University of Texas at Arlington (UTA) · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="BRAC Bank Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
-            <p class="section-content"><li>Optimize resource usage of microservice applications in the cloud computing.</li></p>
-            <p class="section-content"><li>Develop Resource Manager on top of kubernetes for microservices.</li></p>
-            <p class="section-content"><li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li></p>
-            <p class="section-content"><li>Identify root cause of the resource bottlenecks of microservices.</li></p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-            <div class="section-header">Projects</div>
-            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</p>
+            <p class="section-content">
+                <li>Optimize resource usage of microservice applications in cloud computing.</li>
+                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
+                <li>Develop Reinforcement Learning Agents to improve task completion time.</li>
+                <li>Identify root cause of microservice resource bottlenecks.</li>
+            </p>
         </div>
 
-
-        <!-- Role 1: CISO -->
-        <div class="certification-card">
-            <h4>Chief Information Security Officer (CISO)</h4>
-            <h4><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4>
+        <!-- Role 2: Chief Information Security Officer (CISO) -->
+        <div class="experience-card">
+            <h3>Chief Information Security Officer (CISO)</h3>
+            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023</h4>
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
-            <p class="section-content"><li>Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li></p>
-            <p class="section-content"><li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li></p>
-            <p class="section-content"><li>Foster strategic stakeholder relationships, effectively communicate security insights and share best practices to elevate organizational cybersecurity awareness.</li></p>
-            <p class="section-content"><li>Directed the Security Operation Center (SOC), ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li></p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-            <div class="section-header">Projects</div>
-            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</p>
+            <p class="section-content">
+                <li>Led security initiatives, aligning goals with business objectives.</li>
+                <li>Architected robust cybersecurity solutions to protect data.</li>
+                <li>Directed Security Operation Center (SOC), ensuring 24x7 threat detection.</li>
+                <li>Monitored and reported evolving security trends.</li>
+            </p>
         </div>
-        
-        <!-- Role 2: Senior Security Analyst -->
-        <div class="certification-card">
+
+        <!-- Role 3: Senior Security Analyst -->
+        <div class="experience-card">
             <h3>Senior Security Analyst</h3>
             <h4>XYZ Company · Jan 2020 – Oct 2022 · New York, USA</h4>
             <img src="/path_to_image2.png" alt="XYZ Company Logo">
             <div class="section-header">Responsibilities</div>
-            <p class="section-content">Analyzed security incidents and recommended preventive measures, while conducting vulnerability assessments and risk management exercises.</p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Implemented automated security monitoring systems and developed training programs to improve company-wide cybersecurity awareness.</p>
-            <div class="section-header">Projects</div>
-            <p class="section-content">Led initiatives to enhance SOC response capabilities and improve threat detection using advanced security tools.</p>
+            <p class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </p>
         </div>
 
-        <!-- Role 3: Security Operations Manager -->
-        <div class="certification-card">
+        <!-- Role 4: Security Operations Manager -->
+        <div class="experience-card">
             <h3>Security Operations Manager</h3>
             <h4>ABC Security Ltd. · Aug 2017 – Dec 2019 · London, UK</h4>
             <img src="/path_to_image3.png" alt="ABC Security Logo">
             <div class="section-header">Responsibilities</div>
-            <p class="section-content">Managed the security operations center, overseeing incident management, threat detection, and the development of response protocols.</p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Led improvements in operational efficiency by introducing new security tools and optimizing SOC workflows.</p>
-            <div class="section-header">Projects</div>
-            <p class="section-content">Developed a comprehensive incident response strategy that reduced response time by 30%.</p>
+            <p class="section-content">
+                <li>Managed the security operations center and incident management protocols.</li>
+                <li>Led improvements in operational efficiency through new security tools.</li>
+            </p>
         </div>
 
-        <!-- Role 4: Risk Management Lead -->
-        <div class="certification-card">
-            <h3>Risk Management Lead</h3>
-            <h4>RiskSecure Ltd. · Jan 2015 – Jul 2017 · Sydney, Australia</h4>
-            <img src="/path_to_image4.png" alt="RiskSecure Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">Led risk assessments and mitigation strategies for internal and client systems, ensuring compliance with industry regulations.</p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Created risk management frameworks that aligned with both business goals and regulatory requirements.</p>
-            <div class="section-header">Projects</div>
-            <p class="section-content">Developed and implemented risk mitigation processes that reduced potential vulnerabilities by 40%.</p>
-        </div>
-
-        <!-- Add roles 5 to 7 in similar fashion with static content and images -->
+        <!-- Add more roles as needed -->
 
     </div>
 </div>
