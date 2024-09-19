@@ -78,10 +78,11 @@ author_profile: true
             content: '';
             position: absolute;
             top: 0;
-            left: 12px;
+            left: 15px;
             width: 3px;
             height: 100%;
             background-color: #1e3d8f;
+            border-radius: 50%;
         }
 
         /* Experience card styling */
