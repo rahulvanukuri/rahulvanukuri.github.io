@@ -231,10 +231,9 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
-                <li>Optimize resource usage of microservice applications in cloud computing.</li>
-                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
-                <li>Develop Reinforcement Learning Agents to improve task completion time.</li>
-                <li>Identify root cause of microservice resource bottlenecks.</li>
+                <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
+                <li>Designed and implemented a Kubernetes-based Resource Manager to dynamically orchestrate microservices, improving deployment scalability and operational resilience.</li>
+                <li>Identified and mitigated critical resource bottlenecks in microservices architecture, ensuring peak performance across distributed cloud environments.</li>
             </p>
             <div class="section-header">Contributions</div>
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
@@ -248,13 +247,15 @@ author_profile: true
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
-                <li>Led security initiatives, aligning goals with business objectives.</li>
-                <li>Architected robust cybersecurity solutions to protect data.</li>
-                <li>Directed Security Operation Center (SOC), ensuring 24x7 threat detection.</li>
-                <li>Monitored and reported evolving security trends.</li>
+                <li>Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Foster strategic stakeholder relationships, effectively communicate security insights and share best practices to elevate organizational cybersecurity awareness.</li>
+                <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </p>
             <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+            <p class="section-content">
+            <li>Early SLO violation detection mechanisms were introduced to minimize CPU usage, ensuring more efficient resource management and preventing waste.</li>            
+            </p>
         </div>
 
         <!-- Role 3: National IT Security Consultant -->
