@@ -260,7 +260,7 @@ author_profile: true
             <h3>Assistant Vice President</h3>
             <h4><a href="https://www.ebl.com.bd/"Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/EBL_Registered_Corporate_Logo.svg/963px-EBL_Registered_Corporate_Logo.svg.png" alt="XYZ Company Logo">
+            <img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/03/26/ebl-logo.jpg" alt="XYZ Company Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
