@@ -31,16 +31,16 @@ author_profile: true
         /* Main content container */
         .content {
             width: 100%; 
-            max-width: 1200px;
+            max-width: 1100px;
             margin: 30px auto;
-            padding: 30px;
+            padding: 20px;
             background-color: #ffffff;
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
         .content h2 {
-            font-size: 28px;
+            font-size: 26px;
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
@@ -58,10 +58,10 @@ author_profile: true
         }
 
         .content p {
-            font-size: 17px;
-            line-height: 1.8;
+            font-size: 16px;
+            line-height: 1.6;
             color: #333;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             text-align: justify;
         }
 
@@ -69,17 +69,17 @@ author_profile: true
         .experience-container {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 25px;
+            gap: 20px;
             position: relative;
-            padding-left: 40px;
+            padding-left: 30px;
         }
 
         .experience-container::before {
             content: '';
             position: absolute;
             top: 0;
-            left: 18px;
-            width: 4px;
+            left: 12px;
+            width: 3px;
             height: 100%;
             background-color: #1e3d8f;
         }
@@ -87,11 +87,11 @@ author_profile: true
         /* Experience card styling */
         .experience-card {
             background-color: #ffffff;
-            border-radius: 10px;
-            padding: 25px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border-left: 6px solid #1e3d8f;
+            border-left: 5px solid #1e3d8f;
             position: relative;
         }
 
@@ -99,11 +99,11 @@ author_profile: true
             content: '';
             position: absolute;
             top: 25px;
-            left: -27px;
-            width: 16px;
-            height: 16px;
+            left: -20px;
+            width: 12px;
+            height: 12px;
             background-color: #ffffff;
-            border: 4px solid #1e3d8f;
+            border: 3px solid #1e3d8f;
             border-radius: 50%;
         }
 
@@ -113,47 +113,47 @@ author_profile: true
         }
 
         .experience-card h3 {
-            font-size: 22px;
+            font-size: 20px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
         }
 
         .experience-card h4 {
-            font-size: 18px;
+            font-size: 16px;
             font-weight: normal;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
             color: #666;
         }
 
         .experience-card h5 {
-            font-size: 16px;
+            font-size: 14px;
             color: #999;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
 
         .experience-card img {
-            width: 50px;
-            height: 50px;
+            width: 45px;
+            height: 45px;
             object-fit: contain;
             float: right;
             margin-left: 15px;
         }
 
         .section-header {
-            font-size: 17px;
+            font-size: 16px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             border-bottom: 2px solid #cccccc;
             padding-bottom: 5px;
         }
 
         .section-content {
-            font-size: 16px;
-            line-height: 1.8;
+            font-size: 15px;
+            line-height: 1.6;
             color: #333;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
         }
 
         /* Footer styles */
@@ -169,7 +169,7 @@ author_profile: true
         }
 
         footer .separator {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: bold;
             color: #1e3d8f;
             margin-bottom: 15px;
@@ -178,7 +178,7 @@ author_profile: true
         footer .separator::after {
             content: '';
             display: block;
-            width: 50px;
+            width: 40px;
             height: 2px;
             background-color: #1e3d8f;
             margin: 10px auto;
@@ -260,20 +260,6 @@ author_profile: true
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
                 <li>Implemented automated security monitoring systems.</li>
                 <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-        <!-- Role 4: Security Operations Manager -->
-        <div class="experience-card">
-            <h3>Security Operations Manager</h3>
-            <h4>ABC Security Ltd. · Aug 2017 – Dec 2019 · London, UK</h4>
-            <img src="/path_to_image3.png" alt="ABC Security Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Managed the security operations center and incident management protocols.</li>
-                <li>Led improvements in operational efficiency through new security tools.</li>
             </p>
             <div class="section-header">Contributions</div>
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
