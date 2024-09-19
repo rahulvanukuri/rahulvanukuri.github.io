@@ -190,10 +190,14 @@ author_profile: true
         <!-- Role 1: CISO -->
         <div class="certification-card">
             <h3>Chief Information Security Officer (CISO)</h3>
-            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023 · Dhaka, Bangladesh</h4>
-            <img src="/path_to_image1.png" alt="BRAC Bank Logo">
+            <h4><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4>
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
-            <p class="section-content">Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</p>
+            <p class="section-content"><li>Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li></p>
+            <p class="section-content"><li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li></p>
+            <p class="section-content"><li>Foster strategic stakeholder relationships, effectively communicate security insights and share best practices to elevate organizational cybersecurity awareness.</li></p>
+            <p class="section-content"><li>Directed the Security Operation Center (SOC), ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li></p>
             <div class="section-header">Contributions</div>
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
             <div class="section-header">Projects</div>
