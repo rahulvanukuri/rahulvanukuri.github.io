@@ -14,7 +14,7 @@ author_profile: true
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
-            background-color: #f0f7fa;
+            background-color: #ffffff; /* Changed to white */
             margin: 0;
             padding: 0;
             color: #333;
@@ -34,7 +34,7 @@ author_profile: true
             max-width: 1100px;
             margin: 30px auto;
             padding: 20px;
-            background-color: #ffffff;
+            background-color: #ffffff; /* Kept white for content container */
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
@@ -76,7 +76,7 @@ author_profile: true
 
         /* Experience card styling */
         .experience-card {
-            background-color: #ffffff;
+            background-color: #f9f9f9; /* Changed to light grey */
             border-radius: 12px;
             padding: 20px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
@@ -141,7 +141,7 @@ author_profile: true
             font-size: 14px;
             color: #333;
             font-family: 'Georgia', serif;
-            background-color: #f0f7fa;
+            background-color: #ffffff; /* Changed to white */
             padding: 20px 0;
             border-top: 1px solid #cccccc;
         }
@@ -189,9 +189,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-<footer>
     <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
-</footer>
 
     <!-- Experience cards -->
     <div class="experience-container">
@@ -253,7 +251,6 @@ author_profile: true
 <footer>
     <div class="separator"></div>
     <div class="links">
-
     </div>
     <div class="footer-note">
 
