@@ -34,7 +34,7 @@ author_profile: true
             max-width: 1100px;
             margin: 30px auto;
             padding: 20px;
-            background-color: #ffffff;
+            background-color: #f9f9f9;
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
