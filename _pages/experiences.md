@@ -189,7 +189,7 @@ author_profile: true
         
         <!-- Role 1: CISO -->
         <div class="certification-card">
-            <h3>Chief Information Security Officer (CISO)</h3>
+            <h4>Chief Information Security Officer (CISO)</h4>
             <h4><a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4>
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
