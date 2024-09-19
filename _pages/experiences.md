@@ -65,24 +65,13 @@ author_profile: true
             text-align: justify;
         }
 
-        /* Experience card container with timeline */
+        /* Experience card container without timeline */
         .experience-container {
             display: grid;
             grid-template-columns: 1fr;
             gap: 20px;
             position: relative;
-            padding-left: 30px;
-        }
-
-        .experience-container::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 15px;
-            width: 3px;
-            height: 100%;
-            background-color: #1e3d8f;
-            border-radius: 50%;
+            padding-left: 0;
         }
 
         /* Experience card styling */
@@ -94,18 +83,6 @@ author_profile: true
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-left: 5px solid #1e3d8f;
             position: relative;
-        }
-
-        .experience-card::before {
-            content: '';
-            position: absolute;
-            top: 25px;
-            left: -20px;
-            width: 12px;
-            height: 12px;
-            background-color: #ffffff;
-            border: 3px solid #1e3d8f;
-            border-radius: 50%;
         }
 
         .experience-card:hover {
@@ -212,7 +189,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <div class="separator">Professional Experiences</div>
+    <div class="separator">Comprehensive Experiences more than 12 years</div>
 
     <!-- Timeline with cards -->
     <div class="experience-container">
@@ -272,14 +249,11 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="separator">Stay Connected</div>
+    <div class="separator"></div>
     <div class="links">
-        <a href="#">LinkedIn</a>
-        <a href="#">GitHub</a>
-        <a href="#">Twitter</a>
+
     </div>
     <div class="footer-note">
-        &copy; 2024 Your Name. All rights reserved.
     </div>
 </footer>
 
