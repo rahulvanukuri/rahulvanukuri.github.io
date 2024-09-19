@@ -145,14 +145,20 @@ author_profile: true
             margin-bottom: 10px;
         }
 
-        /* Links styling (active without underline) */
+        /* Links styling */
         a {
             color: #1e3d8f;
-            text-decoration: none; /* No underline */
+            text-decoration: none; /* Remove underline */
         }
 
-        a:hover {
-            color: #1e3d8f;
+        a:link, a:visited {
+            color: #1e3d8f; /* Ensure links keep their color */
+            text-decoration: none; /* Ensure no underline */
+        }
+
+        a:hover, a:active {
+            color: #003399; /* Darken on hover */
+            text-decoration: none; /* Still no underline */
         }
 
         /* Footer styles */
@@ -219,7 +225,7 @@ author_profile: true
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
-            <h4>The University of Texas at Arlington (UTA) · Aug 2023 – Present</h4>
+            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -236,7 +242,7 @@ author_profile: true
         <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
-            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023</h4> 
+            <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
@@ -253,9 +259,9 @@ author_profile: true
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4>Bangladesh Computer Council · Jan 2020 – Oct 2022</h4> 
+            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
+            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
@@ -276,6 +282,7 @@ author_profile: true
     <div class="links">
     </div>
     <div class="footer-note">
+
     </div>
 </footer>
 
