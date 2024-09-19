@@ -51,7 +51,7 @@ author_profile: true
         }
 
         .content h2 {
-            font-size: 26px;
+            font-size: 24px;
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
@@ -200,7 +200,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Comprehensive Expertise Shaped by Over 12 Years of Professional Experience</h2>
+    <h2>Building a Strong Foundation with 12+ Years of Professional Expertise</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
