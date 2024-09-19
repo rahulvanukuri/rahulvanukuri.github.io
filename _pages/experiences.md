@@ -229,6 +229,8 @@ author_profile: true
                 <li>Develop Reinforcement Learning Agents to improve task completion time.</li>
                 <li>Identify root cause of microservice resource bottlenecks.</li>
             </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
         <!-- Role 2: Chief Information Security Officer (CISO) -->
@@ -244,6 +246,8 @@ author_profile: true
                 <li>Directed Security Operation Center (SOC), ensuring 24x7 threat detection.</li>
                 <li>Monitored and reported evolving security trends.</li>
             </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
         <!-- Role 3: Senior Security Analyst -->
@@ -257,6 +261,8 @@ author_profile: true
                 <li>Implemented automated security monitoring systems.</li>
                 <li>Developed company-wide cybersecurity awareness training programs.</li>
             </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
         <!-- Role 4: Security Operations Manager -->
@@ -269,6 +275,8 @@ author_profile: true
                 <li>Managed the security operations center and incident management protocols.</li>
                 <li>Led improvements in operational efficiency through new security tools.</li>
             </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
         <!-- Add more roles as needed -->
