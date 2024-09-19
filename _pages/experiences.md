@@ -34,7 +34,7 @@ author_profile: true
             max-width: 1100px;
             margin: 30px auto;
             padding: 20px;
-            background-color: #f9f9f9;
+            background-color: #ffffff;
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
@@ -189,9 +189,9 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <div class="separator">Comprehensive Experiences more than 12 years</div>
+    <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
 
-    <!-- Timeline with cards -->
+    <!-- Experience cards -->
     <div class="experience-container">
 
         <!-- Role 1: Graduate Student Researcher -->
@@ -249,11 +249,14 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="separator"></div>
+    <div class="separator">Stay Connected</div>
     <div class="links">
-
+        <a href="#">LinkedIn</a>
+        <a href="#">GitHub</a>
+        <a href="#">Twitter</a>
     </div>
     <div class="footer-note">
+        &copy; 2024 Your Name. All rights reserved.
     </div>
 </footer>
 
