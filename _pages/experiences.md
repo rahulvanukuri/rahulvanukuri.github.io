@@ -189,8 +189,6 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
-
 <footer>
     <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
 </footer>
