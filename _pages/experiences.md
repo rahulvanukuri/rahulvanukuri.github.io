@@ -1,3 +1,4 @@
+---
 layout: archive
 title: ""
 permalink: /experiences/
@@ -13,7 +14,7 @@ author_profile: true
         /* General Body Style */
         body {
             font-family: 'Georgia', serif;
-            background-color: #ffffff; /* Changed to white */
+            background-color: #ffffff;
             margin: 0;
             padding: 0;
             color: #333;
@@ -33,7 +34,7 @@ author_profile: true
             max-width: 1100px;
             margin: 30px auto;
             padding: 20px;
-            background-color: #ffffff; /* Kept white for content container */
+            background-color: #ffffff;
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
@@ -86,9 +87,9 @@ author_profile: true
 
         /* Experience card styling */
         .experience-card {
-            background-color: #f9f9f9; /* Changed to light grey */
+            background-color: #f9f9f9;
             border-radius: 12px;
-            padding: 15px; /* Adjusted padding to make it more compact */
+            padding: 15px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-left: 5px solid #1e3d8f;
@@ -110,14 +111,14 @@ author_profile: true
         .experience-card h4 {
             font-size: 16px;
             font-weight: normal;
-            margin-bottom: 8px; /* Adjusted margin for compactness */
+            margin-bottom: 8px;
             color: #666;
         }
 
         .experience-card h5 {
             font-size: 14px;
             color: #999;
-            margin-bottom: 6px; /* Reduced bottom margin */
+            margin-bottom: 6px;
         }
 
         .experience-card img {
@@ -132,16 +133,16 @@ author_profile: true
             font-size: 16px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-bottom: 6px; /* Reduced margin for compactness */
+            margin-bottom: 6px;
             border-bottom: 2px solid #cccccc;
-            padding-bottom: 3px; /* Reduced padding for compact look */
+            padding-bottom: 3px;
         }
 
         .section-content {
             font-size: 15px;
-            line-height: 1.5; /* Slightly reduced line-height */
+            line-height: 1.5;
             color: #333;
-            margin-bottom: 10px; /* Reduced bottom margin */
+            margin-bottom: 10px;
         }
 
         /* Footer styles */
@@ -151,7 +152,7 @@ author_profile: true
             font-size: 14px;
             color: #333;
             font-family: 'Georgia', serif;
-            background-color: #ffffff; /* Changed to white */
+            background-color: #ffffff;
             padding: 20px 0;
             border-top: 1px solid #cccccc;
         }
@@ -239,138 +240,12 @@ author_profile: true
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
-        <!-- Role 3: Senior Security Analyst -->
+        <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
+            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-                <!-- Role 4: Senior Security Analyst -->
-        <div class="experience-card">
-            <h3>Assistant Vice President</h3>
-            <h4><a href="https://www.ebl.com.bd/"Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/03/26/ebl-logo.jpg" alt="XYZ Company Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-                <!-- Role 3: Senior Security Analyst -->
-        <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-                <!-- Role 3: Senior Security Analyst -->
-        <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-                <!-- Role 3: Senior Security Analyst -->
-        <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-        <!-- Add more roles as needed -->
-
-    </div>
-</div>
-
-<footer>
-    <div class="separator"></div>
-    <div class="links">
-    </div>
-    <div class="footer-note">
-
-    </div>
-</footer>
-
-</body>
-</html>
- · Aug 2023 – Present</h4>
-            <h5>Texas, USA</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Optimize resource usage of microservice applications in cloud computing.</li>
-                <li>Develop Resource Manager on top of Kubernetes for microservices.</li>
-                <li>Develop Reinforcement Learning Agents to improve task completion time.</li>
-                <li>Identify root cause of microservice resource bottlenecks.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-        <!-- Role 2: Chief Information Security Officer (CISO) -->
-        <div class="experience-card">
-            <h3>Chief Information Security Officer (CISO)</h3>
-            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023</h4>
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
-            <div class="section-header">Responsibilities</div>
-            <p class="section-content">
-                <li>Led security initiatives, aligning goals with business objectives.</li>
-                <li>Architected robust cybersecurity solutions to protect data.</li>
-                <li>Directed Security Operation Center (SOC), ensuring 24x7 threat detection.</li>
-                <li>Monitored and reported evolving security trends.</li>
-            </p>
-            <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
-        </div>
-
-        <!-- Role 3: Senior Security Analyst -->
-        <div class="experience-card">
-            <h3>Senior Security Analyst</h3>
-            <h4>XYZ Company · Jan 2020 – Oct 2022 · New York, USA</h4>
-            <img src="/path_to_image2.png" alt="XYZ Company Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
