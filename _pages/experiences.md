@@ -467,6 +467,70 @@ author_profile: true
             <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
         </div>
 
+                <!-- Role 4: Senior Security Analyst -->
+        <div class="experience-card">
+            <h3>Assistant Vice President</h3>
+            <h4><a href="https://www.ebl.com.bd/"Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/EBL_Registered_Corporate_Logo.svg/963px-EBL_Registered_Corporate_Logo.svg.png" alt="XYZ Company Logo">
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+        </div>
+
+                <!-- Role 3: Senior Security Analyst -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+        </div>
+
+                <!-- Role 3: Senior Security Analyst -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+        </div>
+
+                <!-- Role 3: Senior Security Analyst -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/"Bangladesh Computer Concil</a> · Jan 2020 – Oct 2022</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+        </div>
+
         <!-- Add more roles as needed -->
 
     </div>
