@@ -200,7 +200,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h1>Comprehensive Expertise Shaped by Over 12 Years of Professional Experience</h1>
+    <h2>Comprehensive Expertise Shaped by Over 12 Years of Professional Experience</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
