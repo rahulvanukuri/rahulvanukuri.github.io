@@ -55,18 +55,19 @@ author_profile: true
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
-            text-align: center; /* Changed to center-align the heading */
+            text-align: center; /* Ensure the text is centered */
+            position: relative;
         }
-
+        
         .content h2::after {
             content: '';
             display: block;
-            width: 50%;
+            width: 60%; /* Adjust this to the desired width of the line */
             height: 1px;
             background-color: #cccccc;
-            margin-top: 8px;
-            margin-left: 0;
+            margin: 10px auto; /* Center the line */
         }
+
 
         .content p {
             font-size: 16px;
