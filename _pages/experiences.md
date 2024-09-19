@@ -39,6 +39,17 @@ author_profile: true
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
+        /* Custom separator for the headline */
+        .content h1::after {
+            content: '';
+            display: block;
+            width: 60%;
+            height: 2px;
+            background-color: #1e3d8f;
+            margin-top: 8px;
+            margin-left: 0;
+        }
+
         .content h2 {
             font-size: 26px;
             color: #1e3d8f;
@@ -189,7 +200,8 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
+    <h1>Comprehensive Expertise Shaped by Over 12 Years of Professional Experience</h1>
+    <div class="separator"></div>
 
     <!-- Experience cards -->
     <div class="experience-container">
