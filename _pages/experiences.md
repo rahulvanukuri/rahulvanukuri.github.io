@@ -78,7 +78,7 @@ author_profile: true
         .experience-card {
             background-color: #f9f9f9; /* Changed to light grey */
             border-radius: 12px;
-            padding: 20px;
+            padding: 15px; /* Adjusted padding to make it more compact */
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-left: 5px solid #1e3d8f;
@@ -100,14 +100,14 @@ author_profile: true
         .experience-card h4 {
             font-size: 16px;
             font-weight: normal;
-            margin-bottom: 12px;
+            margin-bottom: 8px; /* Adjusted margin for compactness */
             color: #666;
         }
 
         .experience-card h5 {
             font-size: 14px;
             color: #999;
-            margin-bottom: 10px;
+            margin-bottom: 6px; /* Reduced bottom margin */
         }
 
         .experience-card img {
@@ -122,16 +122,16 @@ author_profile: true
             font-size: 16px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-bottom: 8px;
+            margin-bottom: 6px; /* Reduced margin for compactness */
             border-bottom: 2px solid #cccccc;
-            padding-bottom: 5px;
+            padding-bottom: 3px; /* Reduced padding for compact look */
         }
 
         .section-content {
             font-size: 15px;
-            line-height: 1.6;
+            line-height: 1.5; /* Slightly reduced line-height */
             color: #333;
-            margin-bottom: 12px;
+            margin-bottom: 10px; /* Reduced bottom margin */
         }
 
         /* Footer styles */
