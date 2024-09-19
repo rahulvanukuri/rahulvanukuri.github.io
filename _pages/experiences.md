@@ -145,6 +145,16 @@ author_profile: true
             margin-bottom: 10px;
         }
 
+        /* Remove underline from links */
+        a {
+            text-decoration: none;
+            color: #1e3d8f; /* Keep the link color */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+
         /* Footer styles */
         footer {
             text-align: center;
@@ -209,7 +219,7 @@ author_profile: true
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h4>The University of Texas at Arlington (UTA) · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -226,7 +236,7 @@ author_profile: true
         <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
-            <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
+            <h4>BRAC Bank PLC · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
@@ -243,7 +253,7 @@ author_profile: true
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
+            <h4>Bangladesh Computer Council · Jan 2020 – Oct 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="XYZ Company Logo">
             <div class="section-header">Responsibilities</div>
