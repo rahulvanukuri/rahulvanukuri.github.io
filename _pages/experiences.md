@@ -55,7 +55,7 @@ author_profile: true
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
-            text-align: justify; /* Correct property for justified alignment */
+            text-align: center; /* Changed to center-align the heading */
         }
 
         .content h2::after {
