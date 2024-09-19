@@ -191,6 +191,10 @@ author_profile: true
 <div class="content">
     <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
 
+<footer>
+    <div class="separator">Comprehensive Experiences Spanning Over 12 Years</div>
+</footer>
+
     <!-- Experience cards -->
     <div class="experience-container">
 
@@ -249,14 +253,12 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="separator">Stay Connected</div>
+    <div class="separator"></div>
     <div class="links">
-        <a href="#">LinkedIn</a>
-        <a href="#">GitHub</a>
-        <a href="#">Twitter</a>
+
     </div>
     <div class="footer-note">
-        &copy; 2024 Your Name. All rights reserved.
+
     </div>
 </footer>
 
