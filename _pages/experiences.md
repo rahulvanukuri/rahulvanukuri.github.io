@@ -187,6 +187,24 @@ author_profile: true
     <!-- Card-based grid for professional roles -->
     <div class="certification-layout">
         
+        <!-- Role 1: Researcher -->
+        <div class="certification-card">
+            <h4>Graduate Student Researcher</h4>
+            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h5>Texas, USA</h5>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="BRAC Bank Logo">
+            <div class="section-header">Responsibilities</div>
+            <p class="section-content"><li>Optimize resource usage of microservice applications in the cloud computing.</li></p>
+            <p class="section-content"><li>Develop Resource Manager on top of kubernetes for microservices.</li></p>
+            <p class="section-content"><li>Develop Reinforcement Learning Agents to improve task completion time in mobile computation offloading.</li></p>
+            <p class="section-content"><li>Identify root cause of the resource bottlenecks of microservices.</li></p>
+            <div class="section-header">Contributions</div>
+            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+            <div class="section-header">Projects</div>
+            <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</p>
+        </div>
+
+
         <!-- Role 1: CISO -->
         <div class="certification-card">
             <h4>Chief Information Security Officer (CISO)</h4>
@@ -203,7 +221,7 @@ author_profile: true
             <div class="section-header">Projects</div>
             <p class="section-content">Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</p>
         </div>
-
+        
         <!-- Role 2: Senior Security Analyst -->
         <div class="certification-card">
             <h3>Senior Security Analyst</h3>
