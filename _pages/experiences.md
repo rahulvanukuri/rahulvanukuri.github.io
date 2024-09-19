@@ -145,14 +145,14 @@ author_profile: true
             margin-bottom: 10px;
         }
 
-        /* Remove underline from links */
+        /* Links styling (active without underline) */
         a {
-            text-decoration: none;
-            color: #1e3d8f; /* Keep the link color */
+            color: #1e3d8f;
+            text-decoration: none; /* No underline */
         }
 
         a:hover {
-            text-decoration: underline; /* Underline on hover */
+            color: #1e3d8f;
         }
 
         /* Footer styles */
@@ -276,7 +276,6 @@ author_profile: true
     <div class="links">
     </div>
     <div class="footer-note">
-
     </div>
 </footer>
 
