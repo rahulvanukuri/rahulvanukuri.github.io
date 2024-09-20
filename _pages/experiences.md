@@ -70,11 +70,12 @@ author_profile: true
 
 
         .content p {
-            font-size: 16px;
-            line-height: 1.6;
+            font-size: 14px;
+            line-height: 1.7;
             color: #333;
             margin-bottom: 15px;
             text-align: justify;
+            margin-bottom: 10px;
         }
 
         /* Experience card container without timeline */
