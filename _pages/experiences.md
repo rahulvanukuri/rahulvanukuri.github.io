@@ -351,7 +351,7 @@ Government.</li>
             <h3>Senior Programmer (ERP Security)</h3>
             <h4><a href="https://www.ibcs-primax.com/">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://seeklogo.com/images/I/ibcs-primax-logo-E05EF36162-seeklogo.com.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
