@@ -316,7 +316,9 @@ Government.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Secured PCI-DSS compliance, the gold standard for protecting sensitive client data, mitigating breaches, and safeguarding customers from financial and identity theft risks.</li>
+                <li>Instrumental in Eastern Bank PLC’s trailblazing PCI-DSS implementation, solidifying its position as a frontrunner in data security within Bangladesh’s banking sector.</li>
+                <li>Activated 24/7 cyber defenses using SIEM and SOAR systems, fending off major threats like ransomware and DDoS attacks, and protecting over USD 4 billion in assets.</li>
             </ul>
         </div>
 
