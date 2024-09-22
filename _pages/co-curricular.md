@@ -290,6 +290,16 @@ author_profile: true
             </div>
         </div>
 
+            <!-- Education Card 1 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.facebook.com/CodeWarriorsChallenge/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Code Warrior Challenge : 2014</a></h5>
+                <p style="margin-top: 8px;">  Attending the Code Warriors' Challenge by  
+  <a href="https://basis.org.bd/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Bangladesh Association of Software and Information Services (BASIS)</a> helped me tackle real-life IT problems, sharpening my industry skills and preparing me for real-world tech challenges.<br></p>
+            </div>
+        </div>
+        
+
                 <!-- Education Card 1 -->
         <div class="education-card">
             <div>
