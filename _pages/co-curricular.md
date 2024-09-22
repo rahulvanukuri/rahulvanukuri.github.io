@@ -266,13 +266,6 @@ author_profile: true
             <span>Engagements</span>
         </div>
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.hackuta.org/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Major League Hackathon : HackUTA</a></h5>
-                <p style="margin-top: 8px;">Attending HackUTA allowed me to collaborate on innovative projects, enhance my coding and teamwork skills, and network with industry professionals, all while gaining recognition for my abilities in a fast-paced environment.<br></p>
-            </div>
-        </div>
 
                 <!-- Education Card 1 -->
         <div class="education-card">
