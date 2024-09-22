@@ -202,7 +202,7 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://www.bluemorpholearning.com/wp-content/uploads/2024/02/40.png" alt="PRINCE2 Foundation Icon">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ix1KGvrH2nM3mL4u-U5y3eoQ1RHffA-X8Q&s" alt="PRINCE2 Foundation Icon">
             <h6>PRINCE2 Foundation</h6>
         </div>
     </div>
