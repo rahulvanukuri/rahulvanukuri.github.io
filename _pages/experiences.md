@@ -55,27 +55,25 @@ author_profile: true
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
-            text-align: center; /* Ensure the text is centered */
+            text-align: center;
             position: relative;
         }
-        
+
         .content h2::after {
             content: '';
             display: block;
-            width: 60%; /* Adjust this to the desired width of the line */
+            width: 60%;
             height: 1px;
             background-color: #cccccc;
-            margin: 10px auto; /* Center the line */
+            margin: 10px auto;
         }
 
-
         .content p {
-            font-size: 12px;
-            line-height: 1.7;
+            font-size: 16px;
+            line-height: 1.6;
             color: #333;
             margin-bottom: 15px;
             text-align: justify;
-            margin-bottom: 10px;
         }
 
         /* Experience card container without timeline */
@@ -142,25 +140,26 @@ author_profile: true
 
         .section-content {
             font-size: 15px;
-            line-height: 1.5;
+            line-height: 1.6;
             color: #333;
-            margin-bottom: 10px;
+            margin-bottom: 12px; /* Moderate gap between list items */
+            text-align: justify; /* Justify the text alignment */
         }
 
         /* Links styling */
         a {
             color: #1e3d8f;
-            text-decoration: none; /* Remove underline */
+            text-decoration: none;
         }
 
         a:link, a:visited {
-            color: #1e3d8f; /* Ensure links keep their color */
-            text-decoration: none; /* Ensure no underline */
+            color: #1e3d8f;
+            text-decoration: none;
         }
 
         a:hover, a:active {
-            color: #003399; /* Darken on hover */
-            text-decoration: none; /* Still no underline */
+            color: #003399;
+            text-decoration: none;
         }
 
         /* Footer styles */
@@ -250,12 +249,12 @@ author_profile: true
             <p class="section-content">
                 <li>Spearheaded tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
                 <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
-                <li>Foster strategic stakeholder relationships, effectively communicate security insights and share best practices to elevate organizational cybersecurity awareness.</li>
+                <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
                 <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </p>
             <div class="section-header">Contributions</div>
             <p class="section-content">
-            <li>Early SLO violation detection mechanisms were introduced to minimize CPU usage, ensuring more efficient resource management and preventing waste.</li>            
+                <li>Introduced early SLO violation detection mechanisms to minimize CPU usage, ensuring more efficient resource management and preventing waste.</li>            
             </p>
         </div>
 
@@ -264,7 +263,7 @@ author_profile: true
             <h3>National IT Security Consultant</h3>
             <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://cdn.theorg.com/8dd5dc74-0208-4028-86eb-e8e613160865_thumb.jpg" alt="Bangladesh Computer Council Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
@@ -285,7 +284,6 @@ author_profile: true
     <div class="links">
     </div>
     <div class="footer-note">
-
     </div>
 </footer>
 
