@@ -282,7 +282,7 @@ author_profile: true
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/">World Bank</a> · Jan 2019 – Sep 2022</h4> 
+            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
@@ -309,9 +309,10 @@ Government.</li>
             <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
+                <li>Headed the IT Security team, setting strategic direction and overseeing the development and implementation of the bank’s comprehensive information security strategy and architecture.</li>
+                <li>Formulated and enforced stringent security policies and standards, ensuring strict compliance with regulations and cybersecurity laws.</li>
+                <li>Steered bank-wide threat detection and response initiatives, conducting thorough risk assessments and driving proactive vulnerability management across critical systems.</li>
+                <li>Pioneered integrating innovative security technologies, strengthening the bank's infrastructure against evolving threats, and successfully leading high-impact IT security projects to completion.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
