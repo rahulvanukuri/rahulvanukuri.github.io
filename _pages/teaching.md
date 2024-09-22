@@ -63,7 +63,7 @@ author_profile: true
             line-height: 1.8;
             color: #333;
             margin-bottom: 20px;
-            text-align: justify;
+            text-align: justify; /* Justify the paragraph text */
         }
 
         .content a {
@@ -185,6 +185,7 @@ author_profile: true
             font-size: 16px;
             color: #333;
             margin: 0;
+            text-align: justify; /* Ensuring the text is justified */
         }
 
         /* Styling for Download CV link */
@@ -263,7 +264,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">CSE 5307. Programming Language Concepts</h5>
-                <p><h5 style="display: inline-block;">Summer 2024</h5></p>
+                <p><h5 style="display: inline-block; font-size: 16px;">Summer 2024</h5></p> <!-- Reduced the font size for Summer 2024 -->
                 <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
                 </p>
             </div>
