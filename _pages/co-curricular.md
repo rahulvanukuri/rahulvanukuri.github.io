@@ -253,7 +253,7 @@ author_profile: true
                 <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.uta.edu/student-affairs/leadership/programs/team-certification-program" target="_blank" style="text-decoration: none; color: #1e3d8f;">Team Certification Program . 2023</a></h5>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.uta.edu/student-affairs/leadership/programs/team-certification-program" target="_blank" style="text-decoration: none; color: #1e3d8f;">Team Certification Program : 2023</a></h5>
                 <p style="margin-top: 8px;">I gained practical skills to strengthen team dynamics and leadership through the 4-week TEAM series, focusing on Trust, Encouragement, Accountability, and Motivation. This program helped me foster a collaborative, motivated, and accountable team environment, empowering individuals, enhancing communication, and driving collective success.<br></p>
             </div>
         </div>       
