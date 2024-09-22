@@ -270,7 +270,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.hackuta.org/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Major League Hackathon : HackUTA</a></h5>
-                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+                <p style="margin-top: 8px;">Attending HackUTA allowed me to collaborate on innovative projects, enhance my coding and teamwork skills, and network with industry professionals, all while gaining recognition for my abilities in a fast-paced environment.<br></p>
             </div>
         </div>
 
