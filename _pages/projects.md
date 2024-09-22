@@ -352,6 +352,45 @@ author_profile: true
                 <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
             </ul>
         </div>
+
+
+        <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>Financial Systems Security Assurance Project</h3>
+            <h4>Role: Project Manager & Team Member - <a href="https://kpmg.com/bd/en/home.html" target="_blank">KPMG Bangladesh "Big Four"</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Assisted in IT security audits for the central bank's (Bangladesh Bank) key payment systems, ensuring the robustness of critical financial operations.</li>
+                <li>Supported cybersecurity audits for major banks (Dhaka Bank PLC, BRAC Bank, NCC Bank PLC, Prime Bank PLC, Al-Arafah Islami Bank PLC), enhancing IT infrastructure security and credibility.</li>
+                <li>Contributed to strengthening IT security for core banking systems and ERP platforms, ensuring compliance and operational resilience across financial institutions.</li>
+            </ul>
+        </div>
+
+        <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>Enterprise SIEM Deployment and Incident Response Initiative</h3>
+            <h4>Role: Team Member - <a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs.</li>
+                <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
+                <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
+            </ul>
+        </div>
+
+        <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>Enterprise SIEM Deployment and Incident Response Initiative</h3>
+            <h4>Role: Team Member - <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs.</li>
+                <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
+                <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
+            </ul>
+        </div>
+
+        
         
      
 
