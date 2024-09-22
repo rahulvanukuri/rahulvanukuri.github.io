@@ -278,8 +278,22 @@ author_profile: true
 
         <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
+            <h3><a href="https://www.cirt.gov.bd/" target="_blank">Bangladesh (BGD) e-GOV CIRT</a></h3>
+            <h4>Role: Team Member - <a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
+                <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
+                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
+                <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
+                <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
+            </ul>
+        </div>
+
+                <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
+            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
