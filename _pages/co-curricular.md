@@ -312,7 +312,7 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">"style="text-decoration: none; color: #1e3d8f;"Cyberscurity Mentoring</h5>
+                <span class="bullet"></span><h5 style="display: inline-block;">"<style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
                 <p style="margin-top: 8px;">I have trained over 100 mid to senior-level professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, providing basic and advanced training.<br></p>
             </div>
         </div>
@@ -327,7 +327,7 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">"style="text-decoration: none; color: #1e3d8f;"Cybersecurity Mentoring</h5>
+                <span class="bullet"></span><h5 style="display: inline-block;"><"style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
                 <p style="margin-top: 8px;">I have trained over 100 mid to senior-level professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, providing basic and advanced training.<br></p>
             </div>
         </div>          
