@@ -51,7 +51,7 @@ author_profile: true
         }
 
         .content h2 {
-            font-size: 24px;
+            font-size: 20px;
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 15px;
