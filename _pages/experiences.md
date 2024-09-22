@@ -357,7 +357,7 @@ author_profile: true
             <h3>IT Specialist (Security)</h3>
             <h4><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
