@@ -354,13 +354,14 @@ Government.</li>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
+                <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
+                <li>Identified and mitigated security vulnerabilities via regular scans, testing, and role-based access control (RBAC) implementation.</li>
+                <li>Secured sensitive data through encryption, masking, and compliance with data privacy regulations (GDPR, CCPA), with frequent backups and recovery tests.</li>
+                <li>Managed secure ERP configurations and applied timely patches to address vulnerabilities and maintain system integrity.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Securely implementing ERP solutions such as Oracle E-Business Suite and JD Edwards in multiple organizations enables seamless, efficient service delivery to a large customer base, enhancing operational smoothness and reliability.</li>
             </ul>
         </div>
 
