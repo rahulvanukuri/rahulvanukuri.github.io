@@ -296,7 +296,7 @@ author_profile: true
 
                 <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
+            <h3>IT Auditing for Secure Digital Operations</h3>
             <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
             <div class="section-header">Particulars</div>
             <ul class="section-content">
