@@ -243,8 +243,9 @@ author_profile: true
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
             <h4>Computer Science and Engineering</h4> 
+            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -262,8 +263,7 @@ author_profile: true
         <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
-            <h4>PAN Organization</h4> 
-            <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
+                     <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
@@ -306,8 +306,9 @@ Government.</li>
          <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
             <h3>Assistant Vice President</h3>
+              <h4>Information Security & Risk Management</h4>
             <h4><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
-            <h4>Information Security & Risk Management</h4> 
+           
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
@@ -329,8 +330,9 @@ Government.</li>
          <!-- Role 5: National IT Security Consultant -->
         <div class="experience-card">
             <h3>Assistant Manager</h3>
+               <h4>Information Risk Management (IRM) : Cybersecurity</h4> 
             <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
-            <h4>Information Risk Management (IRM) : Cybersecurity</h4> 
+        
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://e7.pngegg.com/pngimages/482/857/png-clipart-kpmg-logo-organization-management-zetvisions-ag-citi-logo-blue-angle.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
