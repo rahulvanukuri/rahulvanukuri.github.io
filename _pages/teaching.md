@@ -253,7 +253,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">CSE 1106. Introduction To Computer Science And Engineering</h5>
-                <h5 style="display: inline-block;">Spring 2024</h5>
+                <p><h5 style="display: inline-block;">Spring 2024</h5></p>
                 <p>A practical approach to hands-on computer hardware and software systems in a laboratory environment. Students will be exposed to basic engineering concepts such as simple circuits, digital logic, embedded controllers, computer networking, software design, and Linux operating systems. Prerequisite: C<br>
                 </p>
             </div>
@@ -263,7 +263,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">CSE 5307. Programming Language Concepts</h5>
-                <h5 style="display: inline-block;">Summer 2024</h5>
+                <p><h5 style="display: inline-block;">Summer 2024</h5></p>
                 <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
                 </p>
             </div>
@@ -273,7 +273,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">CSE 2312. Computer Organization & Assembly Language Programming</h5>
-                <h5 style="display: inline-block;">Fall 2024</h5>
+                <p><h5 style="display: inline-block;">Fall 2024</h5></p>
                 <p>Computer organization from the software viewpoint, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
                 </p>
             </div>
