@@ -305,6 +305,7 @@ Government.</li>
         <div class="experience-card">
             <h3>Assistant Vice President</h3>
             <h4><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
+            <h4>Information Security & Risk Management</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
@@ -327,6 +328,7 @@ Government.</li>
         <div class="experience-card">
             <h3>Assistant Manager</h3>
             <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
+            <h4>Information Risk Management (IRM) : Cybersecurity</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://e7.pngegg.com/pngimages/482/857/png-clipart-kpmg-logo-organization-management-zetvisions-ag-citi-logo-blue-angle.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
