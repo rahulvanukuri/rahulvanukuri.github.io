@@ -128,7 +128,7 @@ author_profile: true
             font-size: 16px;
             font-weight: normal;
             margin-bottom: 8px;
-            color: #666;
+            color: #333;
         }
 
         .experience-card h5 {
