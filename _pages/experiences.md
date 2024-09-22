@@ -287,9 +287,12 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
+                <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
+                <li>Demonstrated expertise in cyber threats, risk management, infrastructure development, and policy formulation, which is critical in advancing the nation's cybersecurity posture.</li>
+                <li>Contributed to building a resilient cybersecurity defense ecosystem for the Government of Bangladesh, enhancing technical capabilities and fostering security awareness across various sectors.</li>
+                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement, critical infrastructures, academia, and civil societies.</li>
+                <li>Supervised audit teams by creating detailed plans, guiding them through the process, and preparing blueprints for prevention, detection, correction, and deterrent controls for the 
+Government.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
