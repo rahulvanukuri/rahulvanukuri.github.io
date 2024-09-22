@@ -68,7 +68,7 @@ author_profile: true
 
         /* Darker links with no underline */
         .content a {
-            color: #333; /* Darker color */
+            color: #1e3d8f; /* Darker color */
             text-decoration: none; /* No underline */
             font-weight: bold;
             transition: color 0.3s ease;
@@ -108,7 +108,7 @@ author_profile: true
         }
 
         .certification-card p {
-            font-size: 17px; /* Font size for regular text */
+            font-size: 14px; /* Font size for regular text */
         }
 
         .certification-card small {
@@ -123,7 +123,7 @@ author_profile: true
         .separator {
             grid-column: 1 / -1;
             text-align: center;
-            font-size: 22px;
+            font-size: 20px;
             font-weight: bold;
             color: #1e3d8f;
             margin-top: 0px;
