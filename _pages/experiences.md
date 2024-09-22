@@ -297,7 +297,7 @@ Government.</li>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Orchestrated auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="<a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
+                <li>Orchestrated auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
 
