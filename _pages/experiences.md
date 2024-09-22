@@ -273,7 +273,7 @@ author_profile: true
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Directed the deployment of advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
+                <li>Directed deploying advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
                 <li>Augmented cybersecurity protocols across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, safeguarding operations from evolving threats and ensuring uninterrupted service.</li>
                 <li>Strengthened BRAC Bank’s position as a member of the Global Alliance for Banking on Values (GABV), aligning with global standards in secure and sustainable banking, reinforcing its leadership in the financial industry.</li>
             </ul>
