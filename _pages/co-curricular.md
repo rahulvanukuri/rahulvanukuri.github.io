@@ -277,8 +277,8 @@ author_profile: true
                 <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
-                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://events.uta.edu/event/global_grounds_4175" target="_blank" style="text-decoration: none; color: #1e3d8f;">Global Grounds</a></h5>
+                <p style="margin-top: 8px;">Attending Global Grounds at UTA allowed me to network with diverse students, broadening my cultural awareness and global perspective. Themed events like Diwali and Halloween enriched my understanding of traditions, while the relaxed setting fostered meaningful connections and cross-cultural dialogue, enhancing both personal growth and community engagement.<br></p>
             </div>
         </div>       
     </div>
