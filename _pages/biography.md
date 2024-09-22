@@ -91,16 +91,16 @@ redirect_from:
         }
 
         .certification-card h5 {
-            font-size: 18px; /* Font size for headings */
+            font-size: 14px; /* Font size for headings */
             font-weight: bold; /* Keeping the heading bold */
         }
 
         .certification-card p {
-            font-size: 17px; /* Font size for regular text */
+            font-size: 14px; /* Font size for regular text */
         }
 
         .certification-card small {
-            font-size: 15px; /* Font size for small text */
+            font-size: 14px; /* Font size for small text */
         }
 
         .certification-card:hover {
@@ -111,7 +111,7 @@ redirect_from:
         .separator {
             grid-column: 1 / -1;
             text-align: center;
-            font-size: 22px;
+            font-size: 18px;
             font-weight: bold;
             color: #1e3d8f;
             margin-top: 0px;
