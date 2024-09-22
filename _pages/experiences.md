@@ -244,6 +244,7 @@ author_profile: true
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
             <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h4>Computer Science and Engineering</h4> 
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -261,6 +262,7 @@ author_profile: true
         <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
+            <h4>PAN Organization</h4> 
             <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
