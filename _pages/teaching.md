@@ -231,39 +231,42 @@ author_profile: true
 
         <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>CSE 1310. INTRODUCTION TO COMPUTERS & PROGRAMMING</h5>
+                <h4>Fall 2023</h4>
                 <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C<br>
                 </p>
             </div>
         </div>
 
-        <!-- Education Card 2 -->
+        <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
-                <h5>Chancellor's Gold Medal</h5>
-                <p>Recipient of the prestigious Chancellor's Gold Medal, awarded by the President of the People's Republic of Bangladesh, for achieving top honors at the master's level., 2020<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <h5>CSE 1106. INTRODUCTION TO COMPUTER SCIENCE AND ENGINEERING</h5>
+                <h4>Spring 2024</h4>
+                <p>A practical approach to hands-on computer hardware and software systems in a laboratory environment. Students will be exposed to basic engineering concepts such as simple circuits, digital logic, embedded controllers, computer networking, software design, and Linux operating systems. Prerequisite: C<br>
+                </p>
             </div>
         </div>
-
-        <!-- Education Card 3 -->
+                <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad6HftSKi8pNuHC0HCWvGBGtHPqaItaxk1w&s" alt="Graduation Cap">
             <div>
-                <h5>IT Engineers Examinations (ITEE) </h5>
-                <p>Participated in a competitive examination to support the vision of Digital Bangladesh and earned the distinguished ITEE certification, awarded by JICA, 2010<br><small><a href="https://www.jica.go.jp/english/">Japan International Cooperation Agency (JICA)</a></small></p>
+                <h5>CSE 5307. PROGRAMMING LANGUAGE CONCEPTS</h5>
+                <h4>Summer 2024</h4>
+                <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
+                </p>
             </div>
         </div>
-
-        <!-- Education Card 4 -->
+                <!-- Education Card 1 -->
         <div class="education-card">
-            <img src="https://static.vecteezy.com/system/resources/previews/038/448/571/original/janata-bank-corporate-logo-free-vector.jpg" alt="Graduation Cap">
             <div>
-                <h5>Gold Medal</h5>
-                <p>Received a prestigious gold medal for exceptional performance in 12th grade, awarded by the Janata Bank PLC Employees Benevolent Fund Managing Committee, 2007.<br><small><a href="https://www.jb.com.bd/">Janata Bank PLC</a></small></p>
+                <h5>CSE 2312. COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE PROGRAMMING</h5>
+                <h4>Fall 2024</h4>
+                <p>Computer organization from the viewpoint of software, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
+                </p>
+            </div>
         </div>
+        
     </div>
 </div>
 
