@@ -312,8 +312,8 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
-                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="" target="_blank" style="text-decoration: none; color: #1e3d8f;">Cyberscurity Mentoring</a></h5>
+                <p style="margin-top: 8px;">I have trained over 100 IT professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, offering basic and advanced training.<br></p>
             </div>
         </div>
 
