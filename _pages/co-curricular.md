@@ -318,6 +318,20 @@ author_profile: true
             </div>
         </div>          
     </div>
+
+    <!-- Talks Section -->
+    <div class="education-layout">
+        <div class="separator">
+            <span>Games & Sports</span>
+        </div>
+
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="#" style="text-decoration: none; color: #1e3d8f;">Agility and Strategy through Sports</a></h5>
+                <p style="margin-top: 8px;">Excelling in swimming, boxing, chess, cycling, squash, and team sports like football, cricket, tennis, and badminton has sharpened my physical fitness, strategic thinking, and teamwork.<br></p>
+            </div>
+        </div>          
+    </div>
     
 <footer>
 </footer>
