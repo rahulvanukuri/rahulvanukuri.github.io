@@ -297,7 +297,7 @@ Government.</li>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Organized auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
+                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
 
@@ -372,7 +372,7 @@ Government.</li>
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
-                <li>Oversaw security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
+                <li>Organized security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
                 <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning while maintaining detailed documentation for optimization.</li>
             </ul>
             <div class="section-header">Contributions</div>
