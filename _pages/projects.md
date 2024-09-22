@@ -234,7 +234,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Building a Strong Foundation with 12+ Years of Professional Expertise</h2>
+    <h2>Noteworthy Completed Projects and Key Involvements</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
@@ -242,8 +242,8 @@ author_profile: true
 
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
-            <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h3>Microservice Autoscaling PEMA+</h3>
+            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></h4>
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -258,24 +258,34 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 2: Chief Information Security Officer (CISO) -->
+        <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
         <div class="experience-card">
-            <h3>Chief Information Security Officer (CISO)</h3>
-            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
+            <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
+            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
-            <div class="section-header">Responsibilities</div>
+            <div class="section-header">Particulars</div>
             <ul class="section-content">
                 <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
                 <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
                 <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
                 <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </ul>
-            <div class="section-header">Contributions</div>
+           
+        </div>
+
+                <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
+        <div class="experience-card">
+            <h3>Advanced Ransomware Prevention and Early Detection</h3>
+            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <div class="section-header">Particulars</div>
             <ul class="section-content">
-                <li>Directed deploying advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
-                <li>Augmented cybersecurity protocols across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, safeguarding operations from evolving threats and ensuring uninterrupted service.</li>
-                <li>Strengthened BRAC Bank’s position as a member of the Global Alliance for Banking on Values (GABV), aligning with global standards in secure and sustainable banking, reinforcing its leadership in the financial industry.</li>
+                <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
+                <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </ul>
         </div>
 
