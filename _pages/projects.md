@@ -270,9 +270,9 @@ author_profile: true
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
             <div class="section-header">Particulars</div>
             <ul class="section-content">
-                <li>Strengthened cybersecurity posture by automating detection, fostering collaboration across teams, and driving continuous threat-hunting and system improvements.</li>
-                <li>Directed the strategic adoption and deployment of XDR solutions, aligning with business objectives and integrating with existing security tools to enhance threat detection and response.</li>
-                <li>Orchestrated vendor selection, contract negotiations, and seamless XDR integration, ensuring efficient data collection, governance, and operational optimization.</li>
+                <li>Led the SIEM deployment, overseeing requirements analysis, vendor selection (EOI, RFQ, RFP), and architecture design to align with corporate security and compliance objectives.</li>
+                <li>Maximized threat detection by configuring log sources, fine-tuning detection rules, and integrating SIEM with security tools, minimizing false positives and negatives.</li>
+                <li>Planned and enhanced real-time monitoring and incident response, improving security event analysis, threat detection, and ensuring ongoing compliance.</li>
             </ul>
         </div>
 
@@ -284,7 +284,7 @@ author_profile: true
             <ul class="section-content">
                 <li>Proactively secured systems by patching vulnerabilities, leveraging threat intelligence, maintaining offline backups, minimizing ransomware risks, and ensuring swift recovery.</li>
                 <li>Implemented a multi-layered security architecture, including firewalls, EDR, and DDoS mitigation, to enhance ransomware defense and ensure early threat detection and response.</li>
-                <li>Led employee training and developed a comprehensive incident response plan, empowering staff to act as the first line of defense and ensuring coordinated responses to ransomware attacks.</li>
+                <li>Drove employee training and developed a comprehensive incident response plan, empowering staff to act as the first line of defense and ensuring coordinated responses to ransomware attacks.</li>
             </ul>
         </div>
 
@@ -334,7 +334,7 @@ author_profile: true
             <h4>Role: Team Member - <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs through the EOI, RFQ, and RFP processes.</li>
+                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs.</li>
                 <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
                 <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
             </ul>
