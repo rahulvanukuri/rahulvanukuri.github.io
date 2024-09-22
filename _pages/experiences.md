@@ -282,6 +282,42 @@ author_profile: true
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2019 – Sep 2022</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+            </ul>
+        </div>
+
+         <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/44/fe/05/44fe05a2-565f-b628-20d2-981e19138222/source/512x512bb.jpg" alt="Bangladesh Computer Council Logo">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+            </ul>
+        </div>
+
+         <!-- Role 3: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>Assistant Vice President</h3>
             <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
@@ -296,6 +332,43 @@ author_profile: true
                 <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
             </ul>
         </div>
+
+         <!-- Role 3: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>Assistant Manager</h3>
+            <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh</a> · Feb 2015 – Nov 2016</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" alt="Bangladesh Computer Council Logo">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+            </ul>
+        </div>
+
+         <!-- Role 3: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
+            <h5>Dhaka, Bangladesh</h5>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
+                <li>Implemented automated security monitoring systems.</li>
+                <li>Developed company-wide cybersecurity awareness training programs.</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+            </ul>
+        </div>
+        
 
     </div>
 </div>
