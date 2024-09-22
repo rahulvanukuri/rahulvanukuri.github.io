@@ -281,7 +281,7 @@ author_profile: true
 
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>National IT Security Consultant : Funded Projects by <a href="https://www.worldbank.org/">World Bank</a></h3>
+            <h3>National IT Security Consultant</h3>
             <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/">World Bank</a> · Jan 2019 – Sep 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
@@ -336,8 +336,8 @@ author_profile: true
 
          <!-- Role 6: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
+            <h3>Senior Programmer (ERP Security)</h3>
+            <h4><a href="https://www.ibcs-primax.com/">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
@@ -352,12 +352,12 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 6: National IT Security Consultant -->
+        <!-- Role 7: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> · Jan 2020 – Oct 2022</h4> 
+            <h3>IT Specialist (Security)</h3>
+            <h4><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
+            <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
