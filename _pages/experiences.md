@@ -69,7 +69,7 @@ author_profile: true
         }
 
         .content p {
-            font-size: 16px;
+            font-size: 16px; /* Font size consistent across Responsibilities and Contributions */
             line-height: 1.6;
             color: #333;
             margin-bottom: 15px;
@@ -139,11 +139,11 @@ author_profile: true
         }
 
         .section-content {
-            font-size: 14px;
+            font-size: 16px; /* Consistent with "Architected robust cybersecurity solutions" */
             line-height: 1.5;
             color: #333;
-            margin-bottom: 13px; /* Moderate gap between list items */
-            text-align: justify; /* Justify the text alignment */
+            margin-bottom: 13px;
+            text-align: justify;
         }
 
         /* Links styling */
