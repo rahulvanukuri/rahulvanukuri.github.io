@@ -190,7 +190,7 @@ redirect_from:
         }
 
         .cv-link-wrapper a {
-            font-size: 18px;
+            font-size: 14px;
             font-family: 'Georgia', serif;
             color: #333;
             text-decoration: none;
