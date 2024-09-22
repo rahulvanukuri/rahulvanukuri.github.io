@@ -297,7 +297,7 @@ Government.</li>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
+                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
 
@@ -336,12 +336,13 @@ Government.</li>
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
                 <li>Orhestrated project execution, preparing RFPs and technical proposals for security audits, and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
                 <li>Coordinated as a critical liaison between IT and business units, managing SLAs, resolving security-related breaches, and driving service improvements.</li>
-                <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks, while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
+                <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
                 
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Strengthened the resilience of Payment and Settlement Systems of the Central Bank (Bangladesh Bank) by conducting thorough IT security audits, ensuring the stability and security of critical financial operations.</li>
+                <li>Fortified the IT infrastructure and bolstered the credibility of Dhaka Bank PLC, NCC Bank PLC, Prime Bank PLC, BRAC Bank PLC, and Al-Arafah Islami Bank PLC, holding 15% of the market share through comprehensive security audits.</li>
             </ul>
         </div>
 
