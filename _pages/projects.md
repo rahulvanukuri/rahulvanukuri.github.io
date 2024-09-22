@@ -271,7 +271,7 @@ author_profile: true
                 <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </ul>
             
-        </div>
+       
 
                 <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
@@ -287,7 +287,7 @@ author_profile: true
                 <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
             </ul>
             
-        </div>
+        
 
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
