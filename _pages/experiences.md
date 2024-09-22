@@ -243,7 +243,7 @@ author_profile: true
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
             <h5>Texas, USA</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
             <div class="section-header">Responsibilities</div>
@@ -261,7 +261,7 @@ author_profile: true
         <!-- Role 2: Chief Information Security Officer (CISO) -->
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
-                     <h4><a href="https://www.bracbank.com/en">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
+            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
@@ -282,7 +282,7 @@ author_profile: true
         <!-- Role 3: National IT Security Consultant -->
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
+            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
             <h5>Dhaka, Bangladesh</h5>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
@@ -297,17 +297,16 @@ Government.</li>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
+                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
 
-         <!-- Role 4: National IT Security Consultant -->
+        <!-- Role 4: Assistant Vice President -->
         <div class="experience-card">
             <h3>Assistant Vice President</h3>
-            <h4><a href="https://www.ebl.com.bd/">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
-           
+            <h4><a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Bangladesh Computer Council Logo">
+            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Eastern Bank PLC Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Headed the IT Security team, setting strategic direction and overseeing the development and implementation of the bank’s comprehensive information security strategy and architecture.</li>
@@ -323,21 +322,18 @@ Government.</li>
             </ul>
         </div>
 
-
-         <!-- Role 5: National IT Security Consultant -->
+        <!-- Role 5: Assistant Manager (Cybersecurity) -->
         <div class="experience-card">
             <h3>Assistant Manager (Cybersecurity)</h3>
-            <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
-        
+            <h4><a href="https://kpmg.com/bd/en/home.html" target="_blank">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="KPMG Bangladesh Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Orhestrated project execution, preparing RFPs and technical proposals for security audits, and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
+                <li>Orchestrated project execution, preparing RFPs and technical proposals for security audits, and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
                 <li>Coordinated as a critical liaison between IT and business units, managing SLAs, resolving security-related breaches, and driving service improvements.</li>
                 <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
-                
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
@@ -346,12 +342,12 @@ Government.</li>
             </ul>
         </div>
 
-         <!-- Role 6: National IT Security Consultant -->
+        <!-- Role 6: Senior Programmer (ERP Security) -->
         <div class="experience-card">
             <h3>Senior Programmer (ERP Security)</h3>
-            <h4><a href="https://www.ibcs-primax.com/">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
+            <h4><a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="Bangladesh Computer Council Logo">
+            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="IBCS-PRIMAX Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
@@ -361,16 +357,16 @@ Government.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Securely implementing ERP solutions such as Oracle E-Business Suite and JD Edwards in multiple organizations enables seamless, efficient service delivery to a large customer base, enhancing operational smoothness and reliability.</li>
+                <li>Securely implemented ERP solutions such as Oracle E-Business Suite and JD Edwards in multiple organizations, enabling seamless, efficient service delivery to a large customer base, enhancing operational smoothness and reliability.</li>
             </ul>
         </div>
 
-        <!-- Role 7: National IT Security Consultant -->
+        <!-- Role 7: IT Specialist (Security) -->
         <div class="experience-card">
             <h3>IT Specialist (Security)</h3>
-            <h4><a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
+            <h4><a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="IBM Bangladesh Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
@@ -382,7 +378,6 @@ Government.</li>
                 <li>Actively ensured seamless operations for Airtel Bangladesh, the second-largest mobile operator, by delivering critical IT and security services through IBM, supporting their customer experience with precision and reliability.</li>
             </ul>
         </div>
-        
 
     </div>
 </div>
