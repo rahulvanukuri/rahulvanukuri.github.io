@@ -103,7 +103,7 @@ author_profile: true
         }
 
         .experience-card h3 {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: bold;
             color: #1e3d8f;
             margin-bottom: 8px;
