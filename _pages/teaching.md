@@ -9,7 +9,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    <title>Teaching Assistantship</title>
     <style>
         /* General Body Style */
         body {
@@ -22,10 +22,9 @@ author_profile: true
 
         /* Main content container */
         .content {
-            width: 128%;
-            margin: 0;
-            padding: 10px;
-            padding-bottom: 20px; /* Added padding at the bottom */
+            width: 80%; /* Set width for better readability */
+            margin: 0 auto; /* Center the content */
+            padding: 20px;
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -36,7 +35,7 @@ author_profile: true
             color: #1e3d8f;
             font-weight: bold;
             margin-bottom: 20px;
-            position: relative;
+            text-align: center; /* Center the heading */
         }
 
         .content h2::after {
@@ -67,57 +66,14 @@ author_profile: true
             color: #003399;
         }
 
-        /* Style for Biography and Interests (Unchanged) */
-        .certification-layout {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .certification-card {
-            padding: 10px;
-            background-color: #f9f9f9;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            font-family: 'Georgia', serif;
-        }
-
-        .certification-card h5,
-        .certification-card p,
-        .certification-card small {
-            font-family: 'Georgia', serif;
-            color: #333;
-        }
-
-        .certification-card h5 {
-            font-size: 18px; /* Font size for headings */
-            font-weight: bold; /* Keeping the heading bold */
-        }
-
-        .certification-card p {
-            font-size: 17px; /* Font size for regular text */
-        }
-
-        .certification-card small {
-            font-size: 15px; /* Font size for small text */
-        }
-
-        .certification-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-        }
-
+        /* Separator for each section */
         .separator {
-            grid-column: 1 / -1;
             text-align: center;
             font-size: 22px;
             font-weight: bold;
             color: #1e3d8f;
-            margin-top: 0px;
-            margin-bottom: 0px;
-            position: relative;
+            margin-top: 30px;
+            margin-bottom: 30px;
         }
 
         .separator::after {
@@ -129,147 +85,105 @@ author_profile: true
             margin: 10px auto;
         }
 
-        /* New Style for Education Section (as per your uploaded image) */
+        /* Education Card Layout */
         .education-layout {
             display: grid;
-            grid-template-columns: 1fr;
+            grid-template-columns: 1fr; /* Single column for better readability */
             gap: 20px;
-            margin-top: 20px;
         }
 
         .education-card {
-            padding: 15px;
+            padding: 20px;
             background-color: #f9f9f9;
             border-radius: 10px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            display: flex;
-            align-items: center;
         }
 
         .education-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
         }
 
         .education-card h5 {
-            font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+            font-size: 20px;
             font-weight: bold;
-            color: #333;
-            margin: 0;
+            color: #1e3d8f;
+            margin-bottom: 10px;
         }
 
-        .education-card small {
-            font-size: 14px;
+        .education-card h4 {
+            font-size: 16px;
             color: #666;
-        }
-
-        .education-card img {
-            width: 40px;
-            height: 40px;
-            margin-right: 20px;
+            margin-bottom: 15px;
         }
 
         .education-card p {
             font-size: 16px;
             color: #333;
-            margin: 0;
+            margin-bottom: 0;
         }
 
-        /* Styling for Download CV link */
-        .cv-link-wrapper {
-            display: flex;
-            align-items: center;
-            margin-top: 20px;
-        }
-
-        .cv-link-wrapper img {
-            width: 20px;
-            height: 20px;
-            margin-right: 10px;
-        }
-
-        .cv-link-wrapper a {
-            font-size: 18px;
-            font-family: 'Georgia', serif;
-            color: #333;
-            text-decoration: none;
-        }
-
-        .cv-link-wrapper a:hover {
-            color: #1e3d8f;
-        }
-
-        /* Footer */
+        /* Footer styling */
         footer {
             text-align: center;
-            margin-top: 50px;
+            margin-top: 40px;
             font-size: 14px;
             color: #aaa;
-            position: relative; /* Ensure the footer is positioned relative to the content */
-            clear: both; /* Clear any floating elements */
-            padding: 20px 0; /* Add padding to the footer */
+            padding: 20px 0;
+            border-top: 1px solid #cccccc;
         }
 
-        /* Responsive Design */
+        /* Responsive Design for mobile */
         @media (max-width: 768px) {
-            .certification-layout {
-                grid-template-columns: 1fr;
+            .content {
+                width: 95%; /* Adjust content width on smaller screens */
             }
         }
     </style>
 </head>
 <body>
 
-    <!-- New Style for Education Section -->
-    <div class="education-layout">
-        <!-- Education Section Separator -->
-        <div class="separator">
-            <span>Teaching Assistantship</span>
-        </div>
+    <!-- Main content container -->
+    <div class="content">
+        <!-- Teaching Assistantship Section -->
+        <h2>Teaching Assistantship</h2>
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <div>
-                <h5>CSE 1310. INTRODUCTION TO COMPUTERS & PROGRAMMING</h5>
+        <!-- Education Section Layout -->
+        <div class="education-layout">
+            <!-- Education Card 1 -->
+            <div class="education-card">
+                <h5>CSE 1310. Introduction To Computers & Programming</h5>
                 <h4>Fall 2023</h4>
-                <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C<br>
-                </p>
+                <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C</p>
             </div>
-        </div>
 
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <div>
+            <!-- Education Card 2 -->
+            <div class="education-card">
                 <h5>CSE 1106. INTRODUCTION TO COMPUTER SCIENCE AND ENGINEERING</h5>
                 <h4>Spring 2024</h4>
-                <p>A practical approach to hands-on computer hardware and software systems in a laboratory environment. Students will be exposed to basic engineering concepts such as simple circuits, digital logic, embedded controllers, computer networking, software design, and Linux operating systems. Prerequisite: C<br>
-                </p>
+                <p>A practical approach to hands-on computer hardware and software systems in a laboratory environment. Students will be exposed to basic engineering concepts such as simple circuits, digital logic, embedded controllers, computer networking, software design, and Linux operating systems. Prerequisite: C</p>
             </div>
-        </div>
-                <!-- Education Card 1 -->
-        <div class="education-card">
-            <div>
+
+            <!-- Education Card 3 -->
+            <div class="education-card">
                 <h5>CSE 5307. PROGRAMMING LANGUAGE CONCEPTS</h5>
                 <h4>Summer 2024</h4>
-                <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
-                </p>
+                <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.</p>
             </div>
-        </div>
-                <!-- Education Card 1 -->
-        <div class="education-card">
-            <div>
+
+            <!-- Education Card 4 -->
+            <div class="education-card">
                 <h5>CSE 2312. COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE PROGRAMMING</h5>
                 <h4>Fall 2024</h4>
-                <p>Computer organization from the viewpoint of software, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
-                </p>
+                <p>Computer organization from the software viewpoint, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C</p>
             </div>
         </div>
-        
     </div>
-</div>
 
-<footer>
-
-</footer>
+    <!-- Footer -->
+    <footer>
+        © 2024 Your Name. All rights reserved.
+    </footer>
+</body>
+</html>
