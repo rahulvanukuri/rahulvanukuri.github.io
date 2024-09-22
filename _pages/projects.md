@@ -254,6 +254,18 @@ author_profile: true
 
         <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
         <div class="experience-card">
+            <h3>Real-Time Threat Detection & SIEM Integration Project</h3>
+            <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
+            <div class="section-header">Particulars</div>
+            <ul class="section-content">
+                <li>Strengthened cybersecurity posture by automating detection, fostering collaboration across teams, and driving continuous threat-hunting and system improvements.</li>
+                <li>Directed the strategic adoption and deployment of XDR solutions, aligning with business objectives and integrating with existing security tools to enhance threat detection and response.</li>
+                <li>Orchestrated vendor selection, contract negotiations, and seamless XDR integration, ensuring efficient data collection, governance, and operational optimization.</li>
+            </ul>
+        </div>
+
+                <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
+        <div class="experience-card">
             <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
             <div class="section-header">Particulars</div>
@@ -298,7 +310,7 @@ author_profile: true
             <ul class="section-content">
                 <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
                 <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
-                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
+                <li>Facilitated the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
                 <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
                 <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
             </ul>
@@ -312,26 +324,23 @@ author_profile: true
             <ul class="section-content">
                 <li>Piloted PCI-DSS implementation, managing project planning, risk assessments, and gap analysis to secure payment card data.</li>
                 <li>Synchronized cross-functional teams, developed policies, and ensured compliance through testing and continuous monitoring.</li>
-                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
                 <li>Guided technical enforcement of security controls, including access control and vulnerability management, enhancing payment security and reducing risks.</li>
             </ul>
         </div>
 
                 <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
-            <h3><a href="https://www.cirt.gov.bd/" target="_blank">Bangladesh (BGD) e-GOV CIRT</a></h3>
-            <h4>Role: Project Manager & Team Member - <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a></h4> 
+            <h3>Enterprise SIEM Deployment and Incident Response Initiative</h3>
+            <h4>Role: Team Member - <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
-                <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
-                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
-                <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
-                <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
+                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs through the EOI, RFQ, and RFP processes.</li>
+                <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
+                <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
             </ul>
         </div>
         
-        <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a>
+     
 
     </div>
 </div>
