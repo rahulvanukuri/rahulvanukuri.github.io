@@ -368,25 +368,25 @@ author_profile: true
 
         <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>Enterprise SIEM Deployment and Incident Response Initiative</h3>
+            <h3>Oracle JD Edwards Implementation and Optimization</h3>
             <h4>Role: Team Member - <a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs.</li>
-                <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
-                <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
+                <li>Supported the first Oracle JD Edwards implementation in Bangladesh, covering Financials, Procurement, Inventory, and Sales modules.</li>
+                <li>Conducted business analysis and process optimization, managing client needs, vendor coordination, and automating manual processes.</li>
+                <li>Ensured database security and maintenance, handling backups, monitoring, and capacity planning while supporting end-user training and system integration.</li>
             </ul>
         </div>
 
         <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>Enterprise SIEM Deployment and Incident Response Initiative</h3>
+            <h3>Airtel Bangladesh IT Operations and Security Support Initiativ</h3>
             <h4>Role: Team Member - <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Contributed to requirements analysis and vendor selection for SIEM implementation, aligning the solution with organizational security needs.</li>
-                <li>Assisted in designing and configuring the SIEM architecture, setting up log sources, and customizing detection rules for real-time monitoring and incident response.</li>
-                <li>Supported real-time monitoring by tuning SIEM alerts and assisting the security team in threat analysis, improving incident detection and response.</li>
+                <li>Assisted in securing Airtel’s key customer-facing applications, such as the Prepaid Top-Up Transfer and E-Self Care platforms, enhancing customer service delivery.</li>
+                <li>Contributed to multiple IT support projects for Airtel Bangladesh, including CRM, PreTUPS, and the Pay Via Scratch Card Application, ensuring seamless operational efficiency.</li>
+                <li>Supported Airtel’s operational growth as the second-largest mobile operator in Bangladesh by enabling reliable IT and security support through IBM.</li>
             </ul>
         </div>
 
