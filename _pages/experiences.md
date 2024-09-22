@@ -321,7 +321,7 @@ author_profile: true
             <h3>Assistant Manager</h3>
             <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh</a> · Feb 2015 – Nov 2016</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://i.pinimg.com/originals/fc/78/eb/fc78eb150f9c3c9e599de827bd30f764.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://e7.pngegg.com/pngimages/482/857/png-clipart-kpmg-logo-organization-management-zetvisions-ag-citi-logo-blue-angle.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
@@ -360,13 +360,13 @@ author_profile: true
             <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
+                <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
+                <li>Orchestrated security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
+                <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning, while maintaining detailed documentation for optimization.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
+                <li>Actively ensured seamless operations for Airtel Bangladesh, the second-largest mobile operator, by delivering critical IT and security services through IBM, supporting their customer experience with precision and reliability.</li>
             </ul>
         </div>
         
