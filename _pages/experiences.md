@@ -68,12 +68,13 @@ author_profile: true
             margin: 10px auto;
         }
 
-        .content p {
-            font-size: 16px; /* Font size consistent across Responsibilities and Contributions */
+        .content p, .content li {
+            font-size: 14px; /* Ensures consistent font size for all text */
+            font-family: 'Georgia', serif; /* Ensure the same font family */
             line-height: 1.6;
             color: #333;
-            margin-bottom: 15px;
             text-align: justify;
+            margin-bottom: 13px; /* Consistent spacing */
         }
 
         /* Experience card container without timeline */
@@ -139,11 +140,12 @@ author_profile: true
         }
 
         .section-content {
-            font-size: 16px; /* Consistent with "Architected robust cybersecurity solutions" */
-            line-height: 1.5;
+            font-size: 14px;
+            font-family: 'Georgia', serif; /* Ensure this is consistent */
+            line-height: 1.6;
             color: #333;
-            margin-bottom: 13px;
             text-align: justify;
+            margin-bottom: 13px; /* Moderate gap between list items */
         }
 
         /* Links styling */
