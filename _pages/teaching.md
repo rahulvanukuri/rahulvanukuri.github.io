@@ -164,7 +164,7 @@ author_profile: true
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+            font-size: 16px; /* Matching font size to Interests section */
             font-weight: bold;
             color: #333;
             margin: 0;
@@ -182,7 +182,7 @@ author_profile: true
         }
 
         .education-card p {
-            font-size: 16px;
+            font-size: 14px;
             color: #333;
             margin: 0;
             text-align: justify; /* Ensuring the text is justified */
