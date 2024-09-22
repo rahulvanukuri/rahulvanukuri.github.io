@@ -259,7 +259,7 @@ author_profile: true
             <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">(BRAC Bank PLC)</a></h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://www.leeshanok.com/wp-content/uploads/2022/06/XDR-Graphic.webp" alt="XDR Graphic">
+            <img src="https://www.shutterstock.com/image-illustration/xdr-extended-detection-response-acronym-260nw-2396430081.jpg" alt="XDR Graphic">
             <div class="section-header">Particulars</div>
             <ul class="section-content">
                 <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
