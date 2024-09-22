@@ -35,7 +35,7 @@ author_profile: true
             width: 128%;
             margin: 0;
             padding: 10px;
-            padding-bottom: 20px; /* Added padding at the bottom */
+            padding-bottom: 20px;
             background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -63,19 +63,19 @@ author_profile: true
             line-height: 1.8;
             color: #333;
             margin-bottom: 20px;
-            text-align: justify; /* Justify the paragraph text */
+            text-align: justify;
         }
 
-        /* Darker links with no underline */
+        /* Darker links with no underline, Leadership Traits font color */
         .content a {
-            color: #1e3d8f; /* Darker color */
-            text-decoration: none; /* No underline */
+            color: #1e3d8f;
+            text-decoration: none;
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         .content a:hover {
-            color: #1e3d8f; /* Slight color change on hover */
+            color: #1e3d8f;
         }
 
         /* Style for Biography and Interests (Unchanged) */
@@ -103,16 +103,16 @@ author_profile: true
         }
 
         .certification-card h5 {
-            font-size: 14px; /* Font size for headings */
-            font-weight: bold; /* Keeping the heading bold */
+            font-size: 14px;
+            font-weight: bold;
         }
 
         .certification-card p {
-            font-size: 14px; /* Font size for regular text */
+            font-size: 14px;
         }
 
         .certification-card small {
-            font-size: 15px; /* Font size for small text */
+            font-size: 15px;
         }
 
         .certification-card:hover {
@@ -140,16 +140,16 @@ author_profile: true
             margin: 10px auto;
         }
 
-        /* New Style for Education Section (as per your uploaded image) */
+        /* New Style for Education Section */
         .education-layout {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 20px;
+            gap: 15px; /* More compact gap */
             margin-top: 20px;
         }
 
         .education-card {
-            padding: 15px;
+            padding: 12px; /* More compact padding */
             background-color: #f9f9f9;
             border-radius: 10px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -165,7 +165,7 @@ author_profile: true
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+            font-size: 18px;
             font-weight: bold;
             color: #333;
             margin: 0;
@@ -186,7 +186,7 @@ author_profile: true
             font-size: 14px;
             color: #333;
             margin: 0;
-            text-align: justify; /* Ensuring the text is justified */
+            text-align: justify;
         }
 
         /* Styling for Download CV link */
@@ -205,8 +205,8 @@ author_profile: true
         .cv-link-wrapper a {
             font-size: 18px;
             font-family: 'Georgia', serif;
-            color: #333; /* Darker color for links */
-            text-decoration: none; /* No underline */
+            color: #333;
+            text-decoration: none;
         }
 
         .cv-link-wrapper a:hover {
@@ -219,9 +219,9 @@ author_profile: true
             margin-top: 50px;
             font-size: 14px;
             color: #aaa;
-            position: relative; /* Ensure the footer is positioned relative to the content */
-            clear: both; /* Clear any floating elements */
-            padding: 20px 0; /* Add padding to the footer */
+            position: relative;
+            clear: both;
+            padding: 20px 0;
         }
 
         /* Responsive Design */
@@ -244,8 +244,8 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" style="text-decoration: none;">2024 Fall Leadership Retreat</a></h5>
-                <p>I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" style="text-decoration: none;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
+                <p>I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
             </div>
         </div>
 
