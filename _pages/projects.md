@@ -212,6 +212,21 @@ author_profile: true
             color: #1e3d8f;
         }
 
+         /* Bullet point formatting */
+        ul {
+            list-style: disc;
+            margin-left: 1px;
+        }
+
+        ul li {
+            text-align: justify;
+            margin-bottom: 10px;
+        }
+
+        ul li::marker {
+            font-weight: bold;
+        }
+
         /* Footer */
         footer {
             text-align: center;
@@ -244,11 +259,19 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">Implementation of Extended Detection and Response (XDR) Tools</h5>
-                <span><p><h5 style="display: inline-block;">Role: Project Manager<a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h5></p></span>
-                <p>Computer organization from the software viewpoint, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
+               <span> <div class="section-header">Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">(BRAC Bank PLC)</a></div></span>
+                <ul class="section-content">
+                <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
+                <li>Designed and implemented a Kubernetes-based Resource Manager to orchestrate microservices, dynamically improving deployment scalability and operational resilience.</li>
+                <li>Identified and mitigated critical resource bottlenecks in microservices architecture, ensuring peak performance across distributed cloud environments.</li>
+            </ul>
+
                 </p>
             </div>
         </div>
+
+
+
         
                <!-- Education Card 3 -->
         <div class="education-card">
