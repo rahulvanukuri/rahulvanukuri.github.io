@@ -288,6 +288,19 @@ author_profile: true
             </ul>
         </div>
 
+        
+        <!-- Role 3: Advanced Ransomware Prevention and Early Detection -->
+        <div class="experience-card">
+            <h3>SOAR and Threat Intelligence Integration for Proactive Automated Response</h3>
+            <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
+            <div class="section-header">Particulars</div>
+            <ul class="section-content">
+                <li>Initiated automation of incident response workflows, working closely with security analysts to enhance efficiency through SOAR and SIEM integration.</li>
+                <li>Designed a comprehensive library of automation scripts and playbooks, enabling swift and efficient incident management.</li>
+                <li>Optimized automation performance, tracking key metrics and reporting enhancements in threat intelligence and incident response capabilities.</li>
+            </ul>
+        </div>
+
         <!-- Additional roles omitted for brevity -->
  
 
