@@ -9,7 +9,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    <title>Projects and Key Involvements</title>
     <style>
         /* General Body Style */
         body {
