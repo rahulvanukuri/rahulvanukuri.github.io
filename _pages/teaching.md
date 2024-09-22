@@ -240,15 +240,27 @@ author_profile: true
             <span>Teaching Assistantship</span>
         </div>
 
-        <!-- Education Card 1 -->
+       <!-- Education Card 4 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">CSE 1310. Introduction To Computers & Programming</h5>
-                <p><h5 style="display: inline-block;">Fall 2023</h5></p>
-                <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C<br>
+                <span class="bullet"></span><h5 style="display: inline-block;">CSE 2312. Computer Organization & Assembly Language Programming</h5>
+                <p><h5 style="display: inline-block;">Fall 2024</h5></p>
+                <p>Computer organization from the software viewpoint, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
                 </p>
             </div>
         </div>
+        
+               <!-- Education Card 3 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;">CSE 5307. Programming Language Concepts</h5>
+                <p><h5 style="display: inline-block; font-size: 16px;">Summer 2024</h5></p> <!-- Reduced the font size for Summer 2024 -->
+                <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
+                </p>
+            </div>
+        </div>
+ 
+
 
         <!-- Education Card 2 -->
         <div class="education-card">
@@ -260,25 +272,19 @@ author_profile: true
             </div>
         </div>
 
-        <!-- Education Card 3 -->
+
+
+                <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">CSE 5307. Programming Language Concepts</h5>
-                <p><h5 style="display: inline-block; font-size: 16px;">Summer 2024</h5></p> <!-- Reduced the font size for Summer 2024 -->
-                <p>Study and evaluation of concepts in programming language for modern computer systems. Programming projects are selected from string-based, symbolic, algorithmic, and object-oriented languages.<br>
+                <span class="bullet"></span><h5 style="display: inline-block;">CSE 1310. Introduction To Computers & Programming</h5>
+                <p><h5 style="display: inline-block;">Fall 2023</h5></p>
+                <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C<br>
                 </p>
             </div>
         </div>
 
-        <!-- Education Card 4 -->
-        <div class="education-card">
-            <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">CSE 2312. Computer Organization & Assembly Language Programming</h5>
-                <p><h5 style="display: inline-block;">Fall 2024</h5></p>
-                <p>Computer organization from the software viewpoint, including instruction set architectures, memory addressing, integer and floating-point representation and arithmetic, instruction pipelining, cache, memory virtualization, and I/O. The relationship of higher-level programming languages to assembly language and instruction set architecture is also explored. Prerequisite: C<br>
-                </p>
-            </div>
-        </div>
+        
     </div>
 
 <footer>
