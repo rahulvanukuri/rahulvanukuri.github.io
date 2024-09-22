@@ -91,7 +91,7 @@ author_profile: true
         }
 
         .certification-card h6 {
-            font-size: 16px;
+            font-size: 14px;
             font-weight: normal;
             margin: 0;
         }
@@ -105,7 +105,7 @@ author_profile: true
         .separator {
             grid-column: 1 / -1;
             text-align: center;
-            font-size: 22px;
+            font-size: 18px;
             font-weight: bold;
             color: #1e3d8f;
             margin-top: 10px;
