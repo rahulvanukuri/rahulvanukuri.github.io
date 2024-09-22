@@ -326,7 +326,7 @@ Government.</li>
 
          <!-- Role 5: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>Assistant Manager (IRM - Cybersecurity)</h3>
+            <h3>Assistant Manager (Cybersecurity)</h3>
             <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
         
             <h5>Dhaka, Bangladesh</h5>
