@@ -70,7 +70,7 @@ author_profile: true
 
 
         .content p {
-            font-size: 14px;
+            font-size: 12px;
             line-height: 1.7;
             color: #333;
             margin-bottom: 15px;
