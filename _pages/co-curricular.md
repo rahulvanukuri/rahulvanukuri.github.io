@@ -250,7 +250,7 @@ author_profile: true
             </div>
         </div>
 
-                <!-- Education Card 1 -->
+        <!-- Education Card 2 -->
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.uta.edu/student-affairs/leadership/programs/team-certification-program" target="_blank" style="text-decoration: none; color: #1e3d8f;">Team Certification Program : 2023</a></h5>
@@ -259,15 +259,14 @@ author_profile: true
         </div>       
     </div>
 
-    <!-- New Style for Education Section -->
+    <!-- New Style for Engagements Section -->
     <div class="education-layout">
-        <!-- Education Section Separator -->
+        <!-- Engagements Section Separator -->
         <div class="separator">
             <span>Engagements</span>
         </div>
 
-
-                <!-- Education Card 1 -->
+        <!-- Education Card 1 -->
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.hackuta.org/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Major League Hackathon : HackUTA</a></h5>
@@ -275,7 +274,7 @@ author_profile: true
             </div>
         </div>
 
-    <!-- Education Card 1 -->
+        <!-- Education Card 2 -->
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://forms.office.com/pages/responsepage.aspx?id=Q1vcXL7XqkyBc3KeOwpi2fE2JhuQyUNDps_cdeXxHMpUMkQ0UFRETVIyUEczNDJZUUFFRk9IWkxMWC4u" target="_blank" style="text-decoration: none; color: #1e3d8f;">Programming Contest : 2024</a></h5>
@@ -283,17 +282,15 @@ author_profile: true
             </div>
         </div>
 
-            <!-- Education Card 1 -->
+        <!-- Education Card 3 -->
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.facebook.com/CodeWarriorsChallenge/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Code Warrior Challenge : 2014</a></h5>
-                <p style="margin-top: 8px;">  Attending the Code Warriors' Challenge by  
-  <a href="https://basis.org.bd/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Bangladesh Association of Software and Information Services (BASIS)</a> helped me tackle real-life IT problems, sharpening my industry skills and preparing me for real-world tech challenges.<br></p>
+                <p style="margin-top: 8px;">Attending the Code Warriors' Challenge by <a href="https://basis.org.bd/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Bangladesh Association of Software and Information Services (BASIS)</a> helped me tackle real-life IT problems, sharpening my industry skills and preparing me for real-world tech challenges.<br></p>
             </div>
         </div>
-        
 
-                <!-- Education Card 1 -->
+        <!-- Education Card 4 -->
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://events.uta.edu/event/global_grounds_4175" target="_blank" style="text-decoration: none; color: #1e3d8f;">Global Grounds</a></h5>
@@ -302,9 +299,9 @@ author_profile: true
         </div>       
     </div>
 
-        <!-- New Style for Education Section -->
+    <!-- New Style for Coaching Section -->
     <div class="education-layout">
-        <!-- Education Section Separator -->
+        <!-- Coaching Section Separator -->
         <div class="separator">
             <span>Coaching</span>
         </div>
@@ -312,14 +309,15 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">"<style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
+                <span class="bullet"></span><h5 style="display: inline-block;" style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
                 <p style="margin-top: 8px;">I have trained over 100 mid to senior-level professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, providing basic and advanced training.<br></p>
             </div>
         </div>
+    </div>
 
-              <!-- New Style for Education Section -->
+    <!-- New Style for Talks Section -->
     <div class="education-layout">
-        <!-- Education Section Separator -->
+        <!-- Talks Section Separator -->
         <div class="separator">
             <span>Talks</span>
         </div>
@@ -327,8 +325,8 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;"><"style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
-                <p style="margin-top: 8px;">I have trained over 100 mid to senior-level professionals from fintechs, law enforcement, and government agencies in IT auditing and cybersecurity, providing basic and advanced training.<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;" style="text-decoration: none; color: #1e3d8f;">Cybersecurity Mentoring</h5>
+                <p style="margin-top: 8px;">As a speaker, I addressed the rising cyber threats in the financial sector, with over 50,000 global attacks daily. I highlighted major data breaches, including 11.5 million leaked documents and vulnerabilities in local banks, emphasizing the need for robust cybersecurity and secure online banking to protect financial institutions.<br></p>
             </div>
         </div>          
     </div>
