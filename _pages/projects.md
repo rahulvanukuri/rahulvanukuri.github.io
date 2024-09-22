@@ -243,9 +243,7 @@ author_profile: true
         <!-- Role 1: Graduate Student Researcher -->
         <div class="experience-card">
             <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
-            <h5>Texas, USA</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <h4>>Role: Graduate Student Researcher -<a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></h4>
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
@@ -258,14 +256,11 @@ author_profile: true
         <div class="experience-card">
             <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">(BRAC Bank PLC)</a></h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://www.shutterstock.com/image-illustration/xdr-extended-detection-response-acronym-260nw-2396430081.jpg" alt="XDR Graphic">
             <div class="section-header">Particulars</div>
             <ul class="section-content">
-                <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
-                <li>Fostered strategic stakeholder relationships, effectively communicated security insights, and shared best practices to elevate organizational cybersecurity awareness.</li>
-                <li>Led the SOC, ensuring 24x7 threat detection, breach containment, and operational excellence through advanced security techniques.</li>
+                <li>Strengthened cybersecurity posture by automating detection, fostering collaboration across teams, and driving continuous threat-hunting and system improvements.</li>
+                <li>Directed the strategic adoption and deployment of XDR solutions, aligning with business objectives and integrating with existing security tools to enhance threat detection and response.</li>
+                <li>Orchestrated vendor selection, contract negotiations, and seamless XDR integration, ensuring efficient data collection, governance, and operational optimization.</li>
             </ul>
         </div>
 
@@ -273,8 +268,6 @@ author_profile: true
         <div class="experience-card">
             <h3>Advanced Ransomware Prevention and Early Detection</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">(BRAC Bank PLC)</a></h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://thrivedx.com/wp-content/uploads/2023/03/0_K8GyLrkh7Eq2L3Ah-1024x536.png" alt="Ransomware Prevention">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Led tactical security initiatives, aligning goals with business objectives while driving policy creation, risk assessment, knowledge training, and incident response.</li>
@@ -288,8 +281,6 @@ author_profile: true
         <div class="experience-card">
             <h3>National IT Security Consultant</h3>
             <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
