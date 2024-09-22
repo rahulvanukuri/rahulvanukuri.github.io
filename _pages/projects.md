@@ -126,7 +126,7 @@ author_profile: true
 
         .experience-card h4 {
             font-size: 16px;
-            font-weight: normal;
+            font-weight: bold;
             margin-bottom: 8px;
             color: #333;
         }
