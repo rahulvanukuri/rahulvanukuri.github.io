@@ -165,7 +165,7 @@ author_profile: true
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px;
+            font-size: 16px;
             font-weight: bold;
             color: #333;
             margin: 0;
