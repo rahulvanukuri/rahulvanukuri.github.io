@@ -323,7 +323,7 @@ author_profile: true
 </div>
 
 <footer>
-    <div class="separator">Stay Connected</div>
+    <div class="separator"></div>
     <div class="links">
         <a href="#">LinkedIn</a>
         <a href="#">GitHub</a>
