@@ -276,21 +276,6 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 4: National IT Security Consultant -->
-        <div class="experience-card">
-            <h3><a href="https://www.cirt.gov.bd/" target="_blank">Bangladesh (BGD) e-GOV CIRT</a></h3>
-            <h4>Role: Team Member - <a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
-                <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
-                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
-                <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
-                <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
-            </ul>
-        </div>
-
-
         <!-- Additional roles omitted for brevity -->
  
 
@@ -305,8 +290,48 @@ author_profile: true
                 <li>Steered the IT audit of toll plaza systems for the <a href="https://rhd.portal.gov.bd/" target="_blank">Road Transportation Highway Division (RTHD)</a>, evaluating electronic and manual toll collection systems and bolstering the government’s highway maintenance funding strategy through efficient toll collection.</li>
             </ul>
         </div>
+        <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3><a href="https://www.cirt.gov.bd/" target="_blank">Bangladesh (BGD) e-GOV CIRT</a></h3>
+            <h4>Role: Team Member - <a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
+                <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
+                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
+                <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
+                <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
+            </ul>
+        </div>
 
+                <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>PCI-DSS Compliance and Security Enhancement Project</h3>
+            <h4>Role: Project Manager & Team Member - <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a></h4>  
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Piloted PCI-DSS implementation, managing project planning, risk assessments, and gap analysis to secure payment card data.</li>
+                <li>Synchronized cross-functional teams, developed policies, and ensured compliance through testing and continuous monitoring.</li>
+                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
+                <li>Guided technical enforcement of security controls, including access control and vulnerability management, enhancing payment security and reducing risks.</li>
+            </ul>
+        </div>
+
+                <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3><a href="https://www.cirt.gov.bd/" target="_blank">Bangladesh (BGD) e-GOV CIRT</a></h3>
+            <h4>Role: Project Manager & Team Member - <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a></h4> 
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+                <li>Collaborated in establishing a Cybersecurity Research Wing, assisting with incident response policies, infrastructure setup, and partnerships with international CERTs to enhance e-government security.</li>
+                <li>Worked alongside in developing the National Cyber Security Strategy and Risk Assessment Framework, supporting efforts to strengthen cyber defenses and aiding implementation across government agencies.</li>
+                <li>Supported the setup of a Digital Forensic Lab, providing input on tools, assisting in investigator training, and ensuring compliance with legal requirements for cybercrime investigations.</li>
+                <li>Participated in Vulnerability Assessments for Bangladesh Bank, helping identify risks, recommending remediation actions, and offering security insights for system improvements.</li>
+                <li>Assisted in deploying Cyber Sensors in Critical Infrastructures, contributing to risk assessments and implementing monitoring systems to safeguard vital sectors from cyber threats.</li>
+            </ul>
+        </div>
         
+        <a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a>
 
     </div>
 </div>
