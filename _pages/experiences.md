@@ -234,11 +234,11 @@ author_profile: true
             <div class="section-header">Responsibilities</div>
             <p class="section-content">
                 <li>Optimized resource allocation and scaling strategies for microservice-based cloud applications, enhancing computational efficiency and overall system performance.</li>
-                <li>Designed and implemented a Kubernetes-based Resource Manager to dynamically orchestrate microservices, improving deployment scalability and operational resilience.</li>
+                <li>Designed and implemented a Kubernetes-based Resource Manager to orchestrate microservices, dynamically improving deployment scalability and operational resilience.</li>
                 <li>Identified and mitigated critical resource bottlenecks in microservices architecture, ensuring peak performance across distributed cloud environments.</li>
             </p>
             <div class="section-header">Contributions</div>
-            <p class="section-content">Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</p>
+            <p class="section-content"><li>Implemented proactive SLO violation detection to streamline CPU utilization, driving greater resource efficiency, reducing unnecessary CPU overhead, and saving costs.</li></p>
         </div>
 
         <!-- Role 2: Chief Information Security Officer (CISO) -->
