@@ -80,7 +80,7 @@ author_profile: true
         /* Bullet point formatting */
         ul {
             list-style: disc;
-            margin-left: 5px;
+            margin-left: 1px;
         }
 
         ul li {
