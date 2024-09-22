@@ -254,7 +254,7 @@ author_profile: true
 
         <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
         <div class="experience-card">
-            <h3>Real-Time Threat Detection & SIEM Integration Project</h3>
+            <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
             <div class="section-header">Particulars</div>
             <ul class="section-content">
@@ -266,7 +266,7 @@ author_profile: true
 
                 <!-- Role 2: Implementation of Extended Detection and Response (XDR) Tools -->
         <div class="experience-card">
-            <h3>Implementation of Extended Detection and Response (XDR) Tools</h3>
+            <h3>Real-Time Threat Detection & SIEM Integration Project</h3>
             <h4>Role: Project Manager - <a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a></h4> 
             <div class="section-header">Particulars</div>
             <ul class="section-content">
