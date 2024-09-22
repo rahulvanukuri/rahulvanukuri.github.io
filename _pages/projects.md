@@ -380,7 +380,7 @@ author_profile: true
 
         <!-- Role 4: National IT Security Consultant -->
         <div class="experience-card">
-            <h3>Airtel Bangladesh IT Operations and Security Support Initiativ</h3>
+            <h3>Airtel Bangladesh IT Operations and Security Support Initiative</h3>
             <h4>Role: Team Member - <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a></h4> 
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
