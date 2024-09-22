@@ -228,13 +228,13 @@ redirect_from:
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="https://www.uta.edu/academics/faculty/profile?username=islamm6">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
-                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a> & <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the "Big Four" accounting firms.</p>
+                <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="https://www.uta.edu/academics/faculty/profile?username=islamm6" target="_blank">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+                <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/" target="_blank">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a> & <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a>) funded by the <a href="https://www.worldbank.org/" target="_blank">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/" target="_blank">KPMG Bangladesh</a>, one of the "Big Four" accounting firms.</p>
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="#" class="cv-link">Download my resumé / CV</a>
+                    <a href="#" class="cv-link" target="_blank">Download my resumé / CV</a>
                 </div>
             </div>
         </div>
@@ -277,7 +277,7 @@ redirect_from:
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
                 <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
+                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
 
@@ -286,7 +286,7 @@ redirect_from:
             <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
             <div>
                 <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464">Bangladesh University of Professionals (BUP)</a></small></p>
+                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464" target="_blank">Bangladesh University of Professionals (BUP)</a></small></p>
             </div>
         </div>
 
@@ -295,7 +295,7 @@ redirect_from:
             <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php">University of Dhaka (DU)</a></small></p>
+                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">University of Dhaka (DU)</a></small></p>
             </div>
         </div>
 
@@ -304,7 +304,7 @@ redirect_from:
             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
             <div>
                 <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
+                <p>2011<br><small><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
             </div>
         </div>
     </div>
