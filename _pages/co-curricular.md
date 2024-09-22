@@ -102,7 +102,7 @@ author_profile: true
         }
 
         .certification-card h5 {
-            font-size: 18px; /* Font size for headings */
+            font-size: 14px; /* Font size for headings */
             font-weight: bold; /* Keeping the heading bold */
         }
 
@@ -182,7 +182,7 @@ author_profile: true
         }
 
         .education-card p {
-            font-size: 16px;
+            font-size: 14px;
             color: #333;
             margin: 0;
             text-align: justify; /* Ensuring the text is justified */
