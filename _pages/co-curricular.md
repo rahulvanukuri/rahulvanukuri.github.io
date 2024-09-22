@@ -243,8 +243,8 @@ author_profile: true
         <!-- Education Card 1 -->
         <div class="education-card">
             <div>
-                <span class="bullet"></span><h5 style="display: inline-block;">2024 Fall Leadership Retreat</h5>
-                <p>I improved my leadership abilities through the program hosted by the Follett Student Leadership Center, UTA. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus..<br></p>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524">2024 Fall Leadership Retreat</a></h5>
+                <p>I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
             </div>
         </div>
 
