@@ -301,6 +301,30 @@ author_profile: true
             </div>
         </div>       
     </div>
+
+        <!-- New Style for Education Section -->
+    <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Coaching</span>
+        </div>
+
+        <!-- Education Card 1 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
+                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+            </div>
+        </div>
+
+                <!-- Education Card 1 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.uta.edu/student-affairs/leadership/programs/team-certification-program" target="_blank" style="text-decoration: none; color: #1e3d8f;">Team Certification Program : 2023</a></h5>
+                <p style="margin-top: 8px;">I gained practical skills to strengthen team dynamics and leadership through the 4-week TEAM series, focusing on Trust, Encouragement, Accountability, and Motivation. This program helped me foster a collaborative, motivated, and accountable team environment, empowering individuals, enhancing communication, and driving collective success.<br></p>
+            </div>
+        </div>       
+    </div>
     
 
 <footer>
