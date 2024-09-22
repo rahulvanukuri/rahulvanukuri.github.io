@@ -243,7 +243,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;">CSE 1310. Introduction To Computers & Programming</h5>
-                <h5 style="display: inline-block;">Fall 2023</h5>
+                <p><h5 style="display: inline-block;">Fall 2023</h5></p>
                 <p>An introduction to the computer, algorithmic process, and programming using basic control and data structures, using a procedural language. Prerequisite: C<br>
                 </p>
             </div>
