@@ -66,15 +66,16 @@ author_profile: true
             text-align: justify; /* Justify the paragraph text */
         }
 
+        /* Darker links with no underline */
         .content a {
-            color: #1e3d8f;
-            text-decoration: none;
+            color: #333; /* Darker color */
+            text-decoration: none; /* No underline */
             font-weight: bold;
             transition: color 0.3s ease;
         }
 
         .content a:hover {
-            color: #003399;
+            color: #1e3d8f; /* Slight color change on hover */
         }
 
         /* Style for Biography and Interests (Unchanged) */
@@ -204,8 +205,8 @@ author_profile: true
         .cv-link-wrapper a {
             font-size: 18px;
             font-family: 'Georgia', serif;
-            color: #333;
-            text-decoration: none;
+            color: #333; /* Darker color for links */
+            text-decoration: none; /* No underline */
         }
 
         .cv-link-wrapper a:hover {
