@@ -5,13 +5,6 @@ permalink: /co-curricular/
 author_profile: true
 ---
 
----
-layout: archive
-title: ""
-permalink: /accreditations/
-author_profile: true
----
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
