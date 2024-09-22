@@ -277,6 +277,22 @@ author_profile: true
                 <!-- Education Card 1 -->
         <div class="education-card">
             <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://www.hackuta.org/" target="_blank" style="text-decoration: none; color: #1e3d8f;">Major League Hackathon : HackUTA</a></h5>
+                <p style="margin-top: 8px;">Attending HackUTA allowed me to collaborate on innovative projects, enhance my coding and teamwork skills, and network with industry professionals, all while gaining recognition for my abilities in a fast-paced environment.<br></p>
+            </div>
+        </div>
+
+    <!-- Education Card 1 -->
+        <div class="education-card">
+            <div>
+                <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://forms.office.com/pages/responsepage.aspx?id=Q1vcXL7XqkyBc3KeOwpi2fE2JhuQyUNDps_cdeXxHMpUMkQ0UFRETVIyUEczNDJZUUFFRk9IWkxMWC4u" target="_blank" style="text-decoration: none; color: #1e3d8f;">Programming Contest : 2024</a></h5>
+                <p style="margin-top: 8px;">Attending the programming contest sharpened my Python and C skills while fostering teamwork and problem-solving under time constraints, enhancing technical expertise and collaboration.<br></p>
+            </div>
+        </div>
+
+                <!-- Education Card 1 -->
+        <div class="education-card">
+            <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://events.uta.edu/event/global_grounds_4175" target="_blank" style="text-decoration: none; color: #1e3d8f;">Global Grounds</a></h5>
                 <p style="margin-top: 8px;">Attending Global Grounds at UTA allowed me to network with diverse students, broadening my cultural awareness and global perspective. Themed events like Diwali and Halloween enriched my understanding of traditions, while the relaxed setting fostered meaningful connections and cross-cultural dialogue, enhancing both personal growth and community engagement.<br></p>
             </div>
