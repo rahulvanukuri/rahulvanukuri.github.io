@@ -63,6 +63,7 @@ author_profile: true
             line-height: 1.8;
             color: #333;
             margin-bottom: 20px;
+            margin-top: 10px; /* Added this to add space between the title and paragraph */
             text-align: justify;
         }
 
@@ -245,7 +246,7 @@ author_profile: true
         <div class="education-card">
             <div>
                 <span class="bullet"></span><h5 style="display: inline-block;"><a href="https://secure.touchnet.net/C21611_ustores/web/product_detail.jsp?PRODUCTID=1524" target="_blank" style="text-decoration: none; color: #1e3d8f;">2024 Fall Leadership Retreat</a></h5>
-                <p>I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
+                <p style="margin-top: 8px;">I improved my leadership abilities through the program hosted by <a href="https://www.uta.edu/student-affairs/leadership" target="_blank" style="text-decoration: none; color: #1e3d8f;">The Follett Student Leadership Center, UTA</a>. The weekend's immersive workshops, team-building activities, and networking opportunities helped me uncover my strengths, build meaningful connections, and inspire positive change on campus.<br></p>
             </div>
         </div>
 
