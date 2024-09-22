@@ -290,14 +290,15 @@ author_profile: true
                 <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
                 <li>Demonstrated expertise in cyber threats, risk management, infrastructure development, and policy formulation, which is critical in advancing the nation's cybersecurity posture.</li>
                 <li>Contributed to building a resilient cybersecurity defense ecosystem for the Government of Bangladesh, enhancing technical capabilities and fostering security awareness across various sectors.</li>
-                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement, critical infrastructures, academia, and civil societies.</li>
+                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement agencies (LEAs), critical infrastructures, academia, and civil societies.</li>
                 <li>Supervised audit teams by creating detailed plans, guiding them through the process, and preparing blueprints for prevention, detection, correction, and deterrent controls for the 
 Government.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Architected robust cybersecurity solutions to protect data, counter emerging threats, and ensure compliance while proactively monitoring and reporting evolving security trends.</li>
-            </ul>
+                <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
+                <li>Orchestrated auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
+            </ul> 
         </div>
 
          <!-- Role 4: National IT Security Consultant -->
