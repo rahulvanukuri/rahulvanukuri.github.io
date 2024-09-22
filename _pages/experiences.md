@@ -69,7 +69,7 @@ author_profile: true
         }
 
         .content p, .content li {
-            font-size: 14px; /* Ensures consistent font size for all text */
+            font-size: 15.5px; /* Ensures consistent font size for all text */
             font-family: 'Georgia', serif; /* Ensure the same font family */
             line-height: 1.6;
             color: #333;
