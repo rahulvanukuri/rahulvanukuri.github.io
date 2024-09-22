@@ -321,7 +321,7 @@ author_profile: true
             <h3>Assistant Manager</h3>
             <h4><a href="https://kpmg.com/bd/en/home.html">KPMG Bangladesh</a> · Feb 2015 – Nov 2016</h4> 
             <h5>Dhaka, Bangladesh</h5>
-            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="Bangladesh Computer Council Logo">
+            <img src="https://i.pinimg.com/originals/fc/78/eb/fc78eb150f9c3c9e599de827bd30f764.png" alt="Bangladesh Computer Council Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
