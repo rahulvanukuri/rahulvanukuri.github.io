@@ -153,7 +153,7 @@ redirect_from:
 
         .education-card h5 {
             font-family: 'Georgia', serif;
-            font-size: 18px; /* Matching font size to Interests section */
+            font-size: 15px; /* Matching font size to Interests section */
             font-weight: bold;
             color: #333;
             margin: 0;
