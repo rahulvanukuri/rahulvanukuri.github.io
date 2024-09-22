@@ -202,7 +202,7 @@ author_profile: true
         </div>
 
         <div class="certification-card">
-            <img src="https://forresttraining.com.au/wp-content/uploads/2015/05/prince2-logo.png" alt="PRINCE2 Foundation Icon">
+            <img src="https://www.bluemorpholearning.com/wp-content/uploads/2024/02/40.png" alt="PRINCE2 Foundation Icon">
             <h6>PRINCE2 Foundation</h6>
         </div>
     </div>
