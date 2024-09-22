@@ -297,7 +297,7 @@ Government.</li>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
                 <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Orchestrated auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
+                <li>Organized auditing efforts for the <a href="https://ndc.bcc.gov.bd/">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>, and <a href="https://bdccl.gov.bd/">Tier IV National Data Center</a>, ensuring compliance with stringent security standards.</li>
             </ul> 
         </div>
 
@@ -319,7 +319,7 @@ Government.</li>
             <ul class="section-content">
                 <li>Secured PCI-DSS compliance, the gold standard for protecting sensitive client data, mitigating breaches, and safeguarding customers from financial and identity theft risks.</li>
                 <li>Instrumental in Eastern Bank PLC’s trailblazing PCI-DSS implementation, solidifying its position as a frontrunner in data security within Bangladesh’s banking sector.</li>
-                <li>Activated 24/7 cyber defenses using SIEM and SOAR systems, fending off major threats like ransomware and DDoS attacks, and protecting over USD 4 billion in assets.</li>
+                <li>Activated 24/7 cyber defenses using SIEM and SOAR systems, fending off major threats like ransomware and DDoS attacks and protecting over USD 4 billion in assets.</li>
             </ul>
         </div>
 
@@ -334,8 +334,10 @@ Government.</li>
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Implemented automated security monitoring systems.</li>
-                <li>Developed company-wide cybersecurity awareness training programs.</li>
+                <li>Orhestrated project execution, preparing RFPs and technical proposals for security audits, and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
+                <li>Coordinated as a critical liaison between IT and business units, managing SLAs, resolving security-related breaches, and driving service improvements.</li>
+                <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks, while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
+                
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
@@ -370,8 +372,8 @@ Government.</li>
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
-                <li>Orchestrated security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
-                <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning, while maintaining detailed documentation for optimization.</li>
+                <li>Oversaw security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
+                <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning while maintaining detailed documentation for optimization.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
