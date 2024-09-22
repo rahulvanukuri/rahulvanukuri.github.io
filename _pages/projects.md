@@ -304,6 +304,22 @@ author_profile: true
         </div>
 
         <!-- Additional roles omitted for brevity -->
+ 
+
+                <!-- Role 4: National IT Security Consultant -->
+        <div class="experience-card">
+            <h3>National IT Security Consultant</h3>
+            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a></h4> 
+            <div class="section-header">Particulars</div>
+            <ul class="section-content">
+                <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
+                <li>        Contributed to IT and cybersecurity audits for <a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, validating 99.995% SLA uptime, safeguarding 2 Petabytes of cloud storage, and assessing security equipment to enhance national data resilience through multi-layered defense and redundancy systems.</li>
+                <li>Contributed to building a resilient cybersecurity defense ecosystem for the Government of Bangladesh, enhancing technical capabilities and fostering security awareness across various sectors.</li>
+                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement agencies (LEAs), critical infrastructures, academia, and civil societies.</li>
+            </ul>
+        </div>
+
+        
 
     </div>
 </div>
