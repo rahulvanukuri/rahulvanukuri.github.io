@@ -256,7 +256,9 @@ author_profile: true
             </p>
             <div class="section-header">Contributions</div>
             <p class="section-content">
-                <li>Introduced early SLO violation detection mechanisms to minimize CPU usage, ensuring more efficient resource management and preventing waste.</li>            
+                <li>Directed deploying advanced Ransomware prevention and Extended Detection and Response (XDR) systems, ensuring stakeholders can operate seamlessly while protecting the bank’s reputation and business continuity.</li>     
+                <li>Augmented cybersecurity protocols across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets,457 Small and Medium Enterprises (SME) outlets, safeguarding operations from evolving threats and ensuring uninterrupted service.</li>
+                <li>Strengthened BRAC Bank’s position as a member of the Global Alliance for Banking on Values (GABV), aligning with global standards in secure and sustainable banking, reinforcing its leadership in the financial industry.</li>
             </p>
         </div>
 
