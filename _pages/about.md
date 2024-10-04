@@ -9,7 +9,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohammad Shahedur Rahman</title>
+    <title>Rahul Vanukuri</title>
     <style>
         /* General Body Style */
         body {
@@ -164,9 +164,9 @@ redirect_from:
 <div class="content">
     <!-- Biography Section -->
     <h2>Biography</h2>
-    <p>I’m a Ph.D. student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Mohammad Atiqul Islam</a> serves as my doctoral advisor. My research focuses on high-performance computing, cybersecurity, machine learning, and resource autoscaling in cloud computing environments.</p>
+    <p>I’m a Master student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Debashri Roy</a> serves as my advisor. My research focuses on Large Language Models, Communication Signals, machine learning, and transformer models as well as generative models.</p>
     
-    <p>Before starting my Ph.D., I accrued over 12 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
+    <p>Before starting my masters, I accrued over 1 years of professional experience in Bangladesh in numerous critical roles, including Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/">BRAC Bank PLC</a> and IT auditor and security expert for several Bangladesh Government projects (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/">World Bank</a>. Additionally, I gained significant expertise in cybersecurity, risk management, and IT auditing through my work with <a href="https://www.ibm.com/us-en/">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
     
     <a href="#" class="cv-link">Download my resumé / CV</a>
 
