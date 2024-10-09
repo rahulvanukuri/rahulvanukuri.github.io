@@ -190,7 +190,7 @@ redirect_from:
         <div class="certification-card">
             <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Graduation Cap">
             <div>
-                <h4>PhD in Computer Science and Engineering</h4>
+                <h4>Masters in Computer Science and Engineering</h4>
                 <p>August 2028 (Expected)<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
