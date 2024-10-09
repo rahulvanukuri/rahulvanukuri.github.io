@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Shahedur Rahman"
+  name             : "Rahul Vanukuri"
   avatar           : "My Picture.JPG"
-  bio              : "Ph.D. Student in Department of Computer Science at The University of Texas at Arlington"
+  bio              : "Masters Student in Department of Computer Science at The University of Texas at Arlington"
   location         : "Arlington, Texas"
   employer         :
   pubmed           : 
   googlescholar    : ""
-  email            : "mxr7980@mavs.uta.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "rxv6501@mavs.uta.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mdshahedrahman"
+  github           : "rahulvanukuri"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "m-shahed/"
+  linkedin         : "rahulvanukuri/"
   orcid            : 
   pinterest        :
   soundcloud       :
