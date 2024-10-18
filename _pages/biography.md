@@ -244,23 +244,21 @@ redirect_from:
     <div class="certification-layout">
         <!-- Interests Section Separator -->
         <div class="separator">Interests</div>
-        <!-- Interests Card 1 -->
+        <!-- Interests Card 1 --!>
         <div class="certification-card">
             <div>
-                <li>Cloud Computing</li>
-                <li>High Performance Computing (HPC)</li>
-                <li>Microservices</li> 
-                <li>HPC in the Cloud</li>
+                <li>Machine Learning</li>
+                <li>Distributed Systems</li>
+                <li>Large Language models</li> 
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>Project Management</li> 
-                <li>Information and Cyber Security</li> 
-                <li>Governance, Risk & Compliance (GRC)</li>
-                <li>IT Audit</li>
+                <li>React js</li> 
+                <li>Django</li> 
+                <li>Diffusion models & transformers</li>
             </div>
         </div>
     </div>
@@ -276,42 +274,24 @@ redirect_from:
         <div class="education-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
             <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
+                <h5>Masters in Computer Science and Engineering </h5>
+                <p>Expected - 2025<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
             </div>
         </div>
+
 
         <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
+            <img src="https://www.cbit.org.in/" alt="UnderGraduation Cap">
             <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464" target="_blank">Bangladesh University of Professionals (BUP)</a></small></p>
+                <h5>Undergraduate in Information Technology</h5>
+                <p>2023<br><small><a href="https://www.cbit.org.in/departments/information-technology/about" target="_blank">Chaitanya Bharathi Institute of Technology</a></small></p>
             </div>
         </div>
 
-        <!-- Education Card 3 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
-            <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">University of Dhaka (DU)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 4 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
-            <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <footer>
-    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
+    © 2024 by Rahul Vanukuri. All rights reserved.
 </footer>
 
 </body>
