@@ -229,7 +229,7 @@ redirect_from:
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
                 <p>I’m a Masters student in the Computer Science department at The University of Texas at Arlington, where <a href="https://www.uta.edu/academics/faculty/profile?username=royd3" target="_blank">Dr. Debshri Roy</a> is my doctoral advisor. My research focuses on Large language Models, Communication Signal analysis, machine learning, and spectograms and different Generative AI models.</p>
-               <p> Before starting my masters, I accrued over 1 years of professional experience in India in numerous critical roles, including Data Engineer at <a href="https://eessqadv.adp.com/eess/default.htm">ADP</a> and Analyst  at Deliotte. Additionally, I gained significant expertise in React js and Django, Machine Learning , and Large language models through my work with <a href="https://www.ibm.com/us-en/">Twist Lab and ciruculum</a> and <a href="https://www2.deloitte.com/in/en.html">Deloitte</a>, one of the Big Four accounting firms.</p>
+               <p> Before starting my masters, I accrued over 1 years of professional experience in India in numerous critical roles, including Data Engineer at <a href="https://eessqadv.adp.com/eess/default.htm">ADP</a> and Analyst  at Deliotte. Additionally, I gained significant expertise in React js and Django, Machine Learning , and Large language models through my work with <a href="https://websites.uta.edu/twistlab/team/">Twist Lab and ciruculum</a> and <a href="https://www2.deloitte.com/in/en.html">Deloitte</a>, one of the Big Four accounting firms.</p>
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
