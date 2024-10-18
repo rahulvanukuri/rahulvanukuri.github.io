@@ -282,7 +282,7 @@ redirect_from:
 
         <!-- Education Card 2 -->
         <div class="education-card">
-            <img src="https://www.cbit.ac.in/wp-content/uploads/2023/04/CBIT-LOGO-2023.png" alt="UnderGraduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Chaitanya_Bharathi_Institute_of_Technology_logo.png" alt="UnderGraduation Cap">
             <div>
                 <h5>Undergraduate in Information Technology</h5>
                 <p>2023<br><small><a href="https://www.cbit.org.in/departments/information-technology/about" target="_blank">Chaitanya Bharathi Institute of Technology</a></small></p>
